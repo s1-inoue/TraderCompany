@@ -4,7 +4,7 @@ from typing import List, Tuple
 import numpy as np
 import pandas as pd
 
-from .utils.config import stocklist, ub_delay, ub_terms
+from .utils import stocklist, ub_delay, ub_terms
 from .utils.funcs import Activations, binaryOps
 from .factor import Factor, construct
 

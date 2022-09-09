@@ -2,7 +2,7 @@ from typing import Callable
 
 import numpy as np
 
-from .utils.config import ub_delay
+from .utils import ub_delay
 from .utils.selector import (_construct_activation, _construct_binaryOp,
                              _construct_stock, indexify_activation,
                              indexify_binaryOp, indexify_stock)

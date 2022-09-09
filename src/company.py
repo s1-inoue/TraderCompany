@@ -9,7 +9,7 @@ from tqdm import tqdm
 
 from .factor import construct
 from .trader import Trader
-from .utils.config import ub_delay, ub_stock, ub_terms
+from .utils import ub_delay, ub_stock, ub_terms
 from .utils.selector import discretize
 from .utils.logs import main_logger
 

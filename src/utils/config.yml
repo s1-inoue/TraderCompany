@@ -1,0 +1,33 @@
+lag: 1
+ub_stock: 2
+ub_delay: 10
+ub_terms: 10
+
+uselist: W
+whitelist:
+    stocks:
+        - INDEX
+        - AAPL
+        - BAC
+        - TSLA
+        - AMZN
+        - GOOGL
+        - GOOG
+        - F
+        - NVDA
+        - AMD
+        - T
+        - MSFT
+        - INTC
+        - PFE
+        - CSCO
+        - META
+        - MU
+        - C
+        - WFC
+        - CMCSA
+        - HPQ
+blacklist:
+    stocks:
+
+
