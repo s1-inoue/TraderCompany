@@ -161,8 +161,8 @@ class Trader:
         optimal = np.linalg.lstsq(
             self.matrix, self.true_returns, rcond=None)[0]
 
-        #calibrated = np.clip(optimal, -1, 1)
-        calibrated = optimal
+        calibrated = np.clip(optimal, -1, 1)
+        # calibrated = optimal
         if np.array_equal(calibrated, optimal) is False:
             self.logger.warning(
                 f"Trader factor weigts clipped, {min(optimal)}, {max(optimal)}")

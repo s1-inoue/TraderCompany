@@ -34,5 +34,5 @@ whitelist:
         - HPQ
 blacklist:
     stocks:
-
+        - 
 

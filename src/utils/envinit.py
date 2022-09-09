@@ -46,7 +46,7 @@ def convert(df, symbol):
 
 
 stks = stocks.groupby("Symbol").mean()["Volume"].sort_values(
-    ascending=False).head(20).index
+    ascending=False).head(25).index
 for stk in stks:
     convert(stocks, stk)
 

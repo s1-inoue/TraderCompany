@@ -15,7 +15,7 @@ pmax = yml["pmax"]
 
 if yml["uselist"] == "W":
     stocklist = yml["whitelist"]["stocks"]
-elif yml["blacklist"] == "B":
+elif yml["uselist"] == "B":
     import pandas as pd
     stocklist = pd.read_csv("./input/pseudodata.csv").columns
     stocklist = list(set(stocklist) - set(yml["blacklist"]["stocks"]))
