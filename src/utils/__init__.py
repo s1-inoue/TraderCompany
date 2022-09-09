@@ -7,6 +7,11 @@ ub_stock = yml["ub_stock"]
 ub_delay = yml["ub_delay"]
 ub_terms = yml["ub_terms"]
 lag = yml["lag"]
+window = yml["window"]
+eval_window = yml["eval_window"]
+Ntraders = yml["Ntraders"]
+q = yml["q"]
+pmax = yml["pmax"]
 
 if yml["uselist"] == "W":
     stocklist = yml["whitelist"]["stocks"]

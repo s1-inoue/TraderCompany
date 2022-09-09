@@ -1,31 +1,37 @@
+from configparser import NoOptionError
 import datetime
+import logging
+from tkinter.messagebox import NO
 from typing import List, Tuple
 
 import numpy as np
 import pandas as pd
 
-from .utils import stocklist, ub_delay, ub_terms
-from .utils.funcs import Activations, binaryOps
 from .factor import Factor, construct
+from .utils import (eval_window, lag, pmax, stocklist, ub_delay, ub_terms,
+                    window)
+from .utils.funcs import Activations, binaryOps
 
 
 class Trader:
     def __init__(
         self,
         factors: List[Factor] = [],
-        weights: List[float] = []
+        weights: List[float] = [],
+        logger: logging.Logger = None
     ) -> None:
         self.n = -1
         self.factors = factors
         self.weights = weights
         self.life = -1
-        self.window = 10
-        self.lag = 1  # execution lag
-        self.window = 10  # required number of rows for prediction
-        self.eval_window = 100  # required number of rows for trader evaluation
+        self.lag = lag  # execution lag
+        self.window = window  # required number of rows for prediction
+        self.eval_window = eval_window  # required number of rows for trader evaluation
         self.target = "INDEX"
-        self.pmax = 1
+        self.pmax = pmax
         self.interval = pd.Timedelta(days=1)
+        self.logger = logger
+        assert(logger is not None)
 
         # a trader's history
         # (time window)
@@ -61,8 +67,7 @@ class Trader:
             time1 = timefront - self.interval * factor.delay1
             time2 = timefront - self.interval * factor.delay2
             if (time1 not in data.index) or (time2 not in data.index):
-                print(
-                    f"Market Closed... {cnt}/{len(self.factors)}. delay {factor.delay1} {factor.delay2}")  # noqa: E501
+                self.logger.error(f"Market Closed, {cnt}/{len(self.factors)}. delay {factor.delay1} {factor.delay2}")  # noqa: E501
                 cnt += 1
                 contribution = 0
             else:
@@ -98,8 +103,6 @@ class Trader:
         register=True
     ) -> float:
         # calculate cumulative return
-        # TODO: 修正
-        # 下のやつだめでは？
         # Do not use future data for performance calculation
         # data[t-(eval+lag+window):t+pmax]
         # C[t] = \sum sign[t] * r[t]. for t
@@ -157,8 +160,13 @@ class Trader:
         assert(self.matrix.shape[0] == self.true_returns.shape[0])
         optimal = np.linalg.lstsq(
             self.matrix, self.true_returns, rcond=None)[0]
-        optimal = np.clip(optimal, -1, 1)
-        self.weights = optimal
+
+        #calibrated = np.clip(optimal, -1, 1)
+        calibrated = optimal
+        if np.array_equal(calibrated, optimal) is False:
+            self.logger.warning(
+                f"Trader factor weigts clipped, {min(optimal)}, {max(optimal)}")
+        self.weights = calibrated
         return
 
     def reset(self, factors: List[Factor]):

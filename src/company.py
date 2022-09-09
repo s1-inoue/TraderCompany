@@ -1,5 +1,6 @@
 import datetime
-from typing import List
+import logging
+from typing import Final, List
 
 import joblib
 import numpy as np
@@ -9,34 +10,35 @@ from tqdm import tqdm
 
 from .factor import construct
 from .trader import Trader
-from .utils import ub_delay, ub_stock, ub_terms
+from .utils import (Ntraders, eval_window, lag, pmax, q, ub_delay, ub_stock,
+                    ub_terms, window)
 from .utils.selector import discretize
-from .utils.logs import main_logger
 
 
 class Company:
     def __init__(
         self,
         traders: List[Trader],
-        weights: np.ndarray
+        weights: np.ndarray,
+        logger: logging.Logger
     ) -> None:
         # variables
         self.clock: datetime.datetime
         self.traders = traders
         self.weights = weights
         self.history = []
-        self.logger = main_logger
+        self.logger = logger
 
         # hyper parameters
-        self.q = 0.5
-        self.lag = 0
-        self.window = 10
-        self.eval_window = 100
-        self.Ntraders = 100
-        self.ub_delay = ub_delay
-        self.ub_stock = ub_stock
-        self.ub_terms = ub_terms
-        self.pmax = 1  # prediction target time ahead of t+p
+        self.Ntraders: Final = Ntraders
+        self.q: Final = q
+        self.lag: Final = lag
+        self.window: Final = window
+        self.eval_window: Final = eval_window
+        self.ub_delay: Final = ub_delay
+        self.ub_stock: Final = ub_stock
+        self.ub_terms: Final = ub_terms
+        self.pmax: Final = pmax  # prediction target time ahead of t+p
 
     def train(
         self,
@@ -48,6 +50,7 @@ class Company:
 
         Nepoches = (end - start) // interval
         for epoch in tqdm(range(Nepoches)):
+            self.logger.info(f"Epoch {epoch} start")
             curtime = start + interval * epoch
             data = df.loc[
                 (df.index >= (curtime - interval * (self.lag + self.window + self.eval_window + self.pmax + 1))) &  # noqa E501
@@ -56,7 +59,8 @@ class Company:
             self.train_step(data, curtime)
             # debug
             self.history[-1][2] = df.loc[df.index == (curtime+interval*self.pmax)]["INDEX"].values[0]  # noqa: E501
-            print(self.history[-1])
+            self.logger.info(self.history[-1])
+            self.logger.info(f"Epoch {epoch} finished")
             print(self)
 
     def train_step(
@@ -112,6 +116,8 @@ class Company:
                         fak_samples.append(fak)
                     else:
                         reset_idx.append(idx)
+
+            self.logger.warning(f"{curtime} Fired {len(reset_idx)} traders in replenish algorithm")  # noqa: E501
 
             N_samples = np.array(N_samples)
             fak_samples = np.vstack(fak_samples)

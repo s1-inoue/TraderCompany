@@ -1,4 +1,3 @@
-from cgitb import handler
 import logging
 import datetime
 
@@ -7,9 +6,9 @@ def get_mainlogger() -> logging.Logger:
     logger = logging.getLogger(__name__)
     logger.setLevel(logging.DEBUG)
 
-    today = datetime.date.today()
+    dt = datetime.datetime.now().strftime("%Y-%m-%d-%H-%M-%S")
 
-    handler1 = logging.FileHandler(f"./logs/{today}.log")
+    handler1 = logging.FileHandler(f"./logs/{dt}.log")
     handler1.setLevel(logging.DEBUG)
 
     fmt = logging.Formatter(
@@ -18,7 +17,6 @@ def get_mainlogger() -> logging.Logger:
     handler1.setFormatter(fmt)
 
     logger.addHandler(handler1)
-    logger.info("Logging start")
     return logger
 
 
