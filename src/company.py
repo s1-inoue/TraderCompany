@@ -11,7 +11,7 @@ from tqdm import tqdm
 from .factor import construct
 from .trader import Trader
 from .utils import (Ntraders, eval_window, lag, pmax, q, ub_delay, ub_stock,
-                    ub_terms, window)
+                    ub_terms, window, target)
 from .utils.selector import discretize
 
 
@@ -36,9 +36,9 @@ class Company:
         self.window: Final = window
         self.eval_window: Final = eval_window
         self.ub_delay: Final = ub_delay
-        self.ub_stock: Final = ub_stock
         self.ub_terms: Final = ub_terms
         self.pmax: Final = pmax  # prediction target time ahead of t+p
+        self.target: Final = target
 
     def train(
         self,
@@ -58,7 +58,7 @@ class Company:
             ]
             self.train_step(data, curtime)
             # debug
-            self.history[-1][2] = df.loc[df.index == (curtime+interval*self.pmax)]["INDEX"].values[0]  # noqa: E501
+            self.history[-1][2] = df.loc[df.index == (curtime+interval*self.pmax)][self.target].values[0]  # noqa: E501
             self.logger.info(self.history[-1])
             self.logger.info(f"Epoch {epoch} finished")
             print(self)
@@ -74,7 +74,7 @@ class Company:
         # update clock
         self.clock = curtime
         # 1. Calculate Each traders' performances
-        results = joblib.Parallel(n_jobs=6)(
+        results = joblib.Parallel(n_jobs=3)(
             joblib.delayed(self.traders[idx].calc_cuml_perfs)(data, curtime)
             for idx in range(len(self.traders))
         )
@@ -186,6 +186,9 @@ class Company:
         P = 0
         for weight, pred in zip(self.weights, predictions):
             P += weight * pred
+        calib = np.clip(P, -1, 1)
+        if P != calib:
+            self.logger.warning(f"company output clipped, {P}")
         return P
 
     def __repr__(self) -> str:

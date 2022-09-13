@@ -1,7 +1,5 @@
-from configparser import NoOptionError
 import datetime
 import logging
-from tkinter.messagebox import NO
 from typing import List, Tuple
 
 import numpy as np
@@ -9,7 +7,7 @@ import pandas as pd
 
 from .factor import Factor, construct
 from .utils import (eval_window, lag, pmax, stocklist, ub_delay, ub_terms,
-                    window)
+                    window, target, interval)
 from .utils.funcs import Activations, binaryOps
 
 
@@ -27,9 +25,9 @@ class Trader:
         self.lag = lag  # execution lag
         self.window = window  # required number of rows for prediction
         self.eval_window = eval_window  # required number of rows for trader evaluation
-        self.target = "INDEX"
+        self.target = target
         self.pmax = pmax
-        self.interval = pd.Timedelta(days=1)
+        self.interval = interval
         self.logger = logger
         assert(logger is not None)
 

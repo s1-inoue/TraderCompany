@@ -6,28 +6,6 @@ import pandas as pd
 stocks = pd.read_csv("./input/sp500_stocks.csv")
 
 
-# GOOGL
-# AAPL
-# stock1 = stocks[stocks[""]]
-stock1 = stocks[stocks["Symbol"] == "GOOGL"].dropna(subset=["Close"])
-stock2 = stocks[stocks["Symbol"] == "AAPL"].dropna(subset=["Close"])
-dates = pd.merge(stock1[["Date"]], stock2[["Date"]])["Date"]
-
-
-stock1 = stock1[stock1["Date"].isin(dates)]
-stock1["LogReturn"] = np.log(stock1["Close"] / stock1["Close"].shift(+1))
-name = stock1["Symbol"].unique()[0]
-stock1[["Date", "Symbol", "LogReturn"]].dropna().to_csv(
-    f"./input/stocks/{name}.csv", index=False)
-
-
-stock2 = stock2[stock2["Date"].isin(dates)]
-stock2["LogReturn"] = np.log(stock2["Close"] / stock2["Close"].shift(+1))
-name = stock2["Symbol"].unique()[0]
-stock2[["Date", "Symbol", "LogReturn"]].dropna().to_csv(
-    f"./input/stocks/{name}.csv", index=False)
-
-
 df = pd.read_csv("./input/sp500_index.csv")
 df = df[df["Date"].isin(dates)]
 df["LogReturn"] = np.log(df["S&P500"] / df["S&P500"].shift(+1))

@@ -1,0 +1,1634 @@
+INFO, 2022-09-13 22:26:14,270, company, train, Epoch 0 start
+WARNING, 2022-09-13 22:26:34,013, trader, refit, Trader factor weigts clipped, -0.311223218056059, 3.890847373153963
+WARNING, 2022-09-13 22:26:37,540, trader, refit, Trader factor weigts clipped, -8.154851628453143, 0.0002049330251995165
+WARNING, 2022-09-13 22:26:49,452, company, train_step, 2022-05-01 00:00:00 Fired 81 traders in replenish algorithm
+WARNING, 2022-09-13 22:26:51,822, trader, refit, Trader factor weigts clipped, -0.002023039070103544, 1.0975067450871667
+WARNING, 2022-09-13 22:26:53,852, trader, refit, Trader factor weigts clipped, -4.097389703361434, 0.2158561069618374
+WARNING, 2022-09-13 22:26:56,517, trader, refit, Trader factor weigts clipped, -51.93230896449934, 0.002891382445963859
+WARNING, 2022-09-13 22:26:59,243, trader, refit, Trader factor weigts clipped, -219.55915242683653, 219.6742733250113
+WARNING, 2022-09-13 22:27:02,609, trader, refit, Trader factor weigts clipped, -0.24159845105217856, 10.554983795581121
+WARNING, 2022-09-13 22:27:04,630, trader, refit, Trader factor weigts clipped, -2.1379726124563514, 2.1372963930676097
+WARNING, 2022-09-13 22:27:05,408, trader, refit, Trader factor weigts clipped, -1.2223328561387723, 0.20981442089940647
+WARNING, 2022-09-13 22:27:14,751, trader, refit, Trader factor weigts clipped, -1.850911584690894, 0.03437391700375782
+WARNING, 2022-09-13 22:27:21,789, trader, refit, Trader factor weigts clipped, -0.0014010296832995981, 16.218181769367867
+WARNING, 2022-09-13 22:27:22,214, trader, refit, Trader factor weigts clipped, -61.787501361085404, 0.0009436773065855409
+WARNING, 2022-09-13 22:27:22,955, trader, refit, Trader factor weigts clipped, -607.4545273987509, 607.4526389363635
+INFO, 2022-09-13 22:27:22,960, company, aggr_update, 2022-05-01 00:00:00: Company Weights, -4.864190670610041, 7.841716599468096
+INFO, 2022-09-13 22:27:23,075, company, train, [Timestamp('2022-05-01 00:00:00'), 9.3480289687864, -6.472634082287867e-05]
+INFO, 2022-09-13 22:27:23,075, company, train, Epoch 0 finished
+INFO, 2022-09-13 22:27:23,147, company, train, Epoch 1 start
+WARNING, 2022-09-13 22:27:43,198, trader, refit, Trader factor weigts clipped, -225.6732270536431, 225.79063089679428
+WARNING, 2022-09-13 22:27:45,490, trader, refit, Trader factor weigts clipped, -0.23752608392879326, 11.158181762098456
+WARNING, 2022-09-13 22:27:52,756, trader, refit, Trader factor weigts clipped, -0.03166550510929968, 1.1576585523864626
+WARNING, 2022-09-13 22:27:56,276, trader, refit, Trader factor weigts clipped, -58.71514951864608, 0.0011663738754633642
+WARNING, 2022-09-13 22:27:56,968, trader, refit, Trader factor weigts clipped, -633.9157496691696, 633.9139418418633
+WARNING, 2022-09-13 22:27:57,357, company, train_step, 2022-05-01 00:15:00 Fired 55 traders in replenish algorithm
+WARNING, 2022-09-13 22:27:58,610, trader, refit, Trader factor weigts clipped, -0.2586131812584347, 1.848449149346763
+WARNING, 2022-09-13 22:28:02,891, trader, refit, Trader factor weigts clipped, -1.5161259172528008, 0.42890478367501356
+WARNING, 2022-09-13 22:28:09,033, trader, refit, Trader factor weigts clipped, -1.0872444306282698, 1.0869941638390617
+WARNING, 2022-09-13 22:28:12,587, trader, refit, Trader factor weigts clipped, -0.0010387346918775294, 16.016038291230426
+WARNING, 2022-09-13 22:28:15,560, trader, refit, Trader factor weigts clipped, -134.06694213258365, 0.00036900046517431516
+INFO, 2022-09-13 22:28:18,487, company, aggr_update, 2022-05-01 00:15:00: Company Weights, -13.10464617678184, 8.633139666166388
+INFO, 2022-09-13 22:28:18,593, company, train, [Timestamp('2022-05-01 00:15:00'), 0.6696549140617387, 0.001080873887754]
+INFO, 2022-09-13 22:28:18,593, company, train, Epoch 1 finished
+INFO, 2022-09-13 22:28:18,619, company, train, Epoch 2 start
+WARNING, 2022-09-13 22:28:32,093, trader, refit, Trader factor weigts clipped, -0.25864963092414, 1.850787229049849
+WARNING, 2022-09-13 22:28:34,859, trader, refit, Trader factor weigts clipped, -54.595354107973805, 0.0006707091252700693
+WARNING, 2022-09-13 22:28:35,606, trader, refit, Trader factor weigts clipped, -1.5255696045773703, 0.4131016813985759
+WARNING, 2022-09-13 22:28:43,126, trader, refit, Trader factor weigts clipped, -0.0010412695121980627, 16.127387422484095
+WARNING, 2022-09-13 22:28:45,622, trader, refit, Trader factor weigts clipped, -144.0186626979989, 0.00037041735872217366
+WARNING, 2022-09-13 22:28:48,127, trader, refit, Trader factor weigts clipped, -0.0013414742001609642, 12.718780193585056
+WARNING, 2022-09-13 22:28:49,174, company, train_step, 2022-05-01 00:30:00 Fired 53 traders in replenish algorithm
+WARNING, 2022-09-13 22:28:54,794, trader, refit, Trader factor weigts clipped, -4.061234518604447, 0.17358118719555293
+WARNING, 2022-09-13 22:28:57,425, trader, refit, Trader factor weigts clipped, -2.218482625575851, 0.2032343977120899
+WARNING, 2022-09-13 22:29:00,693, trader, refit, Trader factor weigts clipped, -0.0006410337345889269, 23.28987429916019
+WARNING, 2022-09-13 22:29:05,714, trader, refit, Trader factor weigts clipped, -5.60631145539609, 0.02124770734566342
+INFO, 2022-09-13 22:29:08,741, company, aggr_update, 2022-05-01 00:30:00: Company Weights, -15.26861211141006, 4.861737771392068
+INFO, 2022-09-13 22:29:08,847, company, train, [Timestamp('2022-05-01 00:30:00'), -8.904765856904875, 0.0024027213654633]
+INFO, 2022-09-13 22:29:08,847, company, train, Epoch 2 finished
+INFO, 2022-09-13 22:29:08,872, company, train, Epoch 3 start
+WARNING, 2022-09-13 22:29:26,572, trader, refit, Trader factor weigts clipped, -4.084354755512224, 0.18783031943367742
+WARNING, 2022-09-13 22:29:29,409, trader, refit, Trader factor weigts clipped, -2.1270956528712355, 0.20987254637955255
+WARNING, 2022-09-13 22:29:36,037, trader, refit, Trader factor weigts clipped, -5.603701642229816, 0.014727610137712191
+WARNING, 2022-09-13 22:29:39,771, company, train_step, 2022-05-01 00:45:00 Fired 50 traders in replenish algorithm
+WARNING, 2022-09-13 22:29:41,975, trader, refit, Trader factor weigts clipped, -0.002808386421202758, 11.264531203996507
+WARNING, 2022-09-13 22:29:53,216, trader, refit, Trader factor weigts clipped, -20.0764069720238, 20.088234685099348
+WARNING, 2022-09-13 22:29:54,943, trader, refit, Trader factor weigts clipped, -1.3838178470334497, 0.00012784590353013024
+INFO, 2022-09-13 22:29:58,465, company, aggr_update, 2022-05-01 00:45:00: Company Weights, -14.712081019194896, 10.106189809657698
+INFO, 2022-09-13 22:29:58,576, company, train, [Timestamp('2022-05-01 00:45:00'), -3.2401164302989125, 0.0006682061095878]
+INFO, 2022-09-13 22:29:58,576, company, train, Epoch 3 finished
+INFO, 2022-09-13 22:29:58,604, company, train, Epoch 4 start
+WARNING, 2022-09-13 22:30:13,003, trader, refit, Trader factor weigts clipped, -0.004331039162143928, 11.279484340226977
+WARNING, 2022-09-13 22:30:25,279, trader, refit, Trader factor weigts clipped, -22.281360275696297, 22.29211827836901
+WARNING, 2022-09-13 22:30:30,484, company, train_step, 2022-05-01 01:00:00 Fired 50 traders in replenish algorithm
+WARNING, 2022-09-13 22:30:32,604, trader, refit, Trader factor weigts clipped, -154.1249460984535, 0.08190440505678964
+WARNING, 2022-09-13 22:30:36,077, trader, refit, Trader factor weigts clipped, -4.63638286835387, 54.31801979728808
+WARNING, 2022-09-13 22:30:41,419, trader, refit, Trader factor weigts clipped, -86.0621948500388, 0.12454175899797257
+WARNING, 2022-09-13 22:30:44,016, trader, refit, Trader factor weigts clipped, -0.000595532367740949, 46.17324538547219
+WARNING, 2022-09-13 22:30:44,425, trader, refit, Trader factor weigts clipped, -5.240409127110748, 0.09133793460452147
+WARNING, 2022-09-13 22:30:46,551, trader, refit, Trader factor weigts clipped, -0.0008306408802184338, 1.122469775730252
+WARNING, 2022-09-13 22:30:47,294, trader, refit, Trader factor weigts clipped, -1.0659100408629223, 0.0002504024149956423
+WARNING, 2022-09-13 22:30:48,819, trader, refit, Trader factor weigts clipped, -3.4255557141707795, 0.0001787514936627759
+WARNING, 2022-09-13 22:30:49,691, trader, refit, Trader factor weigts clipped, -0.001690488790647519, 1.9855515947821818
+WARNING, 2022-09-13 22:30:50,468, trader, refit, Trader factor weigts clipped, -1.0938449691846388, 0.0008789914868674394
+INFO, 2022-09-13 22:30:50,473, company, aggr_update, 2022-05-01 01:00:00: Company Weights, -5.4393212015428265, 9.398035037191224
+INFO, 2022-09-13 22:30:50,596, company, train, [Timestamp('2022-05-01 01:00:00'), -0.0015681001949587193, -0.0033538236767499]
+INFO, 2022-09-13 22:30:50,596, company, train, Epoch 4 finished
+INFO, 2022-09-13 22:30:50,623, company, train, Epoch 5 start
+WARNING, 2022-09-13 22:31:06,354, trader, refit, Trader factor weigts clipped, -1.0063394695631491, 1.0089181834888628
+WARNING, 2022-09-13 22:31:07,128, trader, refit, Trader factor weigts clipped, -294.8969595279547, 0.18916267633493078
+WARNING, 2022-09-13 22:31:09,479, trader, refit, Trader factor weigts clipped, -4.6095194437389715, 56.237482655576606
+WARNING, 2022-09-13 22:31:16,969, trader, refit, Trader factor weigts clipped, -26.779081058616452, 0.11990636883201802
+WARNING, 2022-09-13 22:31:20,836, trader, refit, Trader factor weigts clipped, -1.0669765658715957, 0.0002877887301203433
+WARNING, 2022-09-13 22:31:22,055, trader, refit, Trader factor weigts clipped, -2.6277267837819753, 0.0002862550664823856
+WARNING, 2022-09-13 22:31:22,415, trader, refit, Trader factor weigts clipped, -0.001653953301938287, 1.9642279198526102
+WARNING, 2022-09-13 22:31:22,807, trader, refit, Trader factor weigts clipped, -46.48580842894141, 0.0011638680608249193
+WARNING, 2022-09-13 22:31:23,521, trader, refit, Trader factor weigts clipped, -1.0648248105936098, 0.0008441257095107695
+WARNING, 2022-09-13 22:31:23,953, company, train_step, 2022-05-01 01:15:00 Fired 50 traders in replenish algorithm
+WARNING, 2022-09-13 22:31:24,832, trader, refit, Trader factor weigts clipped, -2.0916131405710896, 0.000640804198253799
+WARNING, 2022-09-13 22:31:32,164, trader, refit, Trader factor weigts clipped, -0.013551599359347409, 82.5934775305589
+WARNING, 2022-09-13 22:31:41,699, trader, refit, Trader factor weigts clipped, -0.0006502610741461661, 1.9523609344198505
+WARNING, 2022-09-13 22:31:42,741, trader, refit, Trader factor weigts clipped, -404.54411451063186, -0.00017658916437604438
+INFO, 2022-09-13 22:31:43,125, company, aggr_update, 2022-05-01 01:15:00: Company Weights, -11.799752215278392, 7.621379234963457
+INFO, 2022-09-13 22:31:43,238, company, train, [Timestamp('2022-05-01 01:15:00'), 0.03387090188107116, -0.0053801091197781]
+INFO, 2022-09-13 22:31:43,238, company, train, Epoch 5 finished
+INFO, 2022-09-13 22:31:43,265, company, train, Epoch 6 start
+WARNING, 2022-09-13 22:31:57,341, trader, refit, Trader factor weigts clipped, -1.670353877844673, 0.0006496782119031737
+WARNING, 2022-09-13 22:32:03,355, trader, refit, Trader factor weigts clipped, -0.01599421624008423, 80.99214283272482
+WARNING, 2022-09-13 22:32:14,203, trader, refit, Trader factor weigts clipped, -0.0011212564137575987, 2.03477215603406
+WARNING, 2022-09-13 22:32:15,403, trader, refit, Trader factor weigts clipped, -371.2017412044208, -0.0002818778863793599
+WARNING, 2022-09-13 22:32:16,088, company, train_step, 2022-05-01 01:30:00 Fired 51 traders in replenish algorithm
+WARNING, 2022-09-13 22:32:20,555, trader, refit, Trader factor weigts clipped, -25.616612395311716, 0.0010753169483830951
+WARNING, 2022-09-13 22:32:54,015, trader, refit, Trader factor weigts clipped, -1.4407026037138726e-05, 1.717539053557274
+WARNING, 2022-09-13 22:32:55,565, trader, refit, Trader factor weigts clipped, -53.60890775580862, 0.0002733019476680903
+WARNING, 2022-09-13 22:32:56,752, trader, refit, Trader factor weigts clipped, -0.00040646587828629954, 1.6171802464110128
+INFO, 2022-09-13 22:32:57,196, company, aggr_update, 2022-05-01 01:30:00: Company Weights, -14.3863534215681, 14.13952691941282
+INFO, 2022-09-13 22:32:57,306, company, train, [Timestamp('2022-05-01 01:30:00'), -0.013181090529824522, -0.003846914624339]
+INFO, 2022-09-13 22:32:57,306, company, train, Epoch 6 finished
+INFO, 2022-09-13 22:32:57,332, company, train, Epoch 7 start
+WARNING, 2022-09-13 22:33:14,355, trader, refit, Trader factor weigts clipped, -26.05983369865677, 0.001199724554049053
+WARNING, 2022-09-13 22:33:22,418, trader, refit, Trader factor weigts clipped, -0.0016203806846706269, 72.3639940904347
+WARNING, 2022-09-13 22:33:25,619, trader, refit, Trader factor weigts clipped, -6.759332522365824e-05, 2.131558821532527
+WARNING, 2022-09-13 22:33:27,397, trader, refit, Trader factor weigts clipped, -52.9153791530286, 0.00028192122470589145
+WARNING, 2022-09-13 22:33:28,640, trader, refit, Trader factor weigts clipped, -0.0003940086738785098, 1.6031843216393042
+WARNING, 2022-09-13 22:33:29,377, company, train_step, 2022-05-01 01:45:00 Fired 51 traders in replenish algorithm
+WARNING, 2022-09-13 22:33:30,658, trader, refit, Trader factor weigts clipped, -0.05634145119360172, 2.78314249584764
+WARNING, 2022-09-13 22:33:36,673, trader, refit, Trader factor weigts clipped, -0.0006486705142411328, 1.1016530752074807
+WARNING, 2022-09-13 22:33:37,455, trader, refit, Trader factor weigts clipped, -54.68402762644765, 0.00017750143062998577
+WARNING, 2022-09-13 22:33:40,273, trader, refit, Trader factor weigts clipped, -0.0013389793564305159, 77.7838189569444
+WARNING, 2022-09-13 22:33:43,316, trader, refit, Trader factor weigts clipped, -5.05294522994415e-05, 13.673549903102826
+WARNING, 2022-09-13 22:33:45,114, trader, refit, Trader factor weigts clipped, -0.10808336167344924, 87.15322280532219
+WARNING, 2022-09-13 22:33:47,494, trader, refit, Trader factor weigts clipped, -331.99988425288825, 8.539007468902598e-05
+INFO, 2022-09-13 22:33:48,649, company, aggr_update, 2022-05-01 01:45:00: Company Weights, -2.334945784886382, 2.6928196825716486
+INFO, 2022-09-13 22:33:48,761, company, train, [Timestamp('2022-05-01 01:45:00'), -0.00937161494330334, -0.0004822808847191]
+INFO, 2022-09-13 22:33:48,761, company, train, Epoch 7 finished
+INFO, 2022-09-13 22:33:48,786, company, train, Epoch 8 start
+WARNING, 2022-09-13 22:34:02,962, trader, refit, Trader factor weigts clipped, -0.07281489376453394, 2.760689914414852
+WARNING, 2022-09-13 22:34:09,725, trader, refit, Trader factor weigts clipped, -0.0007112972945512574, 1.1490011681341983
+WARNING, 2022-09-13 22:34:12,900, trader, refit, Trader factor weigts clipped, -0.0013455121494960953, 88.09460804302968
+WARNING, 2022-09-13 22:34:15,500, trader, refit, Trader factor weigts clipped, -8.956828480677359e-05, 41.36763463226838
+WARNING, 2022-09-13 22:34:17,365, trader, refit, Trader factor weigts clipped, -0.1389293996127888, 91.71404155615248
+WARNING, 2022-09-13 22:34:19,215, trader, refit, Trader factor weigts clipped, -320.5112670039699, 6.291967197969827e-05
+WARNING, 2022-09-13 22:34:20,743, company, train_step, 2022-05-01 02:00:00 Fired 51 traders in replenish algorithm
+WARNING, 2022-09-13 22:34:23,827, trader, refit, Trader factor weigts clipped, -0.0011446667908977279, 4.086117604724586
+WARNING, 2022-09-13 22:34:25,242, trader, refit, Trader factor weigts clipped, -1.3581152684334141, 0.0023499294239331674
+WARNING, 2022-09-13 22:34:28,512, trader, refit, Trader factor weigts clipped, -0.4741954391435869, 1.1687320043210485
+WARNING, 2022-09-13 22:34:34,056, trader, refit, Trader factor weigts clipped, -0.0002936691506627706, 23.752336718763544
+WARNING, 2022-09-13 22:34:36,131, trader, refit, Trader factor weigts clipped, -167.4280794107685, 0.0001638732702242996
+WARNING, 2022-09-13 22:34:40,001, trader, refit, Trader factor weigts clipped, -0.0032001278727294964, 2.3944150344313617
+WARNING, 2022-09-13 22:34:40,420, trader, refit, Trader factor weigts clipped, -0.00223213653650068, 15.579359749633996
+INFO, 2022-09-13 22:34:41,252, company, aggr_update, 2022-05-01 02:00:00: Company Weights, -5.935625836314289, 7.819858126070707
+INFO, 2022-09-13 22:34:41,368, company, train, [Timestamp('2022-05-01 02:00:00'), -0.0033483582283714342, 8.541000004817572e-05]
+INFO, 2022-09-13 22:34:41,368, company, train, Epoch 8 finished
+INFO, 2022-09-13 22:34:41,394, company, train, Epoch 9 start
+WARNING, 2022-09-13 22:34:56,141, trader, refit, Trader factor weigts clipped, -0.0009156264136403249, 3.365919993037445
+WARNING, 2022-09-13 22:34:58,269, trader, refit, Trader factor weigts clipped, -1.4357878792447627, 0.002287913600082483
+WARNING, 2022-09-13 22:35:00,728, trader, refit, Trader factor weigts clipped, -0.0005850539604264071, 1.1439367182040285
+WARNING, 2022-09-13 22:35:07,098, trader, refit, Trader factor weigts clipped, -0.0004979477282089729, 22.951931404161048
+WARNING, 2022-09-13 22:35:08,701, trader, refit, Trader factor weigts clipped, -127.82608118567165, 6.648482966127947e-05
+WARNING, 2022-09-13 22:35:12,447, trader, refit, Trader factor weigts clipped, -0.003069738634736644, 2.432712527823424
+WARNING, 2022-09-13 22:35:12,913, trader, refit, Trader factor weigts clipped, -0.0015916190706176789, 9.33971533564153
+WARNING, 2022-09-13 22:35:14,071, company, train_step, 2022-05-01 02:15:00 Fired 51 traders in replenish algorithm
+WARNING, 2022-09-13 22:35:17,939, trader, refit, Trader factor weigts clipped, -1.5744445196378494, 0.002632159950199807
+WARNING, 2022-09-13 22:35:19,079, trader, refit, Trader factor weigts clipped, -14.400862795338039, 0.17826286548840875
+WARNING, 2022-09-13 22:35:21,956, trader, refit, Trader factor weigts clipped, -1.6342993121217289, 0.0005924167206478437
+WARNING, 2022-09-13 22:35:25,093, trader, refit, Trader factor weigts clipped, -63.54029569692022, 0.00033509736400133875
+WARNING, 2022-09-13 22:35:25,759, trader, refit, Trader factor weigts clipped, -154.30499697735928, 43.42934226800009
+INFO, 2022-09-13 22:35:33,975, company, aggr_update, 2022-05-01 02:15:00: Company Weights, -4.065833542157726, 2.7090191125081544
+INFO, 2022-09-13 22:35:34,089, company, train, [Timestamp('2022-05-01 02:15:00'), -0.00017501759941292557, -0.0006447092353668]
+INFO, 2022-09-13 22:35:34,089, company, train, Epoch 9 finished
+INFO, 2022-09-13 22:35:34,117, company, train, Epoch 10 start
+WARNING, 2022-09-13 22:35:52,728, trader, refit, Trader factor weigts clipped, -1.1174625749360119, 0.0005733790752907981
+WARNING, 2022-09-13 22:35:56,754, trader, refit, Trader factor weigts clipped, -91.4176937565539, 0.0009324712041171194
+WARNING, 2022-09-13 22:35:57,885, trader, refit, Trader factor weigts clipped, -8.227557612521807, 0.00038803726387043417
+WARNING, 2022-09-13 22:35:58,545, trader, refit, Trader factor weigts clipped, -152.31256720030038, 39.581173373121814
+WARNING, 2022-09-13 22:36:07,248, company, train_step, 2022-05-01 02:30:00 Fired 52 traders in replenish algorithm
+WARNING, 2022-09-13 22:36:08,063, trader, refit, Trader factor weigts clipped, -0.001159672058272233, 1.220541746091266
+WARNING, 2022-09-13 22:36:08,448, trader, refit, Trader factor weigts clipped, -73.7345566200764, 73.73467722400828
+WARNING, 2022-09-13 22:36:11,490, trader, refit, Trader factor weigts clipped, -0.0002446599143697049, 3.116146089387005
+WARNING, 2022-09-13 22:36:16,348, trader, refit, Trader factor weigts clipped, -0.07496075570299733, 11.189497917053082
+WARNING, 2022-09-13 22:36:21,011, trader, refit, Trader factor weigts clipped, -0.00017678112170961945, 140.60041045781108
+WARNING, 2022-09-13 22:36:24,763, trader, refit, Trader factor weigts clipped, -1.1524854685758643, 0.00010443354289447271
+WARNING, 2022-09-13 22:36:27,817, trader, refit, Trader factor weigts clipped, -1.5147055954513091, 0.00020657768691785284
+INFO, 2022-09-13 22:36:27,822, company, aggr_update, 2022-05-01 02:30:00: Company Weights, -6.463018783155613, 6.033306574070698
+INFO, 2022-09-13 22:36:27,943, company, train, [Timestamp('2022-05-01 02:30:00'), -0.00648868173751261, 0.0006704892812332]
+INFO, 2022-09-13 22:36:27,943, company, train, Epoch 10 finished
+INFO, 2022-09-13 22:36:27,970, company, train, Epoch 11 start
+WARNING, 2022-09-13 22:36:42,148, trader, refit, Trader factor weigts clipped, -71.85896414165025, 71.85899431939752
+WARNING, 2022-09-13 22:36:45,156, trader, refit, Trader factor weigts clipped, -0.0002650233513810827, 4.2088909411936015
+WARNING, 2022-09-13 22:36:48,168, trader, refit, Trader factor weigts clipped, -1.5413609840442413, 0.00039487856281637346
+WARNING, 2022-09-13 22:36:54,292, trader, refit, Trader factor weigts clipped, -0.00021200897431649445, 139.41700055753006
+WARNING, 2022-09-13 22:36:57,894, trader, refit, Trader factor weigts clipped, -1.0554307883628087, 2.3631876044491403e-05
+WARNING, 2022-09-13 22:37:00,840, trader, refit, Trader factor weigts clipped, -1.4062391595511676, 0.00018979636103560614
+WARNING, 2022-09-13 22:37:01,190, company, train_step, 2022-05-01 02:45:00 Fired 52 traders in replenish algorithm
+WARNING, 2022-09-13 22:37:15,651, trader, refit, Trader factor weigts clipped, -2.001947392528858, 0.03295103992575176
+WARNING, 2022-09-13 22:37:18,327, trader, refit, Trader factor weigts clipped, -5.047199420577708, 5.044857005677122
+WARNING, 2022-09-13 22:37:19,522, trader, refit, Trader factor weigts clipped, -3.522952562524282, 3.5788628280077055
+WARNING, 2022-09-13 22:37:21,138, trader, refit, Trader factor weigts clipped, -0.01893679110493074, 1.5260585464795209
+INFO, 2022-09-13 22:37:22,799, company, aggr_update, 2022-05-01 02:45:00: Company Weights, -6.021676816254943, 5.985960080084018
+INFO, 2022-09-13 22:37:22,922, company, train, [Timestamp('2022-05-01 02:45:00'), -0.35223809760765196, -0.0003942372442226]
+INFO, 2022-09-13 22:37:22,922, company, train, Epoch 11 finished
+INFO, 2022-09-13 22:37:22,948, company, train, Epoch 12 start
+WARNING, 2022-09-13 22:37:46,668, trader, refit, Trader factor weigts clipped, -0.08246947976994483, 12.334542460704967
+WARNING, 2022-09-13 22:37:50,504, trader, refit, Trader factor weigts clipped, -1.9621881695494057, 0.027281110066608896
+WARNING, 2022-09-13 22:37:53,360, trader, refit, Trader factor weigts clipped, -6.623499693643618, 6.621094110569378
+WARNING, 2022-09-13 22:37:54,509, trader, refit, Trader factor weigts clipped, -3.5141713063271824, 3.5552826669954074
+WARNING, 2022-09-13 22:37:55,556, trader, refit, Trader factor weigts clipped, -0.0033567852814404484, 1.6314847121231726
+WARNING, 2022-09-13 22:37:57,138, company, train_step, 2022-05-01 03:00:00 Fired 51 traders in replenish algorithm
+WARNING, 2022-09-13 22:37:58,475, trader, refit, Trader factor weigts clipped, -6.849370879980048, 9.291189589422116
+WARNING, 2022-09-13 22:38:01,671, trader, refit, Trader factor weigts clipped, -1514.6778692211446, 0.0004830997064789403
+WARNING, 2022-09-13 22:38:04,476, trader, refit, Trader factor weigts clipped, -2.3450932152422097, 2.3438278071086422
+WARNING, 2022-09-13 22:38:14,389, trader, refit, Trader factor weigts clipped, -0.0005861458273580858, 1.0861768586986424
+INFO, 2022-09-13 22:38:17,952, company, aggr_update, 2022-05-01 03:00:00: Company Weights, -7.07182973423405, 8.927391595620932
+INFO, 2022-09-13 22:38:18,079, company, train, [Timestamp('2022-05-01 03:00:00'), -0.04273036747624664, 0.0008280914974201]
+INFO, 2022-09-13 22:38:18,079, company, train, Epoch 12 finished
+INFO, 2022-09-13 22:38:18,114, company, train, Epoch 13 start
+WARNING, 2022-09-13 22:38:32,406, trader, refit, Trader factor weigts clipped, -0.001060126371627753, 1.155714339725131
+WARNING, 2022-09-13 22:38:33,219, trader, refit, Trader factor weigts clipped, -6.733395860626585, 8.964433873552704
+WARNING, 2022-09-13 22:38:35,966, trader, refit, Trader factor weigts clipped, -1516.875837602577, 0.00047173750205634134
+WARNING, 2022-09-13 22:38:38,938, trader, refit, Trader factor weigts clipped, -2.3536933216633087, 2.3524082477688
+WARNING, 2022-09-13 22:38:42,204, trader, refit, Trader factor weigts clipped, -1.3244000460228893, 2.0206204622262285
+WARNING, 2022-09-13 22:38:42,650, trader, refit, Trader factor weigts clipped, -0.09300306453383729, 22.97345776087973
+WARNING, 2022-09-13 22:38:53,706, company, train_step, 2022-05-01 03:15:00 Fired 50 traders in replenish algorithm
+WARNING, 2022-09-13 22:39:05,348, trader, refit, Trader factor weigts clipped, -7791.241020809305, 7791.086715521765
+WARNING, 2022-09-13 22:39:07,107, trader, refit, Trader factor weigts clipped, -4.84299968304514, 1.8079561737754282
+WARNING, 2022-09-13 22:39:14,434, trader, refit, Trader factor weigts clipped, -13.45671584714691, 0.0009315165620059864
+INFO, 2022-09-13 22:39:15,692, company, aggr_update, 2022-05-01 03:15:00: Company Weights, -10.123862668847956, 8.864134856934097
+INFO, 2022-09-13 22:39:15,819, company, train, [Timestamp('2022-05-01 03:15:00'), 2.3466280806231663, 0.0022945311324246]
+INFO, 2022-09-13 22:39:15,819, company, train, Epoch 13 finished
+INFO, 2022-09-13 22:39:15,855, company, train, Epoch 14 start
+WARNING, 2022-09-13 22:39:41,319, trader, refit, Trader factor weigts clipped, -7853.099521391885, 7852.94267242927
+WARNING, 2022-09-13 22:39:43,528, trader, refit, Trader factor weigts clipped, -3.527586779212818, 1.8071120628791844
+WARNING, 2022-09-13 22:39:50,909, trader, refit, Trader factor weigts clipped, -13.36407705213831, 0.0009056714302670216
+WARNING, 2022-09-13 22:39:52,795, company, train_step, 2022-05-01 03:30:00 Fired 54 traders in replenish algorithm
+WARNING, 2022-09-13 22:39:54,875, trader, refit, Trader factor weigts clipped, -1.274124127336623, 0.06256665821833995
+WARNING, 2022-09-13 22:40:03,767, trader, refit, Trader factor weigts clipped, -1.1150821336333125, 0.0009725446190804966
+WARNING, 2022-09-13 22:40:04,144, trader, refit, Trader factor weigts clipped, -0.0015212499420910394, 26.007712016856082
+WARNING, 2022-09-13 22:40:04,633, trader, refit, Trader factor weigts clipped, -3.400980199784381, 0.0009859570042139905
+WARNING, 2022-09-13 22:40:14,374, trader, refit, Trader factor weigts clipped, -0.0005798230472710119, 43.74573103261218
+WARNING, 2022-09-13 22:40:15,679, trader, refit, Trader factor weigts clipped, -29.67942134025378, 29.678951159196664
+INFO, 2022-09-13 22:40:16,087, company, aggr_update, 2022-05-01 03:30:00: Company Weights, -2.856664036798244, 3.274395476029836
+INFO, 2022-09-13 22:40:16,213, company, train, [Timestamp('2022-05-01 03:30:00'), -0.03038792657465841, 0.0003733821346132]
+INFO, 2022-09-13 22:40:16,213, company, train, Epoch 14 finished
+INFO, 2022-09-13 22:40:16,270, company, train, Epoch 15 start
+WARNING, 2022-09-13 22:40:33,516, trader, refit, Trader factor weigts clipped, -1.2991488142547596, 0.06796669738155812
+WARNING, 2022-09-13 22:40:42,832, trader, refit, Trader factor weigts clipped, -1.223294565651667, 0.0010330104809222814
+WARNING, 2022-09-13 22:40:43,261, trader, refit, Trader factor weigts clipped, -0.001761130461094749, 7.898519550758807
+WARNING, 2022-09-13 22:40:51,024, trader, refit, Trader factor weigts clipped, -0.0006366426113530898, 46.586542763316636
+WARNING, 2022-09-13 22:40:52,287, trader, refit, Trader factor weigts clipped, -31.050069732867037, 31.04960742317755
+WARNING, 2022-09-13 22:40:53,058, company, train_step, 2022-05-01 03:45:00 Fired 53 traders in replenish algorithm
+WARNING, 2022-09-13 22:40:54,345, trader, refit, Trader factor weigts clipped, -0.16262539051984365, 1.0885052555394632
+WARNING, 2022-09-13 22:40:55,183, trader, refit, Trader factor weigts clipped, -0.000499149048121866, 1.6028827233447038
+WARNING, 2022-09-13 22:40:58,876, trader, refit, Trader factor weigts clipped, -0.4083192095707468, 1.077158055423014
+INFO, 2022-09-13 22:41:14,608, company, aggr_update, 2022-05-01 03:45:00: Company Weights, -6.340621686857381, 4.678876239762712
+INFO, 2022-09-13 22:41:14,733, company, train, [Timestamp('2022-05-01 03:45:00'), -0.02321238509592831, -0.0001775592028371]
+INFO, 2022-09-13 22:41:14,733, company, train, Epoch 15 finished
+INFO, 2022-09-13 22:41:14,761, company, train, Epoch 16 start
+WARNING, 2022-09-13 22:41:30,292, trader, refit, Trader factor weigts clipped, -0.00047001628918337486, 1.322789871045915
+WARNING, 2022-09-13 22:41:33,855, trader, refit, Trader factor weigts clipped, -0.4178262767600572, 1.1097225247514322
+WARNING, 2022-09-13 22:41:37,985, trader, refit, Trader factor weigts clipped, -1.0018807604419997, 0.0003725796922854358
+WARNING, 2022-09-13 22:41:49,339, company, train_step, 2022-05-01 04:00:00 Fired 52 traders in replenish algorithm
+WARNING, 2022-09-13 22:41:55,791, trader, refit, Trader factor weigts clipped, -1.0803347692365552, 0.003300646147629693
+WARNING, 2022-09-13 22:41:58,550, trader, refit, Trader factor weigts clipped, -1.4066476109197554, 0.00020582052621372288
+WARNING, 2022-09-13 22:41:59,757, trader, refit, Trader factor weigts clipped, -1.2054811492019941, 0.001356555127043385
+WARNING, 2022-09-13 22:42:05,205, trader, refit, Trader factor weigts clipped, -1.1241508027412501, 1.1236407477001873
+WARNING, 2022-09-13 22:42:07,573, trader, refit, Trader factor weigts clipped, -36.38688616811453, 1.0211746141094609
+WARNING, 2022-09-13 22:42:08,731, trader, refit, Trader factor weigts clipped, -1.0162204907883934, 1.1265242016368031
+WARNING, 2022-09-13 22:42:09,108, trader, refit, Trader factor weigts clipped, -0.0010722596463438945, 1.0206181838030766
+INFO, 2022-09-13 22:42:09,755, company, aggr_update, 2022-05-01 04:00:00: Company Weights, -4.078082269042403, 4.907837214732128
+INFO, 2022-09-13 22:42:09,876, company, train, [Timestamp('2022-05-01 04:00:00'), 0.13906598131654035, 0.0028237468983699]
+INFO, 2022-09-13 22:42:09,876, company, train, Epoch 16 finished
+INFO, 2022-09-13 22:42:09,900, company, train, Epoch 17 start
+WARNING, 2022-09-13 22:42:28,659, trader, refit, Trader factor weigts clipped, -11.387302191927377, 0.059222186089295636
+WARNING, 2022-09-13 22:42:29,425, trader, refit, Trader factor weigts clipped, -1.1741831541034013, 0.0031591187971639887
+WARNING, 2022-09-13 22:42:31,095, trader, refit, Trader factor weigts clipped, -1.3498259875135508, 4.672545986308282e-05
+WARNING, 2022-09-13 22:42:32,235, trader, refit, Trader factor weigts clipped, -0.0006324719360022254, 3.9891889963854092
+WARNING, 2022-09-13 22:42:32,610, trader, refit, Trader factor weigts clipped, -1.2834542243074105, 0.0011319364787171216
+WARNING, 2022-09-13 22:42:39,957, trader, refit, Trader factor weigts clipped, -43.65283106000281, 1.131289638438322
+WARNING, 2022-09-13 22:42:41,096, trader, refit, Trader factor weigts clipped, -1.1639265410367907, 1.2692272208082316
+WARNING, 2022-09-13 22:42:41,501, trader, refit, Trader factor weigts clipped, -0.001074283140238049, 1.028219603094245
+WARNING, 2022-09-13 22:42:42,511, company, train_step, 2022-05-01 04:15:00 Fired 50 traders in replenish algorithm
+WARNING, 2022-09-13 22:42:43,319, trader, refit, Trader factor weigts clipped, -1.3476150926894765, 1.34647623084358
+WARNING, 2022-09-13 22:42:56,351, trader, refit, Trader factor weigts clipped, -0.3449595591755683, 3.7508539814921487
+INFO, 2022-09-13 22:43:02,321, company, aggr_update, 2022-05-01 04:15:00: Company Weights, -9.163965267446793, 12.367974024749717
+INFO, 2022-09-13 22:43:02,441, company, train, [Timestamp('2022-05-01 04:15:00'), 0.04478362849078304, 0.001570343939264]
+INFO, 2022-09-13 22:43:02,441, company, train, Epoch 17 finished
+INFO, 2022-09-13 22:43:02,476, company, train, Epoch 18 start
+WARNING, 2022-09-13 22:43:16,084, trader, refit, Trader factor weigts clipped, -1.4428684279695132, 1.4417911734229045
+WARNING, 2022-09-13 22:43:25,308, trader, refit, Trader factor weigts clipped, -2.44845472049513, 0.0012643001212022005
+WARNING, 2022-09-13 22:43:29,571, trader, refit, Trader factor weigts clipped, -0.32739212063614165, 3.6789313682934104
+WARNING, 2022-09-13 22:43:35,059, company, train_step, 2022-05-01 04:30:00 Fired 51 traders in replenish algorithm
+WARNING, 2022-09-13 22:43:49,673, trader, refit, Trader factor weigts clipped, -936.6920071671776, 0.0010310952142750713
+WARNING, 2022-09-13 22:43:51,843, trader, refit, Trader factor weigts clipped, -1.1637939307090701, 0.11731688973593715
+WARNING, 2022-09-13 22:43:52,251, trader, refit, Trader factor weigts clipped, -0.011206845105924875, 2.0267907548335833
+INFO, 2022-09-13 22:43:54,770, company, aggr_update, 2022-05-01 04:30:00: Company Weights, -10.740547764618297, 4.445597398150379
+INFO, 2022-09-13 22:43:54,888, company, train, [Timestamp('2022-05-01 04:30:00'), -0.02930384739715927, -0.0027134798212313]
+INFO, 2022-09-13 22:43:54,888, company, train, Epoch 18 finished
+INFO, 2022-09-13 22:43:54,914, company, train, Epoch 19 start
+WARNING, 2022-09-13 22:44:15,406, trader, refit, Trader factor weigts clipped, -1.5162984706246605, 0.0005567288273070138
+WARNING, 2022-09-13 22:44:21,706, trader, refit, Trader factor weigts clipped, -1143.846174648424, 0.0010135553852006034
+WARNING, 2022-09-13 22:44:24,233, trader, refit, Trader factor weigts clipped, -1.3941876840509477, 0.09077445568230078
+WARNING, 2022-09-13 22:44:24,609, trader, refit, Trader factor weigts clipped, -0.00816051835715812, 2.2027170152295215
+WARNING, 2022-09-13 22:44:25,393, trader, refit, Trader factor weigts clipped, -0.0003084647556660413, 1.015039579614691
+WARNING, 2022-09-13 22:44:27,539, company, train_step, 2022-05-01 04:45:00 Fired 51 traders in replenish algorithm
+WARNING, 2022-09-13 22:44:35,912, trader, refit, Trader factor weigts clipped, -54.592193688553955, 0.00014180199428876785
+WARNING, 2022-09-13 22:44:37,160, trader, refit, Trader factor weigts clipped, -0.0003133718531144262, 3.7409253105967135
+WARNING, 2022-09-13 22:44:42,504, trader, refit, Trader factor weigts clipped, -0.06597420346668763, 1.8231366115481766
+WARNING, 2022-09-13 22:44:44,933, trader, refit, Trader factor weigts clipped, -1.5398017484687305, 1.5397067418994677
+WARNING, 2022-09-13 22:44:47,662, trader, refit, Trader factor weigts clipped, -2.8410294323642296, 2.839985424018668
+INFO, 2022-09-13 22:44:47,667, company, aggr_update, 2022-05-01 04:45:00: Company Weights, -14.844217669532169, 20.324308042131882
+INFO, 2022-09-13 22:44:47,785, company, train, [Timestamp('2022-05-01 04:45:00'), 0.046644559224411464, -0.0017583668295835]
+INFO, 2022-09-13 22:44:47,785, company, train, Epoch 19 finished
+INFO, 2022-09-13 22:44:47,811, company, train, Epoch 20 start
+WARNING, 2022-09-13 22:45:08,420, trader, refit, Trader factor weigts clipped, -0.43690000435670734, 7.612437090341408
+WARNING, 2022-09-13 22:45:09,618, trader, refit, Trader factor weigts clipped, -0.00021824957068630285, 1.9543329476697648
+WARNING, 2022-09-13 22:45:14,721, trader, refit, Trader factor weigts clipped, -0.06989764324692765, 1.5382182455915283
+WARNING, 2022-09-13 22:45:17,329, trader, refit, Trader factor weigts clipped, -1.4584736919052965, 1.4584266759152251
+WARNING, 2022-09-13 22:45:20,518, trader, refit, Trader factor weigts clipped, -4.3310953507404815, 4.330107923473563
+WARNING, 2022-09-13 22:45:21,327, company, train_step, 2022-05-01 05:00:00 Fired 52 traders in replenish algorithm
+WARNING, 2022-09-13 22:45:27,072, trader, refit, Trader factor weigts clipped, -1.2053019629692718, 0.00011471686565693691
+WARNING, 2022-09-13 22:45:27,870, trader, refit, Trader factor weigts clipped, -1.228641505842497, 0.0004150543802771702
+WARNING, 2022-09-13 22:45:40,190, trader, refit, Trader factor weigts clipped, -0.0009912762575173262, 1.0140521725906768
+INFO, 2022-09-13 22:45:42,314, company, aggr_update, 2022-05-01 05:00:00: Company Weights, -2.540489627912298, 4.406744158235835
+INFO, 2022-09-13 22:45:42,433, company, train, [Timestamp('2022-05-01 05:00:00'), -0.004325874571767277, -0.0008712588545732]
+INFO, 2022-09-13 22:45:42,433, company, train, Epoch 20 finished
+INFO, 2022-09-13 22:45:42,460, company, train, Epoch 21 start
+WARNING, 2022-09-13 22:46:01,942, trader, refit, Trader factor weigts clipped, -1.239050216540809, 8.323373944668413e-05
+WARNING, 2022-09-13 22:46:02,710, trader, refit, Trader factor weigts clipped, -1.2661627884274913, 0.0004964736547704914
+WARNING, 2022-09-13 22:46:14,113, trader, refit, Trader factor weigts clipped, -0.00113333344070643, 1.0338615997617917
+WARNING, 2022-09-13 22:46:16,193, company, train_step, 2022-05-01 05:15:00 Fired 60 traders in replenish algorithm
+WARNING, 2022-09-13 22:46:21,513, trader, refit, Trader factor weigts clipped, -23.64673645237939, 23.53933811798937
+WARNING, 2022-09-13 22:46:21,870, trader, refit, Trader factor weigts clipped, -50.58083433803478, 0.0002919716304198498
+WARNING, 2022-09-13 22:46:23,506, trader, refit, Trader factor weigts clipped, -137.34824224215168, 0.0004515850520714425
+WARNING, 2022-09-13 22:46:26,720, trader, refit, Trader factor weigts clipped, -4.065578745711617, 0.6058544068719156
+WARNING, 2022-09-13 22:46:29,187, trader, refit, Trader factor weigts clipped, -6.8003505286863675, 0.0011793962876519015
+WARNING, 2022-09-13 22:46:30,871, trader, refit, Trader factor weigts clipped, -0.04424654843226969, 1.5700733608996245
+WARNING, 2022-09-13 22:46:32,826, trader, refit, Trader factor weigts clipped, -0.0034728629386766357, 5.378991040220119
+WARNING, 2022-09-13 22:46:36,862, trader, refit, Trader factor weigts clipped, -1.1108874082233078, 0.1091788878640441
+INFO, 2022-09-13 22:46:40,381, company, aggr_update, 2022-05-01 05:15:00: Company Weights, -2.107902652825434, 2.1005180560877035
+INFO, 2022-09-13 22:46:40,510, company, train, [Timestamp('2022-05-01 05:15:00'), -0.32430914062494093, -0.0016284890719915]
+INFO, 2022-09-13 22:46:40,510, company, train, Epoch 21 finished
+INFO, 2022-09-13 22:46:40,542, company, train, Epoch 22 start
+WARNING, 2022-09-13 22:46:58,467, trader, refit, Trader factor weigts clipped, -25.764969286089926, 25.65981580180487
+WARNING, 2022-09-13 22:47:00,055, trader, refit, Trader factor weigts clipped, -200.82836823524514, 0.00040204472945953846
+WARNING, 2022-09-13 22:47:02,396, trader, refit, Trader factor weigts clipped, -3.9772464051544185, 0.603508739296426
+WARNING, 2022-09-13 22:47:03,636, trader, refit, Trader factor weigts clipped, -6.865810341654276, 0.0011641798038058981
+WARNING, 2022-09-13 22:47:04,811, trader, refit, Trader factor weigts clipped, -0.02185270309714886, 1.2979932355426498
+WARNING, 2022-09-13 22:47:06,773, trader, refit, Trader factor weigts clipped, -0.0026206662290181003, 5.2753941581324595
+WARNING, 2022-09-13 22:47:10,183, trader, refit, Trader factor weigts clipped, -1.063736194983135, 0.11855814831432311
+WARNING, 2022-09-13 22:47:13,616, company, train_step, 2022-05-01 05:30:00 Fired 55 traders in replenish algorithm
+WARNING, 2022-09-13 22:47:21,496, trader, refit, Trader factor weigts clipped, -0.015120266954785133, 2.3949047356372417
+WARNING, 2022-09-13 22:47:26,222, trader, refit, Trader factor weigts clipped, -0.0012422448135659347, 1.0986335544530315
+WARNING, 2022-09-13 22:47:26,636, trader, refit, Trader factor weigts clipped, -0.07226800744564599, 1.7769986432496085
+WARNING, 2022-09-13 22:47:28,559, trader, refit, Trader factor weigts clipped, -2.0281899855496475, 0.13617412351678468
+WARNING, 2022-09-13 22:47:30,055, trader, refit, Trader factor weigts clipped, -1.3029371248932424, 0.0020242830556505566
+WARNING, 2022-09-13 22:47:31,600, trader, refit, Trader factor weigts clipped, -9.580195447988038, 9.254104458214098
+WARNING, 2022-09-13 22:47:32,360, trader, refit, Trader factor weigts clipped, -0.11002845021018348, 341.0710286791511
+INFO, 2022-09-13 22:47:35,073, company, aggr_update, 2022-05-01 05:30:00: Company Weights, -7.424541685505364, 5.88529501453667
+INFO, 2022-09-13 22:47:35,194, company, train, [Timestamp('2022-05-01 05:30:00'), 0.6307028672435384, -3.574277464767e-05]
+INFO, 2022-09-13 22:47:35,194, company, train, Epoch 22 finished
+INFO, 2022-09-13 22:47:35,221, company, train, Epoch 23 start
+WARNING, 2022-09-13 22:47:53,556, trader, refit, Trader factor weigts clipped, -2.1240225469819545, 0.24624683871666486
+WARNING, 2022-09-13 22:47:55,441, trader, refit, Trader factor weigts clipped, -0.0019378534977356372, 2.305107549188515
+WARNING, 2022-09-13 22:47:59,728, trader, refit, Trader factor weigts clipped, -0.0012436635693057075, 1.0657246969835252
+WARNING, 2022-09-13 22:48:00,129, trader, refit, Trader factor weigts clipped, -0.07317247818895864, 1.8452605017903547
+WARNING, 2022-09-13 22:48:01,639, trader, refit, Trader factor weigts clipped, -1.829769354482184, 0.1753788935762489
+WARNING, 2022-09-13 22:48:02,697, trader, refit, Trader factor weigts clipped, -1.3417470268925376, 0.0020260608817067173
+WARNING, 2022-09-13 22:48:04,245, trader, refit, Trader factor weigts clipped, -11.935112460410458, 11.632645813133712
+WARNING, 2022-09-13 22:48:04,972, trader, refit, Trader factor weigts clipped, -0.10606365853252638, 92.2257205438184
+WARNING, 2022-09-13 22:48:07,738, company, train_step, 2022-05-01 05:45:00 Fired 53 traders in replenish algorithm
+WARNING, 2022-09-13 22:48:12,145, trader, refit, Trader factor weigts clipped, -0.0005176460002925957, 1.0346973480898993
+WARNING, 2022-09-13 22:48:12,968, trader, refit, Trader factor weigts clipped, -3.0767094992295108, 0.0012908314400519227
+WARNING, 2022-09-13 22:48:14,093, trader, refit, Trader factor weigts clipped, -0.32109796401825785, 48.228945981585625
+WARNING, 2022-09-13 22:48:14,909, trader, refit, Trader factor weigts clipped, -1.3053424118886492, 0.4982240691230097
+WARNING, 2022-09-13 22:48:18,459, trader, refit, Trader factor weigts clipped, -0.11362834551187058, 3.4370480225757576
+WARNING, 2022-09-13 22:48:20,856, trader, refit, Trader factor weigts clipped, -1.0544981126825288, 0.050660053493185496
+WARNING, 2022-09-13 22:48:25,562, trader, refit, Trader factor weigts clipped, -2.6120024538412805, 0.052221598655766074
+WARNING, 2022-09-13 22:48:26,298, trader, refit, Trader factor weigts clipped, -23.344982312670698, 0.0010463023888277296
+INFO, 2022-09-13 22:48:28,575, company, aggr_update, 2022-05-01 05:45:00: Company Weights, -4.0572391829426175, 8.434952972238802
+INFO, 2022-09-13 22:48:28,693, company, train, [Timestamp('2022-05-01 05:45:00'), 0.9994429581997805, 0.0019844248524189]
+INFO, 2022-09-13 22:48:28,693, company, train, Epoch 23 finished
+INFO, 2022-09-13 22:48:28,721, company, train, Epoch 24 start
+WARNING, 2022-09-13 22:48:45,966, trader, refit, Trader factor weigts clipped, -0.0005287246459307549, 1.1880966772235615
+WARNING, 2022-09-13 22:48:47,188, trader, refit, Trader factor weigts clipped, -3.1601223055396517, 0.0011834099483643155
+WARNING, 2022-09-13 22:48:48,313, trader, refit, Trader factor weigts clipped, -0.29287704285800364, 32.63946941342363
+WARNING, 2022-09-13 22:48:49,055, trader, refit, Trader factor weigts clipped, -1.585907374511092, 0.5856949348724876
+WARNING, 2022-09-13 22:48:52,567, trader, refit, Trader factor weigts clipped, -0.1275687445834046, 3.7267610596568357
+WARNING, 2022-09-13 22:48:59,128, trader, refit, Trader factor weigts clipped, -2.742071404536678, 0.048788883632537715
+WARNING, 2022-09-13 22:48:59,499, trader, refit, Trader factor weigts clipped, -24.033906736271927, 0.0012531005526041172
+WARNING, 2022-09-13 22:49:01,335, company, train_step, 2022-05-01 06:00:00 Fired 52 traders in replenish algorithm
+WARNING, 2022-09-13 22:49:04,432, trader, refit, Trader factor weigts clipped, -0.00024078453806206102, 2.0004254252122626
+WARNING, 2022-09-13 22:49:09,985, trader, refit, Trader factor weigts clipped, -0.0005822245732745186, 1.4127689908774503
+WARNING, 2022-09-13 22:49:16,322, trader, refit, Trader factor weigts clipped, -1.261602032571243, 1.0669731440868235
+WARNING, 2022-09-13 22:49:18,671, trader, refit, Trader factor weigts clipped, -1.3355757048698904, 0.00026872373769402014
+WARNING, 2022-09-13 22:49:19,811, trader, refit, Trader factor weigts clipped, -5.026814016252069, 5.025779669852229
+WARNING, 2022-09-13 22:49:20,971, trader, refit, Trader factor weigts clipped, -0.001116828302988904, 1.2497063569982356
+INFO, 2022-09-13 22:49:21,748, company, aggr_update, 2022-05-01 06:00:00: Company Weights, -7.498571792878815, 6.817099640515062
+INFO, 2022-09-13 22:49:21,866, company, train, [Timestamp('2022-05-01 06:00:00'), 0.21124748111589264, -0.000489047715907]
+INFO, 2022-09-13 22:49:21,866, company, train, Epoch 24 finished
+INFO, 2022-09-13 22:49:21,894, company, train, Epoch 25 start
+WARNING, 2022-09-13 22:49:37,935, trader, refit, Trader factor weigts clipped, -0.00023827753310278477, 1.995081855978324
+WARNING, 2022-09-13 22:49:42,570, trader, refit, Trader factor weigts clipped, -0.00047594069577434596, 1.3878793032938062
+WARNING, 2022-09-13 22:49:49,220, trader, refit, Trader factor weigts clipped, -1.2216603646917632, 1.0276850978551562
+WARNING, 2022-09-13 22:49:51,170, trader, refit, Trader factor weigts clipped, -36.31072224469988, 0.0008341262046168979
+WARNING, 2022-09-13 22:49:52,685, trader, refit, Trader factor weigts clipped, -5.072476847154801, 5.070706233907808
+WARNING, 2022-09-13 22:49:54,603, company, train_step, 2022-05-01 06:15:00 Fired 51 traders in replenish algorithm
+WARNING, 2022-09-13 22:49:59,419, trader, refit, Trader factor weigts clipped, -0.06721766741227259, 1.2714964238473196
+WARNING, 2022-09-13 22:50:03,011, trader, refit, Trader factor weigts clipped, -4.379149920245837, 0.20294535946069905
+WARNING, 2022-09-13 22:50:06,537, trader, refit, Trader factor weigts clipped, -0.00034449025513017033, 2.0757120328454266
+INFO, 2022-09-13 22:50:14,931, company, aggr_update, 2022-05-01 06:15:00: Company Weights, -4.829486926536184, 5.935545438338621
+INFO, 2022-09-13 22:50:15,053, company, train, [Timestamp('2022-05-01 06:15:00'), 0.009956767138190012, -0.0032307472131292]
+INFO, 2022-09-13 22:50:15,053, company, train, Epoch 25 finished
+INFO, 2022-09-13 22:50:15,081, company, train, Epoch 26 start
+WARNING, 2022-09-13 22:50:32,826, trader, refit, Trader factor weigts clipped, -0.06315506524972028, 1.334023904948678
+WARNING, 2022-09-13 22:50:36,422, trader, refit, Trader factor weigts clipped, -4.359910691920604, 0.21587752686045544
+WARNING, 2022-09-13 22:50:40,239, trader, refit, Trader factor weigts clipped, -0.0003546695032881177, 2.079135070948158
+WARNING, 2022-09-13 22:50:47,198, trader, refit, Trader factor weigts clipped, -0.0010480456605939871, 1.271706711537338
+WARNING, 2022-09-13 22:50:48,392, company, train_step, 2022-05-01 06:30:00 Fired 50 traders in replenish algorithm
+WARNING, 2022-09-13 22:50:53,868, trader, refit, Trader factor weigts clipped, -0.00130021247097252, 2.8110927198114064
+WARNING, 2022-09-13 22:51:01,063, trader, refit, Trader factor weigts clipped, -1.305419142092411, 1.245749581884775
+INFO, 2022-09-13 22:51:08,624, company, aggr_update, 2022-05-01 06:30:00: Company Weights, -10.126498546217041, 8.260035967370154
+INFO, 2022-09-13 22:51:08,745, company, train, [Timestamp('2022-05-01 06:30:00'), 0.05513585055460823, 0.000260994390102]
+INFO, 2022-09-13 22:51:08,745, company, train, Epoch 26 finished
+INFO, 2022-09-13 22:51:08,774, company, train, Epoch 27 start
+WARNING, 2022-09-13 22:51:27,335, trader, refit, Trader factor weigts clipped, -0.0012843533139227426, 2.5452733066574806
+WARNING, 2022-09-13 22:51:30,103, trader, refit, Trader factor weigts clipped, -0.0020144907934093364, 1.2804546968122157
+WARNING, 2022-09-13 22:51:41,599, company, train_step, 2022-05-01 06:45:00 Fired 51 traders in replenish algorithm
+WARNING, 2022-09-13 22:51:42,992, trader, refit, Trader factor weigts clipped, -0.20880547660314272, 200.17947556720753
+WARNING, 2022-09-13 22:51:45,442, trader, refit, Trader factor weigts clipped, -73.93473013863237, 73.93471873194754
+WARNING, 2022-09-13 22:51:47,067, trader, refit, Trader factor weigts clipped, -4.0300179886188054, 9.72068377443902e-05
+WARNING, 2022-09-13 22:51:58,620, trader, refit, Trader factor weigts clipped, -0.0002773887627215854, 8.057745810318252
+WARNING, 2022-09-13 22:52:00,160, trader, refit, Trader factor weigts clipped, -5.380008783056693, 8.600980581705418e-05
+WARNING, 2022-09-13 22:52:00,565, trader, refit, Trader factor weigts clipped, -1.0968021824776355, 1.0965709469612122
+WARNING, 2022-09-13 22:52:00,967, trader, refit, Trader factor weigts clipped, -1.03126848636065, 0.0002037146969269508
+WARNING, 2022-09-13 22:52:02,588, trader, refit, Trader factor weigts clipped, -2.1679582241475384, 0.0002287406572444823
+INFO, 2022-09-13 22:52:02,593, company, aggr_update, 2022-05-01 06:45:00: Company Weights, -10.675853437402965, 6.596813026839283
+INFO, 2022-09-13 22:52:02,722, company, train, [Timestamp('2022-05-01 06:45:00'), 0.021985021661363905, 0.0035842107686174]
+INFO, 2022-09-13 22:52:02,722, company, train, Epoch 27 finished
+INFO, 2022-09-13 22:52:02,752, company, train, Epoch 28 start
+WARNING, 2022-09-13 22:52:18,301, trader, refit, Trader factor weigts clipped, -237.22453521869605, 0.02177306470668635
+WARNING, 2022-09-13 22:52:20,469, trader, refit, Trader factor weigts clipped, -48.430495030012835, 48.43043041266523
+WARNING, 2022-09-13 22:52:22,151, trader, refit, Trader factor weigts clipped, -4.426656975589244, 9.462224730744095e-05
+WARNING, 2022-09-13 22:52:32,515, trader, refit, Trader factor weigts clipped, -0.00027912522266759174, 9.714759962434481
+WARNING, 2022-09-13 22:52:34,895, trader, refit, Trader factor weigts clipped, -5.3080241006732445, 8.489906672483211e-05
+WARNING, 2022-09-13 22:52:35,244, trader, refit, Trader factor weigts clipped, -1.2310059378661198, 1.230630854457016
+WARNING, 2022-09-13 22:52:35,622, trader, refit, Trader factor weigts clipped, -1.032463815887415, 0.00022501235816433756
+WARNING, 2022-09-13 22:52:37,117, trader, refit, Trader factor weigts clipped, -2.2861509611425013, 0.0002313650175760658
+WARNING, 2022-09-13 22:52:37,519, company, train_step, 2022-05-01 07:00:00 Fired 50 traders in replenish algorithm
+WARNING, 2022-09-13 22:52:38,122, trader, refit, Trader factor weigts clipped, -7.145517826234332, 3.5722190725877216
+WARNING, 2022-09-13 22:52:40,402, trader, refit, Trader factor weigts clipped, -0.14054320949074198, 2.731061298614867
+WARNING, 2022-09-13 22:52:44,489, trader, refit, Trader factor weigts clipped, -6.218025198736789, 0.0004503035982475016
+WARNING, 2022-09-13 22:52:49,063, trader, refit, Trader factor weigts clipped, -1.3892871902580048, 1.3891252230637845
+WARNING, 2022-09-13 22:52:50,308, trader, refit, Trader factor weigts clipped, -4.31687230961714, 0.0010209409400417707
+WARNING, 2022-09-13 22:52:51,893, trader, refit, Trader factor weigts clipped, -1.6160302971140372, 0.0003790964141523812
+INFO, 2022-09-13 22:52:57,403, company, aggr_update, 2022-05-01 07:00:00: Company Weights, -6.552104951447, 16.125230922094445
+INFO, 2022-09-13 22:52:57,526, company, train, [Timestamp('2022-05-01 07:00:00'), 0.5604151005259561, -0.0017253915989761]
+INFO, 2022-09-13 22:52:57,526, company, train, Epoch 28 finished
+INFO, 2022-09-13 22:52:57,554, company, train, Epoch 29 start
+WARNING, 2022-09-13 22:53:11,067, trader, refit, Trader factor weigts clipped, -7.02921731531125, 3.5140490605101395
+WARNING, 2022-09-13 22:53:15,021, trader, refit, Trader factor weigts clipped, -0.17489688087729405, 85.01636978079539
+WARNING, 2022-09-13 22:53:17,831, trader, refit, Trader factor weigts clipped, -6.439032371837662, 0.0004594265574778352
+WARNING, 2022-09-13 22:53:22,010, trader, refit, Trader factor weigts clipped, -1.4052873392548297, 1.4052692436978154
+WARNING, 2022-09-13 22:53:24,352, trader, refit, Trader factor weigts clipped, -1.5270899009900631, 0.0003165392773140842
+WARNING, 2022-09-13 22:53:30,867, company, train_step, 2022-05-01 07:15:00 Fired 51 traders in replenish algorithm
+WARNING, 2022-09-13 22:53:31,784, trader, refit, Trader factor weigts clipped, -358.9521986328888, 0.002666865239350899
+WARNING, 2022-09-13 22:53:38,748, trader, refit, Trader factor weigts clipped, -0.0013381735197256848, 1.0169718818733795
+WARNING, 2022-09-13 22:53:41,011, trader, refit, Trader factor weigts clipped, -1.5079600406133329, 0.0007224060742926364
+WARNING, 2022-09-13 22:53:45,332, trader, refit, Trader factor weigts clipped, -0.0011584244222619527, 1.1261545619841322
+WARNING, 2022-09-13 22:53:48,966, trader, refit, Trader factor weigts clipped, -0.03737065489277667, 41.72531979370987
+INFO, 2022-09-13 22:53:51,079, company, aggr_update, 2022-05-01 07:15:00: Company Weights, -6.903188788421469, 7.9271568367997345
+INFO, 2022-09-13 22:53:51,196, company, train, [Timestamp('2022-05-01 07:15:00'), 0.0064416625646001565, -0.0142741844051606]
+INFO, 2022-09-13 22:53:51,197, company, train, Epoch 29 finished
+INFO, 2022-09-13 22:53:51,220, company, train, Epoch 30 start
+WARNING, 2022-09-13 22:54:05,340, trader, refit, Trader factor weigts clipped, -357.92628071077655, 0.0026808143819586363
+WARNING, 2022-09-13 22:54:12,234, trader, refit, Trader factor weigts clipped, -0.001344667411684929, 1.019593763099085
+WARNING, 2022-09-13 22:54:14,081, trader, refit, Trader factor weigts clipped, -1.5457812946624099, 0.0006964000133579118
+WARNING, 2022-09-13 22:54:14,824, trader, refit, Trader factor weigts clipped, -0.0012653065685502578, 3.534791640044328
+WARNING, 2022-09-13 22:54:21,604, trader, refit, Trader factor weigts clipped, -0.035173418582697985, 42.774762819585504
+WARNING, 2022-09-13 22:54:23,886, trader, refit, Trader factor weigts clipped, -1.9432071589601168, 0.00038576535064272974
+WARNING, 2022-09-13 22:54:24,284, company, train_step, 2022-05-01 07:30:00 Fired 51 traders in replenish algorithm
+WARNING, 2022-09-13 22:54:29,837, trader, refit, Trader factor weigts clipped, -0.18767855460961544, 1.8324668602520493
+WARNING, 2022-09-13 22:54:32,323, trader, refit, Trader factor weigts clipped, -1.1875290920401145, 0.0002078372274669096
+WARNING, 2022-09-13 22:54:35,617, trader, refit, Trader factor weigts clipped, -5.247651300037434e-05, 7.0203764464296885
+WARNING, 2022-09-13 22:54:39,466, trader, refit, Trader factor weigts clipped, -0.0005444998880451676, 1.1845940294190516
+WARNING, 2022-09-13 22:54:41,988, trader, refit, Trader factor weigts clipped, -0.0006760345981428968, 40.81925823013566
+INFO, 2022-09-13 22:54:45,610, company, aggr_update, 2022-05-01 07:30:00: Company Weights, -22.004521617573925, 24.01903373738059
+INFO, 2022-09-13 22:55:38,088, company, train, [Timestamp('2022-05-01 07:30:00'), -0.02813947695824119, -0.0132573772062553]
+INFO, 2022-09-13 22:55:38,088, company, train, Epoch 30 finished
+INFO, 2022-09-13 22:55:38,112, company, train, Epoch 31 start
+WARNING, 2022-09-13 22:55:57,152, trader, refit, Trader factor weigts clipped, -0.2521513307449881, 1.9336597146002672
+WARNING, 2022-09-13 22:55:59,176, trader, refit, Trader factor weigts clipped, -2.3752174465308244, 0.0003215539208315553
+WARNING, 2022-09-13 22:56:02,379, trader, refit, Trader factor weigts clipped, -1.7525873171298194, 0.00025320998676098977
+WARNING, 2022-09-13 22:56:02,775, trader, refit, Trader factor weigts clipped, -8.351664607089331, 0.0002726388407808439
+WARNING, 2022-09-13 22:56:07,742, trader, refit, Trader factor weigts clipped, -0.0009078802506803974, 2.311156662875983
+WARNING, 2022-09-13 22:56:09,387, trader, refit, Trader factor weigts clipped, -0.0007593036609406295, 11.533490212488417
+WARNING, 2022-09-13 22:56:12,937, company, train_step, 2022-05-01 07:45:00 Fired 51 traders in replenish algorithm
+WARNING, 2022-09-13 22:56:18,996, trader, refit, Trader factor weigts clipped, -0.0026158539659566415, 4497.407133510736
+WARNING, 2022-09-13 22:56:23,262, trader, refit, Trader factor weigts clipped, -1.2485566814394975, 1.0395313908058557
+WARNING, 2022-09-13 22:56:28,452, trader, refit, Trader factor weigts clipped, -0.0004478134600110484, 5.829074132870516
+WARNING, 2022-09-13 22:56:30,049, trader, refit, Trader factor weigts clipped, -0.01364885720003956, 1.0869701414527204
+WARNING, 2022-09-13 22:56:32,059, trader, refit, Trader factor weigts clipped, -2.8359608235320337, 0.11314568205683995
+INFO, 2022-09-13 22:56:33,228, company, aggr_update, 2022-05-01 07:45:00: Company Weights, -6.275328050866137, 18.436302831700353
+INFO, 2022-09-13 22:56:33,347, company, train, [Timestamp('2022-05-01 07:45:00'), 0.3430861723431327, -0.0035347474948825]
+INFO, 2022-09-13 22:56:33,347, company, train, Epoch 31 finished
+INFO, 2022-09-13 22:56:33,373, company, train, Epoch 32 start
+WARNING, 2022-09-13 22:56:51,689, trader, refit, Trader factor weigts clipped, -0.003333264882946311, 4610.337970365941
+WARNING, 2022-09-13 22:56:55,512, trader, refit, Trader factor weigts clipped, -1.404745464424784, 1.3689049166400664
+WARNING, 2022-09-13 22:56:55,884, trader, refit, Trader factor weigts clipped, -0.06327243558521845, 1.6187485806504491
+WARNING, 2022-09-13 22:57:04,161, trader, refit, Trader factor weigts clipped, -2.5354399342940277, 0.04509070887418831
+WARNING, 2022-09-13 22:57:06,074, company, train_step, 2022-05-01 08:00:00 Fired 55 traders in replenish algorithm
+WARNING, 2022-09-13 22:57:08,952, trader, refit, Trader factor weigts clipped, -0.0013329910908410625, 258.18990067556325
+WARNING, 2022-09-13 22:57:12,897, trader, refit, Trader factor weigts clipped, -1.7868471029237427, 1.785108173699794
+WARNING, 2022-09-13 22:57:13,304, trader, refit, Trader factor weigts clipped, -1.3775771679318092, 0.001913925132488708
+WARNING, 2022-09-13 22:57:16,403, trader, refit, Trader factor weigts clipped, -2.9807369980144935, 0.001253924948287435
+WARNING, 2022-09-13 22:57:19,067, trader, refit, Trader factor weigts clipped, -42.52679286526453, 0.0020275774747000107
+WARNING, 2022-09-13 22:57:19,500, trader, refit, Trader factor weigts clipped, -27.579382402215405, 0.027928278555577946
+WARNING, 2022-09-13 22:57:19,848, trader, refit, Trader factor weigts clipped, -0.0009366823905936402, 37.63560171043333
+WARNING, 2022-09-13 22:57:21,431, trader, refit, Trader factor weigts clipped, -44.60283332545031, 49.302021671728085
+WARNING, 2022-09-13 22:57:21,839, trader, refit, Trader factor weigts clipped, -63.305034615496155, 0.005032707907188133
+WARNING, 2022-09-13 22:57:22,234, trader, refit, Trader factor weigts clipped, -49.88035313784057, 0.0011274741380362526
+WARNING, 2022-09-13 22:57:23,333, trader, refit, Trader factor weigts clipped, -187.68093233965445, 0.00022445195245948145
+WARNING, 2022-09-13 22:57:25,172, trader, refit, Trader factor weigts clipped, -0.0006047398270040012, 4.343437745718541
+WARNING, 2022-09-13 22:57:25,962, trader, refit, Trader factor weigts clipped, -8.490324405227256, 0.0007739581678454737
+WARNING, 2022-09-13 22:57:26,743, trader, refit, Trader factor weigts clipped, -70.09483260936429, 0.0014658453143033107
+INFO, 2022-09-13 22:57:27,489, company, aggr_update, 2022-05-01 08:00:00: Company Weights, -4.787695084913323, 2.671161022477891
+INFO, 2022-09-13 22:57:27,606, company, train, [Timestamp('2022-05-01 08:00:00'), 0.5942002984720443, -0.0029858992602863]
+INFO, 2022-09-13 22:57:27,606, company, train, Epoch 32 finished
+INFO, 2022-09-13 22:57:27,632, company, train, Epoch 33 start
+WARNING, 2022-09-13 22:57:44,898, trader, refit, Trader factor weigts clipped, -1.7740159494005527, 1.7722376163493656
+WARNING, 2022-09-13 22:57:48,706, trader, refit, Trader factor weigts clipped, -3.1995688231473416, 0.001220340974962126
+WARNING, 2022-09-13 22:57:51,286, trader, refit, Trader factor weigts clipped, -49.50453035044768, 0.0017435155902735824
+WARNING, 2022-09-13 22:57:51,687, trader, refit, Trader factor weigts clipped, -26.369910293067747, 0.0002269302389960043
+WARNING, 2022-09-13 22:57:52,117, trader, refit, Trader factor weigts clipped, -0.0009885883463920575, 59.28156823930226
+WARNING, 2022-09-13 22:57:52,458, trader, refit, Trader factor weigts clipped, -44.93369908535554, 74.13894526252865
+WARNING, 2022-09-13 22:57:52,875, trader, refit, Trader factor weigts clipped, -4.327150370425918, 0.004969527086807172
+WARNING, 2022-09-13 22:57:53,273, trader, refit, Trader factor weigts clipped, -38.172111208478846, 0.001209904739658311
+WARNING, 2022-09-13 22:57:54,425, trader, refit, Trader factor weigts clipped, -0.0006107589678193074, 5.896564376067011
+WARNING, 2022-09-13 22:57:55,141, trader, refit, Trader factor weigts clipped, -202.96883240526603, 0.00029840382207518384
+WARNING, 2022-09-13 22:57:56,625, trader, refit, Trader factor weigts clipped, -0.000648193004307009, 4.207469287544328
+WARNING, 2022-09-13 22:57:57,745, trader, refit, Trader factor weigts clipped, -8.269723242565497, 0.0008069126373646902
+WARNING, 2022-09-13 22:57:58,490, trader, refit, Trader factor weigts clipped, -80.34760926227645, 0.0015708388345911145
+WARNING, 2022-09-13 22:57:59,623, company, train_step, 2022-05-01 08:15:00 Fired 60 traders in replenish algorithm
+WARNING, 2022-09-13 22:58:04,375, trader, refit, Trader factor weigts clipped, -0.6319230696072821, 1.1788676110240686
+WARNING, 2022-09-13 22:58:17,662, trader, refit, Trader factor weigts clipped, -2.2682350425711064, 0.03687529966195232
+WARNING, 2022-09-13 22:58:18,039, trader, refit, Trader factor weigts clipped, -0.202134704737184, 1.878147774068051
+WARNING, 2022-09-13 22:58:22,944, trader, refit, Trader factor weigts clipped, -0.000830284989651885, 2.7488669891249233
+INFO, 2022-09-13 22:58:22,949, company, aggr_update, 2022-05-01 08:15:00: Company Weights, -7.388929136325254, 14.293105082701196
+INFO, 2022-09-13 22:58:23,066, company, train, [Timestamp('2022-05-01 08:15:00'), 4.000114043125239, 3.289705821007997e-05]
+INFO, 2022-09-13 22:58:23,066, company, train, Epoch 33 finished
+INFO, 2022-09-13 22:58:23,092, company, train, Epoch 34 start
+WARNING, 2022-09-13 22:58:39,576, trader, refit, Trader factor weigts clipped, -0.7596444524250092, 1.0090647694999082
+WARNING, 2022-09-13 22:58:47,649, trader, refit, Trader factor weigts clipped, -0.11730878476279237, 1.028283320270902
+WARNING, 2022-09-13 22:58:49,951, trader, refit, Trader factor weigts clipped, -0.23952545353444202, 1.7517574184932705
+WARNING, 2022-09-13 22:58:54,723, trader, refit, Trader factor weigts clipped, -0.0008139778875767441, 2.7712408787592553
+WARNING, 2022-09-13 22:58:55,098, company, train_step, 2022-05-01 08:30:00 Fired 56 traders in replenish algorithm
+WARNING, 2022-09-13 22:58:56,987, trader, refit, Trader factor weigts clipped, -396.0539601464087, 0.0018294150818916484
+WARNING, 2022-09-13 22:58:58,474, trader, refit, Trader factor weigts clipped, -1.073329693071225, 0.7645166702318739
+WARNING, 2022-09-13 22:59:05,067, trader, refit, Trader factor weigts clipped, -0.0005048090202151449, 1.1487999006225744
+WARNING, 2022-09-13 22:59:06,298, trader, refit, Trader factor weigts clipped, -0.1243881835217247, 41.197176153792476
+WARNING, 2022-09-13 22:59:08,683, trader, refit, Trader factor weigts clipped, -0.001905478502929575, 4.934971265864463
+WARNING, 2022-09-13 22:59:14,594, trader, refit, Trader factor weigts clipped, -8.655590818721253, 8.655343403483636
+WARNING, 2022-09-13 22:59:16,961, trader, refit, Trader factor weigts clipped, -1.154825963399236, 0.00040179892490915803
+INFO, 2022-09-13 22:59:16,966, company, aggr_update, 2022-05-01 08:30:00: Company Weights, -9.67962883035453, 16.593598967919448
+INFO, 2022-09-13 22:59:17,084, company, train, [Timestamp('2022-05-01 08:30:00'), 50.223227208334784, 0.0001251330204162]
+INFO, 2022-09-13 22:59:17,084, company, train, Epoch 34 finished
+INFO, 2022-09-13 22:59:17,110, company, train, Epoch 35 start
+WARNING, 2022-09-13 22:59:31,599, trader, refit, Trader factor weigts clipped, -366.5087856045499, 0.0018924173159791551
+WARNING, 2022-09-13 22:59:33,141, trader, refit, Trader factor weigts clipped, -1.0977034812197295, 0.7963673185462437
+WARNING, 2022-09-13 22:59:40,065, trader, refit, Trader factor weigts clipped, -0.20466229389656534, 45.595207052962955
+WARNING, 2022-09-13 22:59:46,654, trader, refit, Trader factor weigts clipped, -8.79894628055715, 8.79871556021071
+WARNING, 2022-09-13 22:59:48,983, trader, refit, Trader factor weigts clipped, -1.1301125987980172, 0.00042889464314108117
+WARNING, 2022-09-13 22:59:49,339, company, train_step, 2022-05-01 08:45:00 Fired 60 traders in replenish algorithm
+WARNING, 2022-09-13 22:59:52,772, trader, refit, Trader factor weigts clipped, -1.197166113938457, 0.1523841007869982
+WARNING, 2022-09-13 22:59:55,776, trader, refit, Trader factor weigts clipped, -0.15459591550362708, 3.2860610917589375
+WARNING, 2022-09-13 23:00:00,333, trader, refit, Trader factor weigts clipped, -1.894830616864683, 0.08481459185346876
+WARNING, 2022-09-13 23:00:12,217, trader, refit, Trader factor weigts clipped, -0.0007621362841038175, 1.0879704580992222
+INFO, 2022-09-13 23:00:12,222, company, aggr_update, 2022-05-01 08:45:00: Company Weights, -8.029984167397027, 13.353033831979603
+INFO, 2022-09-13 23:00:12,336, company, train, [Timestamp('2022-05-01 08:45:00'), 0.24051510998718403, 0.0010897663543156]
+INFO, 2022-09-13 23:00:12,336, company, train, Epoch 35 finished
+INFO, 2022-09-13 23:00:12,362, company, train, Epoch 36 start
+WARNING, 2022-09-13 23:00:27,929, trader, refit, Trader factor weigts clipped, -1.1897105448672136, 0.15191525780591675
+WARNING, 2022-09-13 23:00:31,057, trader, refit, Trader factor weigts clipped, -0.1539784855491347, 3.3927458912202986
+WARNING, 2022-09-13 23:00:35,910, trader, refit, Trader factor weigts clipped, -1.9120925500095567, 0.10709897281993533
+WARNING, 2022-09-13 23:00:45,912, trader, refit, Trader factor weigts clipped, -0.0008030386193550315, 1.0897817984833758
+WARNING, 2022-09-13 23:00:46,280, company, train_step, 2022-05-01 09:00:00 Fired 62 traders in replenish algorithm
+WARNING, 2022-09-13 23:00:51,893, trader, refit, Trader factor weigts clipped, -33.57044346109405, 0.28625057904643214
+WARNING, 2022-09-13 23:00:57,870, trader, refit, Trader factor weigts clipped, -1.4558084699791007, 4.277090618277771e-05
+WARNING, 2022-09-13 23:01:02,238, trader, refit, Trader factor weigts clipped, -0.0006138550721156408, 177.22060169684306
+WARNING, 2022-09-13 23:01:03,373, trader, refit, Trader factor weigts clipped, -16.543422748569856, 16.54279898134337
+WARNING, 2022-09-13 23:01:06,584, trader, refit, Trader factor weigts clipped, -1.0182428628128997, 1.0180228091636128
+INFO, 2022-09-13 23:01:10,679, company, aggr_update, 2022-05-01 09:00:00: Company Weights, -23.7322068082697, 6.131181405253086
+INFO, 2022-09-13 23:01:10,795, company, train, [Timestamp('2022-05-01 09:00:00'), 0.007780802206333646, 0.0012417139369526]
+INFO, 2022-09-13 23:01:10,795, company, train, Epoch 36 finished
+INFO, 2022-09-13 23:01:10,821, company, train, Epoch 37 start
+WARNING, 2022-09-13 23:01:32,364, trader, refit, Trader factor weigts clipped, -1.4155518878603712, 4.4597653274495866e-05
+WARNING, 2022-09-13 23:01:36,140, trader, refit, Trader factor weigts clipped, -16.482016462725664, 16.481358309692812
+WARNING, 2022-09-13 23:01:38,402, trader, refit, Trader factor weigts clipped, -1.0106733436198367, 1.010359373205497
+WARNING, 2022-09-13 23:01:42,444, company, train_step, 2022-05-01 09:15:00 Fired 53 traders in replenish algorithm
+WARNING, 2022-09-13 23:01:52,411, trader, refit, Trader factor weigts clipped, -0.003057598049132082, 49.379293975791775
+WARNING, 2022-09-13 23:01:59,430, trader, refit, Trader factor weigts clipped, -0.09599840832178548, 1.09644930272328
+WARNING, 2022-09-13 23:02:00,141, trader, refit, Trader factor weigts clipped, -276.78213355334333, 0.0006216406398458585
+WARNING, 2022-09-13 23:02:00,522, trader, refit, Trader factor weigts clipped, -0.18245075010304423, 543.4106370220113
+INFO, 2022-09-13 23:02:02,837, company, aggr_update, 2022-05-01 09:15:00: Company Weights, -20.038131215412346, 22.667891957480098
+INFO, 2022-09-13 23:02:02,952, company, train, [Timestamp('2022-05-01 09:15:00'), 3.3730000801160682, -0.0019972198366105]
+INFO, 2022-09-13 23:02:02,952, company, train, Epoch 37 finished
+INFO, 2022-09-13 23:02:02,979, company, train, Epoch 38 start
+WARNING, 2022-09-13 23:02:19,917, trader, refit, Trader factor weigts clipped, -34.41915820090909, 0.26524862934250015
+WARNING, 2022-09-13 23:02:25,084, trader, refit, Trader factor weigts clipped, -0.0030218582572061337, 39.55963887985186
+WARNING, 2022-09-13 23:02:31,981, trader, refit, Trader factor weigts clipped, -220.49475441136346, 0.0005982380484574265
+WARNING, 2022-09-13 23:02:32,307, trader, refit, Trader factor weigts clipped, -0.18501808055217525, 357.2010684972448
+WARNING, 2022-09-13 23:02:34,946, company, train_step, 2022-05-01 09:30:00 Fired 53 traders in replenish algorithm
+WARNING, 2022-09-13 23:02:38,982, trader, refit, Trader factor weigts clipped, -0.000516650756564041, 48.831029943191155
+WARNING, 2022-09-13 23:02:39,775, trader, refit, Trader factor weigts clipped, -0.001687534263028919, 1.0816864464558116
+WARNING, 2022-09-13 23:02:40,556, trader, refit, Trader factor weigts clipped, -0.0006235349681543711, 2.0869733441467306
+WARNING, 2022-09-13 23:02:43,253, trader, refit, Trader factor weigts clipped, -0.00042448648702940326, 288.805029251269
+WARNING, 2022-09-13 23:02:43,667, trader, refit, Trader factor weigts clipped, -144.927982487015, 0.07790287228356746
+WARNING, 2022-09-13 23:02:44,464, trader, refit, Trader factor weigts clipped, -1.0725621284264018, 1.0723382721297123
+WARNING, 2022-09-13 23:02:48,704, trader, refit, Trader factor weigts clipped, -0.00037263535254472633, 40.12432128834913
+WARNING, 2022-09-13 23:02:51,195, trader, refit, Trader factor weigts clipped, -0.04124168626699942, 4.396814298964084
+WARNING, 2022-09-13 23:02:51,589, trader, refit, Trader factor weigts clipped, -6.760514509422933, 0.10348774708835308
+INFO, 2022-09-13 23:02:54,983, company, aggr_update, 2022-05-01 09:30:00: Company Weights, -6.70668205227941, 8.426654683297114
+INFO, 2022-09-13 23:02:55,095, company, train, [Timestamp('2022-05-01 09:30:00'), 0.08813394204233772, -0.0020060400384252]
+INFO, 2022-09-13 23:02:55,096, company, train, Epoch 38 finished
+INFO, 2022-09-13 23:02:55,122, company, train, Epoch 39 start
+WARNING, 2022-09-13 23:03:11,206, trader, refit, Trader factor weigts clipped, -0.004619843369766464, 57.66494314920547
+WARNING, 2022-09-13 23:03:15,139, trader, refit, Trader factor weigts clipped, -0.0004015815815438265, 242.20587778098977
+WARNING, 2022-09-13 23:03:15,502, trader, refit, Trader factor weigts clipped, -161.6616580622856, 0.08338116806325085
+WARNING, 2022-09-13 23:03:20,519, trader, refit, Trader factor weigts clipped, -0.00040229538528440767, 25.079577420206164
+WARNING, 2022-09-13 23:03:23,077, trader, refit, Trader factor weigts clipped, -0.01433783802947843, 4.182578367690351
+WARNING, 2022-09-13 23:03:23,421, trader, refit, Trader factor weigts clipped, -6.752025947496015, 0.09508268879764989
+WARNING, 2022-09-13 23:03:25,287, trader, refit, Trader factor weigts clipped, -0.0023172016782613478, 8.057486978286963
+WARNING, 2022-09-13 23:03:26,823, company, train_step, 2022-05-01 09:45:00 Fired 55 traders in replenish algorithm
+WARNING, 2022-09-13 23:03:28,908, trader, refit, Trader factor weigts clipped, -1.1015550192491104, 0.0001383269750660635
+WARNING, 2022-09-13 23:03:31,528, trader, refit, Trader factor weigts clipped, -2.2445480542219536, 4.489474331921816
+WARNING, 2022-09-13 23:03:32,674, trader, refit, Trader factor weigts clipped, -6.188953814825869, 0.0010728595401308342
+WARNING, 2022-09-13 23:03:34,089, trader, refit, Trader factor weigts clipped, -112.21573174317689, 112.21487221793508
+WARNING, 2022-09-13 23:03:43,431, trader, refit, Trader factor weigts clipped, -4.192437004659252, 4.191105499994882
+INFO, 2022-09-13 23:03:47,519, company, aggr_update, 2022-05-01 09:45:00: Company Weights, -9.414448404213594, 11.075797694694101
+INFO, 2022-09-13 23:03:47,630, company, train, [Timestamp('2022-05-01 09:45:00'), -159.87879247060508, 0.0067992323487098]
+INFO, 2022-09-13 23:03:47,630, company, train, Epoch 39 finished
+INFO, 2022-09-13 23:03:47,656, company, train, Epoch 40 start
+WARNING, 2022-09-13 23:04:01,980, trader, refit, Trader factor weigts clipped, -1.0530934279376136, 0.0005719893421287222
+WARNING, 2022-09-13 23:04:04,556, trader, refit, Trader factor weigts clipped, -2.5939654686205915, 5.188382254361362
+WARNING, 2022-09-13 23:04:06,743, trader, refit, Trader factor weigts clipped, -86.80881876672704, 86.8078636780037
+WARNING, 2022-09-13 23:04:14,539, trader, refit, Trader factor weigts clipped, -4.494296693904428, 4.492831521626503
+WARNING, 2022-09-13 23:04:18,954, company, train_step, 2022-05-01 10:00:00 Fired 51 traders in replenish algorithm
+WARNING, 2022-09-13 23:04:22,557, trader, refit, Trader factor weigts clipped, -0.15767897960179778, 1.6351851279084981
+WARNING, 2022-09-13 23:04:28,233, trader, refit, Trader factor weigts clipped, -2.4955620490272374, 0.03957194415831438
+WARNING, 2022-09-13 23:04:29,013, trader, refit, Trader factor weigts clipped, -0.0010798864856691424, 4.27801260343856
+WARNING, 2022-09-13 23:04:33,240, trader, refit, Trader factor weigts clipped, -875.6627712760501, 0.0009034089257434373
+INFO, 2022-09-13 23:04:37,748, company, aggr_update, 2022-05-01 10:00:00: Company Weights, -39.99113394664842, 10.892671590694913
+INFO, 2022-09-13 23:04:37,856, company, train, [Timestamp('2022-05-01 10:00:00'), -73.23014440029735, 0.0087254220388136]
+INFO, 2022-09-13 23:04:37,856, company, train, Epoch 40 finished
+INFO, 2022-09-13 23:04:37,883, company, train, Epoch 41 start
+WARNING, 2022-09-13 23:04:59,234, trader, refit, Trader factor weigts clipped, -2.778080924467566, 0.025706709034084573
+WARNING, 2022-09-13 23:04:59,997, trader, refit, Trader factor weigts clipped, -0.0010241649197781687, 4.559803907392614
+WARNING, 2022-09-13 23:05:03,936, trader, refit, Trader factor weigts clipped, -0.0008864678679516248, 720.6002995476267
+WARNING, 2022-09-13 23:05:08,730, company, train_step, 2022-05-01 10:15:00 Fired 52 traders in replenish algorithm
+WARNING, 2022-09-13 23:05:14,772, trader, refit, Trader factor weigts clipped, -0.09598728850652533, 35.342746487030176
+WARNING, 2022-09-13 23:05:17,683, trader, refit, Trader factor weigts clipped, -0.0010273089167007732, 108.68835398655595
+WARNING, 2022-09-13 23:05:22,260, trader, refit, Trader factor weigts clipped, -0.0006756357170638012, 18.104512398668753
+WARNING, 2022-09-13 23:05:24,499, trader, refit, Trader factor weigts clipped, -0.5110119905850721, 20.836591583327078
+WARNING, 2022-09-13 23:05:27,508, trader, refit, Trader factor weigts clipped, -0.0013360867479966308, 1.4960104701345476
+INFO, 2022-09-13 23:05:28,265, company, aggr_update, 2022-05-01 10:15:00: Company Weights, -9.633158556498143, 32.230050499792114
+INFO, 2022-09-13 23:05:28,376, company, train, [Timestamp('2022-05-01 10:15:00'), -0.05958162398237607, 0.0022258267420875]
+INFO, 2022-09-13 23:05:28,377, company, train, Epoch 41 finished
+INFO, 2022-09-13 23:05:28,404, company, train, Epoch 42 start
+WARNING, 2022-09-13 23:05:46,929, trader, refit, Trader factor weigts clipped, -0.11206765014008166, 35.54386222384454
+WARNING, 2022-09-13 23:05:47,340, trader, refit, Trader factor weigts clipped, -0.0007437069098616237, 1.2804520986953778
+WARNING, 2022-09-13 23:05:49,460, trader, refit, Trader factor weigts clipped, -0.0013813354491007822, 94.49505692208916
+WARNING, 2022-09-13 23:05:52,949, trader, refit, Trader factor weigts clipped, -0.1485953772822303, 1.0126185516135315
+WARNING, 2022-09-13 23:05:53,710, trader, refit, Trader factor weigts clipped, -0.0006554149716785421, 55.93379313576501
+WARNING, 2022-09-13 23:05:56,808, trader, refit, Trader factor weigts clipped, -0.6301267577695936, 79.34114429941802
+WARNING, 2022-09-13 23:06:00,477, trader, refit, Trader factor weigts clipped, -0.0012892781221419867, 1.49349075490959
+WARNING, 2022-09-13 23:06:01,624, company, train_step, 2022-05-01 10:30:00 Fired 51 traders in replenish algorithm
+WARNING, 2022-09-13 23:06:03,744, trader, refit, Trader factor weigts clipped, -382.8194150954808, 0.12692256918670805
+WARNING, 2022-09-13 23:06:05,094, trader, refit, Trader factor weigts clipped, -0.00016671093365129834, 1.2740653905140067
+WARNING, 2022-09-13 23:06:05,484, trader, refit, Trader factor weigts clipped, -1.8557410314240872, 1.7721300958699522
+WARNING, 2022-09-13 23:06:07,379, trader, refit, Trader factor weigts clipped, -0.5749774479542303, 2.2995589744450022
+WARNING, 2022-09-13 23:06:10,015, trader, refit, Trader factor weigts clipped, -264.43136745005944, 264.43070789864197
+WARNING, 2022-09-13 23:06:12,137, trader, refit, Trader factor weigts clipped, -1.2377224975489554, 0.07399507345593836
+WARNING, 2022-09-13 23:06:12,509, trader, refit, Trader factor weigts clipped, -0.006530217814825238, 3.561021558865718
+WARNING, 2022-09-13 23:06:17,781, trader, refit, Trader factor weigts clipped, -0.0007721522540075913, 3.3974217423170967
+INFO, 2022-09-13 23:06:20,857, company, aggr_update, 2022-05-01 10:30:00: Company Weights, -10.263832445644457, 11.570878843380143
+INFO, 2022-09-13 23:06:20,967, company, train, [Timestamp('2022-05-01 10:30:00'), -4.222712802623214, 0.0002095019277228]
+INFO, 2022-09-13 23:06:20,967, company, train, Epoch 42 finished
+INFO, 2022-09-13 23:06:20,995, company, train, Epoch 43 start
+WARNING, 2022-09-13 23:06:37,330, trader, refit, Trader factor weigts clipped, -1.560060022207694, 1.5493195783788305
+WARNING, 2022-09-13 23:06:38,802, trader, refit, Trader factor weigts clipped, -0.5733305272776857, 2.292962254753445
+WARNING, 2022-09-13 23:06:39,976, trader, refit, Trader factor weigts clipped, -1.2194621310793743, 0.0003813134011960706
+WARNING, 2022-09-13 23:06:41,189, trader, refit, Trader factor weigts clipped, -146.6520030733582, 146.65135278471158
+WARNING, 2022-09-13 23:06:42,607, trader, refit, Trader factor weigts clipped, -1.1148002882628518, 0.07947185060610076
+WARNING, 2022-09-13 23:06:48,982, trader, refit, Trader factor weigts clipped, -0.0006448047070272027, 3.484336948838804
+WARNING, 2022-09-13 23:06:53,121, company, train_step, 2022-05-01 10:45:00 Fired 51 traders in replenish algorithm
+WARNING, 2022-09-13 23:06:55,942, trader, refit, Trader factor weigts clipped, -0.0006016690115426164, 6.59793614566043
+WARNING, 2022-09-13 23:07:02,912, trader, refit, Trader factor weigts clipped, -2.117408777770819, 0.001833906495518749
+WARNING, 2022-09-13 23:07:09,392, trader, refit, Trader factor weigts clipped, -0.8124030099671797, 1.1054684345782713
+WARNING, 2022-09-13 23:07:10,189, trader, refit, Trader factor weigts clipped, -0.002174437999822722, 3.0735767357583486
+INFO, 2022-09-13 23:07:12,297, company, aggr_update, 2022-05-01 10:45:00: Company Weights, -7.93547180689033, 21.3712758868366
+INFO, 2022-09-13 23:07:12,405, company, train, [Timestamp('2022-05-01 10:45:00'), 0.5178322240053612, -0.00440111212741]
+INFO, 2022-09-13 23:07:12,405, company, train, Epoch 43 finished
+INFO, 2022-09-13 23:07:12,432, company, train, Epoch 44 start
+WARNING, 2022-09-13 23:07:27,162, trader, refit, Trader factor weigts clipped, -376.2495630069662, 0.12264098332319272
+WARNING, 2022-09-13 23:07:27,865, trader, refit, Trader factor weigts clipped, -0.0005399136227287666, 6.609656590954704
+WARNING, 2022-09-13 23:07:34,258, trader, refit, Trader factor weigts clipped, -2.0963376482337512, 0.001819200435104444
+WARNING, 2022-09-13 23:07:39,924, trader, refit, Trader factor weigts clipped, -0.7994752821787251, 1.119647545368643
+WARNING, 2022-09-13 23:07:40,665, trader, refit, Trader factor weigts clipped, -0.0022441004259665127, 3.0217601736054136
+WARNING, 2022-09-13 23:07:43,223, company, train_step, 2022-05-01 11:00:00 Fired 52 traders in replenish algorithm
+WARNING, 2022-09-13 23:07:50,361, trader, refit, Trader factor weigts clipped, -0.0003957570245217612, 5.070217098400384
+WARNING, 2022-09-13 23:07:54,012, trader, refit, Trader factor weigts clipped, -0.026747303608834885, 1.2394985713914253
+WARNING, 2022-09-13 23:07:55,152, trader, refit, Trader factor weigts clipped, -0.1423296688853501, 2.3262191170316258
+WARNING, 2022-09-13 23:07:58,054, trader, refit, Trader factor weigts clipped, -0.0018928744757929431, 179.740702906242
+WARNING, 2022-09-13 23:07:58,410, trader, refit, Trader factor weigts clipped, -1.3740606548299976, 0.7648687446127994
+WARNING, 2022-09-13 23:07:59,891, trader, refit, Trader factor weigts clipped, -1.2533576811384646, 0.16434942737630104
+WARNING, 2022-09-13 23:08:01,353, trader, refit, Trader factor weigts clipped, -1.1145426409862038, 0.0011081366771303347
+INFO, 2022-09-13 23:08:02,417, company, aggr_update, 2022-05-01 11:00:00: Company Weights, -5.971270904108052, 14.484495928583934
+INFO, 2022-09-13 23:08:02,523, company, train, [Timestamp('2022-05-01 11:00:00'), 1.1555317965379985, -0.0032288273351161]
+INFO, 2022-09-13 23:08:02,523, company, train, Epoch 44 finished
+INFO, 2022-09-13 23:08:02,552, company, train, Epoch 45 start
+WARNING, 2022-09-13 23:08:21,219, trader, refit, Trader factor weigts clipped, -0.0004949144385399442, 4.789350888860964
+WARNING, 2022-09-13 23:08:24,095, trader, refit, Trader factor weigts clipped, -0.03140991459799777, 1.262912074873153
+WARNING, 2022-09-13 23:08:25,198, trader, refit, Trader factor weigts clipped, -0.1434529955069291, 2.281796638210622
+WARNING, 2022-09-13 23:08:28,473, trader, refit, Trader factor weigts clipped, -0.001827768510669668, 137.46197535341446
+WARNING, 2022-09-13 23:08:30,266, trader, refit, Trader factor weigts clipped, -1.2657637377123192, 0.0006796526561622097
+WARNING, 2022-09-13 23:08:31,002, trader, refit, Trader factor weigts clipped, -0.0011558044907891073, 1.0522655292776906
+WARNING, 2022-09-13 23:08:33,183, company, train_step, 2022-05-01 11:15:00 Fired 58 traders in replenish algorithm
+WARNING, 2022-09-13 23:08:36,920, trader, refit, Trader factor weigts clipped, -0.12934848890173978, 375.3086890684663
+WARNING, 2022-09-13 23:08:38,008, trader, refit, Trader factor weigts clipped, -1.1250087091731376, 0.5800615792579958
+WARNING, 2022-09-13 23:08:40,574, trader, refit, Trader factor weigts clipped, -0.10152511527187036, 8.939611694385121
+WARNING, 2022-09-13 23:08:42,803, trader, refit, Trader factor weigts clipped, -1.0794793858599314, 1.083268258895267
+WARNING, 2022-09-13 23:08:43,923, trader, refit, Trader factor weigts clipped, -6.814889451363115, 0.06916308582728985
+WARNING, 2022-09-13 23:08:44,724, trader, refit, Trader factor weigts clipped, -0.000356375420231709, 1.1914242365591055
+WARNING, 2022-09-13 23:08:45,074, trader, refit, Trader factor weigts clipped, -1.1394748104606487, 0.0013057864038613976
+WARNING, 2022-09-13 23:08:46,955, trader, refit, Trader factor weigts clipped, -0.0013380055855702444, 413.35222970248157
+WARNING, 2022-09-13 23:08:47,764, trader, refit, Trader factor weigts clipped, -129.6714009548967, 0.0004118677446737674
+WARNING, 2022-09-13 23:08:52,607, trader, refit, Trader factor weigts clipped, -1.010301501712386, 0.02191069817426072
+WARNING, 2022-09-13 23:08:54,003, trader, refit, Trader factor weigts clipped, -0.0012419209728788269, 2.0922974495695463
+WARNING, 2022-09-13 23:08:54,946, trader, refit, Trader factor weigts clipped, -1.4866254082658559, 0.0014349707836139852
+INFO, 2022-09-13 23:08:54,952, company, aggr_update, 2022-05-01 11:15:00: Company Weights, -23.735321325006545, 34.24459167571214
+INFO, 2022-09-13 23:08:55,059, company, train, [Timestamp('2022-05-01 11:15:00'), -0.1096583262165197, 0.0026119369079631]
+INFO, 2022-09-13 23:08:55,059, company, train, Epoch 45 finished
+INFO, 2022-09-13 23:08:55,085, company, train, Epoch 46 start
+WARNING, 2022-09-13 23:09:12,166, trader, refit, Trader factor weigts clipped, -1.0189896663481566, 1.0201180401187158
+WARNING, 2022-09-13 23:09:14,784, trader, refit, Trader factor weigts clipped, -0.025499257306246886, 3.495839008769701
+WARNING, 2022-09-13 23:09:15,539, trader, refit, Trader factor weigts clipped, -6.820017659682501, 0.08300312960469934
+WARNING, 2022-09-13 23:09:16,270, trader, refit, Trader factor weigts clipped, -0.000347346113330238, 1.207534673198797
+WARNING, 2022-09-13 23:09:16,671, trader, refit, Trader factor weigts clipped, -1.2092593968930447, 0.0013092880491357077
+WARNING, 2022-09-13 23:09:18,491, trader, refit, Trader factor weigts clipped, -0.0013196941448379857, 79.65511584888561
+WARNING, 2022-09-13 23:09:19,202, trader, refit, Trader factor weigts clipped, -109.81259396590384, 0.0004367442714660641
+WARNING, 2022-09-13 23:09:25,685, trader, refit, Trader factor weigts clipped, -1.331040213909483, 0.001543657245556792
+WARNING, 2022-09-13 23:09:26,000, company, train_step, 2022-05-01 11:30:00 Fired 59 traders in replenish algorithm
+WARNING, 2022-09-13 23:09:31,113, trader, refit, Trader factor weigts clipped, -0.04162168578020785, 2.171964193713007
+WARNING, 2022-09-13 23:09:35,840, trader, refit, Trader factor weigts clipped, -0.9387031064546497, 1.8769202636689009
+WARNING, 2022-09-13 23:09:41,358, trader, refit, Trader factor weigts clipped, -183.1776549872776, 0.0003160642743154085
+WARNING, 2022-09-13 23:09:42,117, trader, refit, Trader factor weigts clipped, -0.012881677472878768, 3.305051617775255
+WARNING, 2022-09-13 23:09:44,628, trader, refit, Trader factor weigts clipped, -1.6705783486486572, 0.001206906141166467
+INFO, 2022-09-13 23:09:47,881, company, aggr_update, 2022-05-01 11:30:00: Company Weights, -14.01940720721787, 6.827437838445421
+INFO, 2022-09-13 23:09:47,989, company, train, [Timestamp('2022-05-01 11:30:00'), -1.7693120000608202, 0.0050658199443151]
+INFO, 2022-09-13 23:09:47,989, company, train, Epoch 46 finished
+INFO, 2022-09-13 23:09:48,016, company, train, Epoch 47 start
+WARNING, 2022-09-13 23:10:07,225, trader, refit, Trader factor weigts clipped, -0.8467842852061002, 1.7163608273167725
+WARNING, 2022-09-13 23:10:09,444, trader, refit, Trader factor weigts clipped, -1.162238241232166, 0.001457152742556283
+WARNING, 2022-09-13 23:10:13,021, trader, refit, Trader factor weigts clipped, -0.0004476727789288759, 35.51076921627888
+WARNING, 2022-09-13 23:10:15,808, trader, refit, Trader factor weigts clipped, -1.780167875003162, 0.0012317942362183672
+WARNING, 2022-09-13 23:10:18,684, company, train_step, 2022-05-01 11:45:00 Fired 51 traders in replenish algorithm
+WARNING, 2022-09-13 23:10:21,083, trader, refit, Trader factor weigts clipped, -1.0008729387199524, 0.025422814168309826
+WARNING, 2022-09-13 23:10:22,169, trader, refit, Trader factor weigts clipped, -0.0007326129459009226, 1.0068759752876189
+WARNING, 2022-09-13 23:10:23,991, trader, refit, Trader factor weigts clipped, -276.0135620132113, 226.93183408723382
+WARNING, 2022-09-13 23:10:27,949, trader, refit, Trader factor weigts clipped, -1.3436494675096506, 6.101021456683409e-05
+WARNING, 2022-09-13 23:10:34,304, trader, refit, Trader factor weigts clipped, -0.0015597916162943142, 100.77470617112641
+WARNING, 2022-09-13 23:10:35,106, trader, refit, Trader factor weigts clipped, -312.72667366849925, 315.20648691131396
+INFO, 2022-09-13 23:10:37,685, company, aggr_update, 2022-05-01 11:45:00: Company Weights, -5.627770820557742, 6.871878612821286
+INFO, 2022-09-13 23:10:37,792, company, train, [Timestamp('2022-05-01 11:45:00'), 0.0989614957529488, 0.0018573286573338]
+INFO, 2022-09-13 23:10:37,792, company, train, Epoch 47 finished
+INFO, 2022-09-13 23:10:37,819, company, train, Epoch 48 start
+WARNING, 2022-09-13 23:10:53,000, trader, refit, Trader factor weigts clipped, -1.182114207298781, 0.39501041017402716
+WARNING, 2022-09-13 23:10:54,713, trader, refit, Trader factor weigts clipped, -259.80266508833074, 195.12028188872935
+WARNING, 2022-09-13 23:10:58,263, trader, refit, Trader factor weigts clipped, -1.0462137649520775, 0.0001947645308916155
+WARNING, 2022-09-13 23:11:02,675, trader, refit, Trader factor weigts clipped, -0.03457421402796563, 1.5223367280319773
+WARNING, 2022-09-13 23:11:04,458, trader, refit, Trader factor weigts clipped, -0.001428696400668488, 252.65203688122057
+WARNING, 2022-09-13 23:11:05,268, trader, refit, Trader factor weigts clipped, -470.1407753449701, 472.6372575174529
+WARNING, 2022-09-13 23:11:08,575, company, train_step, 2022-05-01 12:00:00 Fired 52 traders in replenish algorithm
+WARNING, 2022-09-13 23:11:15,123, trader, refit, Trader factor weigts clipped, -0.0004334396347926983, 135.00485420867952
+WARNING, 2022-09-13 23:11:15,867, trader, refit, Trader factor weigts clipped, -3.016650577070216, 0.0017862145175555654
+WARNING, 2022-09-13 23:11:18,567, trader, refit, Trader factor weigts clipped, -0.019011953880465005, 136.50378235083878
+WARNING, 2022-09-13 23:11:18,930, trader, refit, Trader factor weigts clipped, -4.5332358701719055, 0.38742297870785786
+WARNING, 2022-09-13 23:11:21,742, trader, refit, Trader factor weigts clipped, -0.001677407714012755, 405.7934412925586
+WARNING, 2022-09-13 23:11:23,915, trader, refit, Trader factor weigts clipped, -1.759906868389553, 0.00023673998440511962
+WARNING, 2022-09-13 23:11:25,374, trader, refit, Trader factor weigts clipped, -9.10565133265047, 10.222888877625158
+INFO, 2022-09-13 23:11:27,385, company, aggr_update, 2022-05-01 12:00:00: Company Weights, -6.358690534011324, 8.574990698677405
+INFO, 2022-09-13 23:11:27,489, company, train, [Timestamp('2022-05-01 12:00:00'), 0.08997268169583447, 0.0008221043731025]
+INFO, 2022-09-13 23:11:27,489, company, train, Epoch 48 finished
+INFO, 2022-09-13 23:11:27,523, company, train, Epoch 49 start
+WARNING, 2022-09-13 23:11:45,858, trader, refit, Trader factor weigts clipped, -0.00040114032562499347, 133.83316089442633
+WARNING, 2022-09-13 23:11:46,563, trader, refit, Trader factor weigts clipped, -3.0763993633357867, 0.0017830683501075236
+WARNING, 2022-09-13 23:11:49,218, trader, refit, Trader factor weigts clipped, -0.03027278557696079, 118.93544588534513
+WARNING, 2022-09-13 23:11:54,038, trader, refit, Trader factor weigts clipped, -1.7191388919369188, 0.0002548888603983966
+WARNING, 2022-09-13 23:11:55,098, trader, refit, Trader factor weigts clipped, -8.88962174795159, 9.890709143851728
+WARNING, 2022-09-13 23:11:57,492, company, train_step, 2022-05-01 12:15:00 Fired 52 traders in replenish algorithm
+WARNING, 2022-09-13 23:11:58,793, trader, refit, Trader factor weigts clipped, -1.032909318474896, 0.0007723107260852031
+WARNING, 2022-09-13 23:11:59,928, trader, refit, Trader factor weigts clipped, -1.4495908228108154, 0.24329663159934933
+WARNING, 2022-09-13 23:12:03,563, trader, refit, Trader factor weigts clipped, -18.683679203886406, 0.0003743732482421066
+WARNING, 2022-09-13 23:12:06,062, trader, refit, Trader factor weigts clipped, -1.1762378862706215, 0.11439930572985901
+WARNING, 2022-09-13 23:12:13,754, trader, refit, Trader factor weigts clipped, -1.1818206558320719, 0.12351194814267198
+INFO, 2022-09-13 23:12:16,658, company, aggr_update, 2022-05-01 12:15:00: Company Weights, -3.971503442461298, 5.043908725888938
+INFO, 2022-09-13 23:12:16,763, company, train, [Timestamp('2022-05-01 12:15:00'), -0.00798776527687857, 0.0001936461953258]
+INFO, 2022-09-13 23:12:16,764, company, train, Epoch 49 finished
+INFO, 2022-09-13 23:12:16,791, company, train, Epoch 50 start
+WARNING, 2022-09-13 23:12:34,510, trader, refit, Trader factor weigts clipped, -19.45497430722857, 0.00037474775680773663
+WARNING, 2022-09-13 23:12:37,310, trader, refit, Trader factor weigts clipped, -1.0547033558022911, 0.10526587068719379
+WARNING, 2022-09-13 23:12:42,583, trader, refit, Trader factor weigts clipped, -0.0015774362813516449, 378.0217947064653
+WARNING, 2022-09-13 23:12:47,450, company, train_step, 2022-05-01 12:30:00 Fired 53 traders in replenish algorithm
+WARNING, 2022-09-13 23:12:48,323, trader, refit, Trader factor weigts clipped, -1.270188355792065, 0.00026999519493309775
+WARNING, 2022-09-13 23:12:56,181, trader, refit, Trader factor weigts clipped, -0.00011151788684660529, 1.8604454714016814
+WARNING, 2022-09-13 23:12:57,507, trader, refit, Trader factor weigts clipped, -1.576553806788277, 0.11030454204958692
+INFO, 2022-09-13 23:13:06,452, company, aggr_update, 2022-05-01 12:30:00: Company Weights, -15.068045842189077, 28.575201301638586
+INFO, 2022-09-13 23:13:06,560, company, train, [Timestamp('2022-05-01 12:30:00'), -0.17338456828631998, -0.0015438100503473]
+INFO, 2022-09-13 23:13:06,561, company, train, Epoch 50 finished
+INFO, 2022-09-13 23:13:06,587, company, train, Epoch 51 start
+WARNING, 2022-09-13 23:13:26,499, trader, refit, Trader factor weigts clipped, -9.69143737443276e-05, 1.8506223600423866
+WARNING, 2022-09-13 23:13:27,407, trader, refit, Trader factor weigts clipped, -1.3935566677322777, 0.08917940022357936
+WARNING, 2022-09-13 23:13:36,237, company, train_step, 2022-05-01 12:45:00 Fired 52 traders in replenish algorithm
+WARNING, 2022-09-13 23:13:37,246, trader, refit, Trader factor weigts clipped, -1.08201166240062, 0.016340367368770724
+WARNING, 2022-09-13 23:13:38,661, trader, refit, Trader factor weigts clipped, -0.05559181033662711, 195.23933978761514
+WARNING, 2022-09-13 23:13:40,096, trader, refit, Trader factor weigts clipped, -4.160088832599125, 4.829696079766716
+WARNING, 2022-09-13 23:13:41,200, trader, refit, Trader factor weigts clipped, -1.281941280456539, 0.0034106315267190797
+WARNING, 2022-09-13 23:13:43,479, trader, refit, Trader factor weigts clipped, -13.8890121192915, 13.888335357923406
+WARNING, 2022-09-13 23:13:51,641, trader, refit, Trader factor weigts clipped, -3.112796578965458, 3.111859393326144
+WARNING, 2022-09-13 23:13:55,645, trader, refit, Trader factor weigts clipped, -2.9764524884337944, 0.00014634909707767486
+INFO, 2022-09-13 23:13:55,650, company, aggr_update, 2022-05-01 12:45:00: Company Weights, -14.004655255871336, 17.317735046014747
+INFO, 2022-09-13 23:13:55,759, company, train, [Timestamp('2022-05-01 12:45:00'), 8.784512655047376, -0.0015428428855503]
+INFO, 2022-09-13 23:13:55,759, company, train, Epoch 51 finished
+INFO, 2022-09-13 23:13:55,787, company, train, Epoch 52 start
+WARNING, 2022-09-13 23:14:08,336, trader, refit, Trader factor weigts clipped, -1.1259558360073172, 0.017793984211457885
+WARNING, 2022-09-13 23:14:09,784, trader, refit, Trader factor weigts clipped, -0.05320836909878384, 197.2779850851488
+WARNING, 2022-09-13 23:14:10,530, trader, refit, Trader factor weigts clipped, -0.05502948808472805, 332.5293798761487
+WARNING, 2022-09-13 23:14:11,296, trader, refit, Trader factor weigts clipped, -4.125878441948777, 4.809310036662496
+WARNING, 2022-09-13 23:14:11,974, trader, refit, Trader factor weigts clipped, -0.0008956441375220923, 2.5490064070532172
+WARNING, 2022-09-13 23:14:12,742, trader, refit, Trader factor weigts clipped, -1.2392092373596704, 0.003434517091141322
+WARNING, 2022-09-13 23:14:14,567, trader, refit, Trader factor weigts clipped, -52.47602660485089, 52.47532528519007
+WARNING, 2022-09-13 23:14:22,727, trader, refit, Trader factor weigts clipped, -2.9255252171452333, 2.9247453773376155
+WARNING, 2022-09-13 23:14:26,428, trader, refit, Trader factor weigts clipped, -2.9730445140034725, 0.0001193143885886074
+WARNING, 2022-09-13 23:14:26,731, company, train_step, 2022-05-01 13:00:00 Fired 50 traders in replenish algorithm
+WARNING, 2022-09-13 23:14:28,638, trader, refit, Trader factor weigts clipped, -1.7735495909394625, 1.7737125650470016
+WARNING, 2022-09-13 23:14:40,080, trader, refit, Trader factor weigts clipped, -1.3599367310091734, 0.6156769358510664
+WARNING, 2022-09-13 23:14:43,266, trader, refit, Trader factor weigts clipped, -0.0011794536545033565, 22.524281372133267
+WARNING, 2022-09-13 23:14:44,751, trader, refit, Trader factor weigts clipped, -0.04877871442536544, 875.4936005229639
+INFO, 2022-09-13 23:14:45,081, company, aggr_update, 2022-05-01 13:00:00: Company Weights, -5.920302671320618, 7.441405650327343
+INFO, 2022-09-13 23:14:45,188, company, train, [Timestamp('2022-05-01 13:00:00'), -0.08224369325214687, -0.0011021121769977]
+INFO, 2022-09-13 23:14:45,188, company, train, Epoch 52 finished
+INFO, 2022-09-13 23:14:45,214, company, train, Epoch 53 start
+WARNING, 2022-09-13 23:14:59,430, trader, refit, Trader factor weigts clipped, -1.7750139881803506, 1.7751759058807568
+WARNING, 2022-09-13 23:15:10,695, trader, refit, Trader factor weigts clipped, -1.2434526128236731, 0.6124878485548746
+WARNING, 2022-09-13 23:15:13,435, trader, refit, Trader factor weigts clipped, -0.0011689992867786598, 26.67159496858882
+WARNING, 2022-09-13 23:15:14,833, trader, refit, Trader factor weigts clipped, -0.05633991585191076, 855.7164770034948
+WARNING, 2022-09-13 23:15:15,569, company, train_step, 2022-05-01 13:15:00 Fired 52 traders in replenish algorithm
+WARNING, 2022-09-13 23:15:18,672, trader, refit, Trader factor weigts clipped, -0.0007743800490871422, 303.8163161823197
+WARNING, 2022-09-13 23:15:19,067, trader, refit, Trader factor weigts clipped, -0.09509797136916609, 367.7560790836836
+WARNING, 2022-09-13 23:15:23,451, trader, refit, Trader factor weigts clipped, -0.0016553657845891547, 3.5026918310562
+WARNING, 2022-09-13 23:15:28,871, trader, refit, Trader factor weigts clipped, -1.281456838764147, 0.0004903210779707854
+WARNING, 2022-09-13 23:15:31,094, trader, refit, Trader factor weigts clipped, -25.217659269591692, 0.0005137329709002936
+WARNING, 2022-09-13 23:15:34,697, trader, refit, Trader factor weigts clipped, -0.0035066710062601203, 25.703760964485873
+INFO, 2022-09-13 23:15:34,702, company, aggr_update, 2022-05-01 13:15:00: Company Weights, -15.59996126964758, 17.89080012794649
+INFO, 2022-09-13 23:15:34,809, company, train, [Timestamp('2022-05-01 13:15:00'), -0.04967509017467618, 0.0050254855374749]
+INFO, 2022-09-13 23:15:34,809, company, train, Epoch 53 finished
+INFO, 2022-09-13 23:15:34,835, company, train, Epoch 54 start
+WARNING, 2022-09-13 23:15:49,445, trader, refit, Trader factor weigts clipped, -0.00072754906126492, 304.1838711372397
+WARNING, 2022-09-13 23:15:49,792, trader, refit, Trader factor weigts clipped, -0.08643387656326129, 375.82644991417504
+WARNING, 2022-09-13 23:15:53,400, trader, refit, Trader factor weigts clipped, -0.0016416993552943078, 3.485019239944375
+WARNING, 2022-09-13 23:15:59,149, trader, refit, Trader factor weigts clipped, -1.2990116423823332, 0.00047664867740758693
+WARNING, 2022-09-13 23:16:01,291, trader, refit, Trader factor weigts clipped, -17.84346935132667, 0.0005253597556295064
+WARNING, 2022-09-13 23:16:04,879, trader, refit, Trader factor weigts clipped, -0.003909219394380159, 25.217804459029896
+WARNING, 2022-09-13 23:16:05,258, company, train_step, 2022-05-01 13:30:00 Fired 54 traders in replenish algorithm
+WARNING, 2022-09-13 23:16:08,380, trader, refit, Trader factor weigts clipped, -0.8592987072076478, 1.3768652465629256
+WARNING, 2022-09-13 23:16:17,465, trader, refit, Trader factor weigts clipped, -0.10646946141302535, 2.4682496722169063
+WARNING, 2022-09-13 23:16:20,899, trader, refit, Trader factor weigts clipped, -0.0008359609667092628, 3.5957435133645785
+WARNING, 2022-09-13 23:16:21,289, trader, refit, Trader factor weigts clipped, -1.3329108908282654, 0.01886530972361475
+WARNING, 2022-09-13 23:16:24,209, trader, refit, Trader factor weigts clipped, -1.0923030130497615, 1.0917982188358057
+INFO, 2022-09-13 23:16:25,615, company, aggr_update, 2022-05-01 13:30:00: Company Weights, -6.33434347877752, 12.45442170136301
+INFO, 2022-09-13 23:16:25,726, company, train, [Timestamp('2022-05-01 13:30:00'), -0.009674832780215106, 0.0039010415857592]
+INFO, 2022-09-13 23:16:25,726, company, train, Epoch 54 finished
+INFO, 2022-09-13 23:16:25,752, company, train, Epoch 55 start
+WARNING, 2022-09-13 23:16:40,358, trader, refit, Trader factor weigts clipped, -0.8912373260806338, 1.1697875695977988
+WARNING, 2022-09-13 23:16:48,780, trader, refit, Trader factor weigts clipped, -0.09252093166132802, 2.298289152473577
+WARNING, 2022-09-13 23:16:51,380, trader, refit, Trader factor weigts clipped, -0.001080991438010828, 3.811921241727361
+WARNING, 2022-09-13 23:16:51,765, trader, refit, Trader factor weigts clipped, -1.364448537055564, 0.024179741746391252
+WARNING, 2022-09-13 23:16:56,367, company, train_step, 2022-05-01 13:45:00 Fired 52 traders in replenish algorithm
+WARNING, 2022-09-13 23:17:00,584, trader, refit, Trader factor weigts clipped, -0.12912641942684483, 1.7184915880166443
+WARNING, 2022-09-13 23:17:02,456, trader, refit, Trader factor weigts clipped, -1.2105518062941047, 1.2127790610340254
+WARNING, 2022-09-13 23:17:02,787, trader, refit, Trader factor weigts clipped, -2.0804641373386352, 0.00028317750648002
+WARNING, 2022-09-13 23:17:03,541, trader, refit, Trader factor weigts clipped, -0.0005369233971238714, 2.6092297570532166
+WARNING, 2022-09-13 23:17:07,316, trader, refit, Trader factor weigts clipped, -0.07671988333877333, 50.60011194157082
+WARNING, 2022-09-13 23:17:08,821, trader, refit, Trader factor weigts clipped, -1.9566034961687138, 0.0014473860642474975
+WARNING, 2022-09-13 23:17:15,734, trader, refit, Trader factor weigts clipped, -1.9025367488718001, 0.0027329657548796522
+INFO, 2022-09-13 23:17:15,738, company, aggr_update, 2022-05-01 13:45:00: Company Weights, -11.935801390223194, 8.507707965072967
+INFO, 2022-09-13 23:17:15,848, company, train, [Timestamp('2022-05-01 13:45:00'), -0.006672794405743311, -0.0011964552673317]
+INFO, 2022-09-13 23:17:15,849, company, train, Epoch 55 finished
+INFO, 2022-09-13 23:17:15,874, company, train, Epoch 56 start
+WARNING, 2022-09-13 23:17:30,217, trader, refit, Trader factor weigts clipped, -1.127146781808369, 0.03771176055868719
+WARNING, 2022-09-13 23:17:33,897, trader, refit, Trader factor weigts clipped, -1.1752956669491992, 1.1771973286978676
+WARNING, 2022-09-13 23:17:34,266, trader, refit, Trader factor weigts clipped, -2.1492764052337465, 0.00039631769894267477
+WARNING, 2022-09-13 23:17:34,999, trader, refit, Trader factor weigts clipped, -0.0007510023893154788, 90.37540306340539
+WARNING, 2022-09-13 23:17:37,874, trader, refit, Trader factor weigts clipped, -0.07997051651864481, 56.34801716363201
+WARNING, 2022-09-13 23:17:39,274, trader, refit, Trader factor weigts clipped, -1.274656793188881, 0.001487861749175492
+WARNING, 2022-09-13 23:17:46,095, trader, refit, Trader factor weigts clipped, -1.9735116825409265, 0.0029801061878681583
+WARNING, 2022-09-13 23:17:46,495, company, train_step, 2022-05-01 14:00:00 Fired 54 traders in replenish algorithm
+WARNING, 2022-09-13 23:17:48,474, trader, refit, Trader factor weigts clipped, -1.4934922576076666, 0.0005691199890432487
+WARNING, 2022-09-13 23:17:49,532, trader, refit, Trader factor weigts clipped, -1.8518541329117868, 0.0012697697927434074
+WARNING, 2022-09-13 23:17:54,770, trader, refit, Trader factor weigts clipped, -1.159764249829174, 0.0005925427899255053
+WARNING, 2022-09-13 23:17:58,053, trader, refit, Trader factor weigts clipped, -31.55761855592727, 0.1327056575120814
+WARNING, 2022-09-13 23:17:59,818, trader, refit, Trader factor weigts clipped, -269.59051785590196, 0.0006032000728825583
+WARNING, 2022-09-13 23:18:02,122, trader, refit, Trader factor weigts clipped, -2.888340092114038, 0.339549692376073
+WARNING, 2022-09-13 23:18:05,522, trader, refit, Trader factor weigts clipped, -1.811915137382331, 0.3076943150858331
+WARNING, 2022-09-13 23:18:06,625, trader, refit, Trader factor weigts clipped, -0.00045843418100042626, 105.51375708044486
+INFO, 2022-09-13 23:18:06,630, company, aggr_update, 2022-05-01 14:00:00: Company Weights, -8.253272819168188, 9.802654018556611
+INFO, 2022-09-13 23:18:06,741, company, train, [Timestamp('2022-05-01 14:00:00'), -0.012875514495023591, -0.0009072365136484]
+INFO, 2022-09-13 23:18:06,741, company, train, Epoch 56 finished
+INFO, 2022-09-13 23:18:06,768, company, train, Epoch 57 start
+WARNING, 2022-09-13 23:18:20,754, trader, refit, Trader factor weigts clipped, -1.4551060870051042, 0.0005865768230699799
+WARNING, 2022-09-13 23:18:21,833, trader, refit, Trader factor weigts clipped, -1.8473185536455465, 0.0012676460363745244
+WARNING, 2022-09-13 23:18:26,514, trader, refit, Trader factor weigts clipped, -1.1568010823754018, 0.0005575975564607412
+WARNING, 2022-09-13 23:18:29,009, trader, refit, Trader factor weigts clipped, -32.50230032869801, 0.1355542235136793
+WARNING, 2022-09-13 23:18:30,823, trader, refit, Trader factor weigts clipped, -272.14338124594667, 0.000584492483607871
+WARNING, 2022-09-13 23:18:33,013, trader, refit, Trader factor weigts clipped, -2.8928993518787562, 0.3249901968067845
+WARNING, 2022-09-13 23:18:34,516, trader, refit, Trader factor weigts clipped, -1.2226621408258276, 0.07427242119277717
+WARNING, 2022-09-13 23:18:37,159, trader, refit, Trader factor weigts clipped, -0.0004471171969127768, 100.28355480968074
+WARNING, 2022-09-13 23:18:37,544, company, train_step, 2022-05-01 14:15:00 Fired 54 traders in replenish algorithm
+WARNING, 2022-09-13 23:18:44,464, trader, refit, Trader factor weigts clipped, -1.7301029771784118, 1.729696203851471
+WARNING, 2022-09-13 23:18:48,764, trader, refit, Trader factor weigts clipped, -0.0005883124696091536, 1.06209072488611
+WARNING, 2022-09-13 23:18:49,119, trader, refit, Trader factor weigts clipped, -1.101145154378723, 0.002386828228667196
+WARNING, 2022-09-13 23:18:53,007, trader, refit, Trader factor weigts clipped, -0.04978476316652908, 255.2459925340936
+WARNING, 2022-09-13 23:18:53,376, trader, refit, Trader factor weigts clipped, -82.34527263450714, 0.5047787478268632
+WARNING, 2022-09-13 23:18:53,698, trader, refit, Trader factor weigts clipped, -1.1968500084663682, 1.2356292809227307
+WARNING, 2022-09-13 23:18:56,552, trader, refit, Trader factor weigts clipped, -0.03273533092602976, 1.6054725902964253
+INFO, 2022-09-13 23:18:57,291, company, aggr_update, 2022-05-01 14:15:00: Company Weights, -15.588876207120062, 20.45565577137596
+INFO, 2022-09-13 23:18:57,399, company, train, [Timestamp('2022-05-01 14:15:00'), 0.3700515518583233, -0.0006947633869777]
+INFO, 2022-09-13 23:18:57,399, company, train, Epoch 57 finished
+INFO, 2022-09-13 23:18:57,426, company, train, Epoch 58 start
+WARNING, 2022-09-13 23:19:15,480, trader, refit, Trader factor weigts clipped, -1.7103642116008877, 1.7099345442113365
+WARNING, 2022-09-13 23:19:19,424, trader, refit, Trader factor weigts clipped, -0.0006010782661006957, 1.0693329787125097
+WARNING, 2022-09-13 23:19:19,717, trader, refit, Trader factor weigts clipped, -1.0954856744200152, 0.002382510998619293
+WARNING, 2022-09-13 23:19:23,919, trader, refit, Trader factor weigts clipped, -0.04116818284024176, 246.03794738769645
+WARNING, 2022-09-13 23:19:24,262, trader, refit, Trader factor weigts clipped, -82.75934347641441, 0.5013245629097713
+WARNING, 2022-09-13 23:19:24,621, trader, refit, Trader factor weigts clipped, -1.194422444957395, 1.2333315292823983
+WARNING, 2022-09-13 23:19:26,675, trader, refit, Trader factor weigts clipped, -0.030788771964958463, 1.605242722052064
+WARNING, 2022-09-13 23:19:27,812, company, train_step, 2022-05-01 14:30:00 Fired 53 traders in replenish algorithm
+WARNING, 2022-09-13 23:19:28,404, trader, refit, Trader factor weigts clipped, -0.001269287038931921, 397.79110336424577
+WARNING, 2022-09-13 23:19:29,151, trader, refit, Trader factor weigts clipped, -1.7469416705074978, 0.21845248094547015
+WARNING, 2022-09-13 23:19:30,269, trader, refit, Trader factor weigts clipped, -0.0009795665605483498, 156.787922013049
+WARNING, 2022-09-13 23:19:35,633, trader, refit, Trader factor weigts clipped, -1.0843112231698633, 0.0002173182753443191
+WARNING, 2022-09-13 23:19:36,037, trader, refit, Trader factor weigts clipped, -0.05852650606694318, 404.95574138080593
+WARNING, 2022-09-13 23:19:36,412, trader, refit, Trader factor weigts clipped, -2.867436889753076, 0.0004473434051953307
+WARNING, 2022-09-13 23:19:39,818, trader, refit, Trader factor weigts clipped, -0.0006249362409320725, 165.1244224298568
+WARNING, 2022-09-13 23:19:42,071, trader, refit, Trader factor weigts clipped, -2.2728042254872145, 0.0009120798120095098
+WARNING, 2022-09-13 23:19:43,622, trader, refit, Trader factor weigts clipped, -2.7702315985433343, -1.5236189156644518e-12
+WARNING, 2022-09-13 23:19:45,934, trader, refit, Trader factor weigts clipped, -0.001042460226176907, 115.99045837037322
+WARNING, 2022-09-13 23:19:47,051, trader, refit, Trader factor weigts clipped, -1.3083521084293932, 1.3081783479789453
+INFO, 2022-09-13 23:19:48,236, company, aggr_update, 2022-05-01 14:30:00: Company Weights, -15.8873367690421, 27.429366294178482
+INFO, 2022-09-13 23:19:48,352, company, train, [Timestamp('2022-05-01 14:30:00'), -0.014389234370524464, 0.0002576810844427]
+INFO, 2022-09-13 23:19:48,353, company, train, Epoch 58 finished
+INFO, 2022-09-13 23:19:48,379, company, train, Epoch 59 start
+WARNING, 2022-09-13 23:20:01,219, trader, refit, Trader factor weigts clipped, -0.001287337706078917, 403.9251916277846
+WARNING, 2022-09-13 23:20:01,965, trader, refit, Trader factor weigts clipped, -1.759468417971537, 0.21626961842566886
+WARNING, 2022-09-13 23:20:03,094, trader, refit, Trader factor weigts clipped, -0.0009812163583967353, 157.38047391500663
+WARNING, 2022-09-13 23:20:08,839, trader, refit, Trader factor weigts clipped, -1.0813323457616146, 0.0002113343187377057
+WARNING, 2022-09-13 23:20:09,169, trader, refit, Trader factor weigts clipped, -0.058879942166708665, 405.15419029011053
+WARNING, 2022-09-13 23:20:09,567, trader, refit, Trader factor weigts clipped, -2.8396604200518905, 0.0004581675284061776
+WARNING, 2022-09-13 23:20:12,828, trader, refit, Trader factor weigts clipped, -0.0006318420011979242, 164.48109252933793
+WARNING, 2022-09-13 23:20:14,360, trader, refit, Trader factor weigts clipped, -2.2682120226214577, 0.0009147979952693134
+WARNING, 2022-09-13 23:20:15,527, trader, refit, Trader factor weigts clipped, -0.0014027274635913015, 314.9722188962829
+WARNING, 2022-09-13 23:20:16,384, trader, refit, Trader factor weigts clipped, -2.8502464750099383, -1.6073950472787844e-12
+WARNING, 2022-09-13 23:20:17,836, trader, refit, Trader factor weigts clipped, -1.89111816017035, 0.30003919415666547
+WARNING, 2022-09-13 23:20:18,878, trader, refit, Trader factor weigts clipped, -1.3019043040550353, 1.3017275963554225
+WARNING, 2022-09-13 23:20:19,998, company, train_step, 2022-05-01 14:45:00 Fired 55 traders in replenish algorithm
+WARNING, 2022-09-13 23:20:20,974, trader, refit, Trader factor weigts clipped, -0.0007212715877775907, 336.74588450040625
+WARNING, 2022-09-13 23:20:32,132, trader, refit, Trader factor weigts clipped, -0.0015442669568656304, 75.23265943415448
+WARNING, 2022-09-13 23:20:33,526, trader, refit, Trader factor weigts clipped, -2.4288540779388654, 1.46167188743625e-06
+WARNING, 2022-09-13 23:20:36,476, trader, refit, Trader factor weigts clipped, -26.013520196591443, 0.0016147242705208953
+WARNING, 2022-09-13 23:20:40,389, trader, refit, Trader factor weigts clipped, -215.42292462728545, 0.9510132192435676
+INFO, 2022-09-13 23:20:40,770, company, aggr_update, 2022-05-01 14:45:00: Company Weights, -12.963990735019342, 9.73837156097796
+INFO, 2022-09-13 23:20:40,885, company, train, [Timestamp('2022-05-01 14:45:00'), 0.024004981940798253, -0.0011761057175229]
+INFO, 2022-09-13 23:20:40,885, company, train, Epoch 59 finished
+INFO, 2022-09-13 23:20:40,913, company, train, Epoch 60 start
+WARNING, 2022-09-13 23:20:54,037, trader, refit, Trader factor weigts clipped, -0.0007119080710521965, 326.5882537177579
+WARNING, 2022-09-13 23:21:03,601, trader, refit, Trader factor weigts clipped, -0.001524264569778601, 78.12958163479666
+WARNING, 2022-09-13 23:21:04,982, trader, refit, Trader factor weigts clipped, -2.2814687344535227, 1.454676543874786e-06
+WARNING, 2022-09-13 23:21:07,903, trader, refit, Trader factor weigts clipped, -25.572241497893298, 0.00159001761245392
+WARNING, 2022-09-13 23:21:11,221, trader, refit, Trader factor weigts clipped, -212.65648110888998, 0.9998894182791676
+WARNING, 2022-09-13 23:21:12,042, company, train_step, 2022-05-01 15:00:00 Fired 51 traders in replenish algorithm
+WARNING, 2022-09-13 23:21:13,750, trader, refit, Trader factor weigts clipped, -0.00015783150909422244, 35.775763167300205
+WARNING, 2022-09-13 23:21:23,590, trader, refit, Trader factor weigts clipped, -0.003090430197168953, 1.6310097953991243
+WARNING, 2022-09-13 23:21:29,027, trader, refit, Trader factor weigts clipped, -3.4172015011345813, 1.102315471089533
+WARNING, 2022-09-13 23:21:30,078, trader, refit, Trader factor weigts clipped, -0.0006028664333543505, 32.7715918620097
+WARNING, 2022-09-13 23:21:31,201, trader, refit, Trader factor weigts clipped, -1.3662885809236665, 0.2163640815153741
+INFO, 2022-09-13 23:21:31,557, company, aggr_update, 2022-05-01 15:00:00: Company Weights, -10.003671313426924, 6.935121313691327
+INFO, 2022-09-13 23:21:31,674, company, train, [Timestamp('2022-05-01 15:00:00'), 0.0005648468344454406, -0.0031123713375972]
+INFO, 2022-09-13 23:21:31,675, company, train, Epoch 60 finished
+INFO, 2022-09-13 23:21:31,701, company, train, Epoch 61 start
+WARNING, 2022-09-13 23:21:45,801, trader, refit, Trader factor weigts clipped, -0.00019712362685190697, 43.150272864134116
+WARNING, 2022-09-13 23:21:54,352, trader, refit, Trader factor weigts clipped, -0.003243862121475566, 1.566335150358064
+WARNING, 2022-09-13 23:22:00,014, trader, refit, Trader factor weigts clipped, -3.4552663155794803, 1.0817104741597812
+WARNING, 2022-09-13 23:22:01,167, trader, refit, Trader factor weigts clipped, -0.0006589926832678155, 33.55160129377699
+WARNING, 2022-09-13 23:22:02,208, trader, refit, Trader factor weigts clipped, -1.317386621961606, 0.21500501071413403
+WARNING, 2022-09-13 23:22:03,388, company, train_step, 2022-05-01 15:15:00 Fired 52 traders in replenish algorithm
+WARNING, 2022-09-13 23:22:04,598, trader, refit, Trader factor weigts clipped, -0.4210321893105429, 1.01971556283174
+WARNING, 2022-09-13 23:22:08,281, trader, refit, Trader factor weigts clipped, -11.666503234736908, 0.10183355063206459
+WARNING, 2022-09-13 23:22:08,598, trader, refit, Trader factor weigts clipped, -2.443590643286186e-05, 409.2108173492623
+WARNING, 2022-09-13 23:22:12,285, trader, refit, Trader factor weigts clipped, -0.0009789291015690452, 1.1104996750821825
+WARNING, 2022-09-13 23:22:13,526, trader, refit, Trader factor weigts clipped, -1.0215185650170862, 0.31923274020358955
+WARNING, 2022-09-13 23:22:16,759, trader, refit, Trader factor weigts clipped, -1.4477361078800723, 0.12276103901813191
+WARNING, 2022-09-13 23:22:18,871, trader, refit, Trader factor weigts clipped, -0.0029812274412295246, 1.0855278674103284
+WARNING, 2022-09-13 23:22:21,491, trader, refit, Trader factor weigts clipped, -9.953540974513958, 9.784335382393746
+INFO, 2022-09-13 23:22:22,615, company, aggr_update, 2022-05-01 15:15:00: Company Weights, -16.24211480308751, 29.20955425690801
+INFO, 2022-09-13 23:22:22,725, company, train, [Timestamp('2022-05-01 15:15:00'), 0.7880833797700865, -0.0023371272358487]
+INFO, 2022-09-13 23:22:22,725, company, train, Epoch 61 finished
+INFO, 2022-09-13 23:22:22,752, company, train, Epoch 62 start
+WARNING, 2022-09-13 23:22:36,220, trader, refit, Trader factor weigts clipped, -0.4154177178473755, 1.0440156572761103
+WARNING, 2022-09-13 23:22:38,795, trader, refit, Trader factor weigts clipped, -11.351051326973558, 0.10525546757300464
+WARNING, 2022-09-13 23:22:39,167, trader, refit, Trader factor weigts clipped, -0.00014125575110041232, 371.3203680497954
+WARNING, 2022-09-13 23:22:42,824, trader, refit, Trader factor weigts clipped, -0.0009479277471633144, 1.109322826823219
+WARNING, 2022-09-13 23:22:44,023, trader, refit, Trader factor weigts clipped, -1.0402283137908108, 0.3080084375992004
+WARNING, 2022-09-13 23:22:47,578, trader, refit, Trader factor weigts clipped, -1.4057242827626089, 0.12049824648238268
+WARNING, 2022-09-13 23:22:49,656, trader, refit, Trader factor weigts clipped, -0.003045225941645111, 1.1170933744525533
+WARNING, 2022-09-13 23:22:51,182, trader, refit, Trader factor weigts clipped, -0.0010367470413170587, 137.69355391088445
+WARNING, 2022-09-13 23:22:52,343, trader, refit, Trader factor weigts clipped, -9.884134859075413, 9.712749502404534
+WARNING, 2022-09-13 23:22:53,818, company, train_step, 2022-05-01 15:30:00 Fired 53 traders in replenish algorithm
+WARNING, 2022-09-13 23:22:55,106, trader, refit, Trader factor weigts clipped, -0.0008825425404893649, 8.979082596798266
+WARNING, 2022-09-13 23:22:56,989, trader, refit, Trader factor weigts clipped, -0.0007608699556222586, 4.287993234853172
+WARNING, 2022-09-13 23:23:00,368, trader, refit, Trader factor weigts clipped, -12.477726637139614, 0.0183469277505882
+WARNING, 2022-09-13 23:23:01,135, trader, refit, Trader factor weigts clipped, -0.6240741132590821, 3.396989543845987
+WARNING, 2022-09-13 23:23:08,609, trader, refit, Trader factor weigts clipped, -61.29626927609599, 2.8140899746844834e-05
+INFO, 2022-09-13 23:23:13,672, company, aggr_update, 2022-05-01 15:30:00: Company Weights, -10.169463286087879, 12.77537305634445
+INFO, 2022-09-13 23:23:13,785, company, train, [Timestamp('2022-05-01 15:30:00'), 0.07307392274369268, -0.0003378085532469]
+INFO, 2022-09-13 23:23:13,785, company, train, Epoch 62 finished
+INFO, 2022-09-13 23:23:13,812, company, train, Epoch 63 start
+WARNING, 2022-09-13 23:23:27,361, trader, refit, Trader factor weigts clipped, -0.0008526550923772659, 12.82145178188181
+WARNING, 2022-09-13 23:23:29,996, trader, refit, Trader factor weigts clipped, -0.0007617253464608174, 4.386437423980718
+WARNING, 2022-09-13 23:23:33,347, trader, refit, Trader factor weigts clipped, -12.656974528610231, 0.01934260650363684
+WARNING, 2022-09-13 23:23:39,609, trader, refit, Trader factor weigts clipped, -62.01759492713664, -3.299385596803816e-06
+WARNING, 2022-09-13 23:23:44,980, company, train_step, 2022-05-01 15:45:00 Fired 54 traders in replenish algorithm
+WARNING, 2022-09-13 23:23:46,172, trader, refit, Trader factor weigts clipped, -0.0012956839868289989, 347.77534045875063
+WARNING, 2022-09-13 23:23:46,865, trader, refit, Trader factor weigts clipped, -4.796132588859446, 74.36325502601152
+WARNING, 2022-09-13 23:23:53,378, trader, refit, Trader factor weigts clipped, -136.64663777467757, 0.002034881215407213
+WARNING, 2022-09-13 23:23:59,810, trader, refit, Trader factor weigts clipped, -0.7319746797646867, 1.0165712001879472
+WARNING, 2022-09-13 23:24:01,340, trader, refit, Trader factor weigts clipped, -2.6176188507049787, 0.0003794578997580178
+WARNING, 2022-09-13 23:24:04,007, trader, refit, Trader factor weigts clipped, -0.21340164657199592, 1.9367147345865776
+INFO, 2022-09-13 23:24:05,192, company, aggr_update, 2022-05-01 15:45:00: Company Weights, -20.711420360629404, 15.014502825165856
+INFO, 2022-09-13 23:24:05,304, company, train, [Timestamp('2022-05-01 15:45:00'), -0.07985296246277543, 0.0005752446035105]
+INFO, 2022-09-13 23:24:05,304, company, train, Epoch 63 finished
+INFO, 2022-09-13 23:24:05,332, company, train, Epoch 64 start
+WARNING, 2022-09-13 23:24:18,586, trader, refit, Trader factor weigts clipped, -0.0013299271940362296, 350.5995971742058
+WARNING, 2022-09-13 23:24:19,276, trader, refit, Trader factor weigts clipped, -4.809930254894052, 73.97034153804398
+WARNING, 2022-09-13 23:24:24,872, trader, refit, Trader factor weigts clipped, -136.6907364673947, 0.0020786098169595694
+WARNING, 2022-09-13 23:24:31,249, trader, refit, Trader factor weigts clipped, -0.7315167190969053, 1.0153141416514084
+WARNING, 2022-09-13 23:24:32,346, trader, refit, Trader factor weigts clipped, -2.6276260454259903, 0.0003816884393864073
+WARNING, 2022-09-13 23:24:34,634, trader, refit, Trader factor weigts clipped, -0.21432720846577247, 1.9390939911098548
+WARNING, 2022-09-13 23:24:36,134, company, train_step, 2022-05-01 16:00:00 Fired 58 traders in replenish algorithm
+WARNING, 2022-09-13 23:24:39,921, trader, refit, Trader factor weigts clipped, -0.2060940105464765, 130.05115945904993
+WARNING, 2022-09-13 23:24:41,037, trader, refit, Trader factor weigts clipped, -1.1274589308546872, 0.23963809210370302
+WARNING, 2022-09-13 23:24:46,676, trader, refit, Trader factor weigts clipped, -0.00032518123808549876, 1.4397474585423
+WARNING, 2022-09-13 23:24:48,493, trader, refit, Trader factor weigts clipped, -0.3597040860632753, 203.62762603273208
+WARNING, 2022-09-13 23:24:52,944, trader, refit, Trader factor weigts clipped, -0.0004228028287416308, 2.845892787621221
+WARNING, 2022-09-13 23:24:53,974, trader, refit, Trader factor weigts clipped, -1.2547203238451512, 0.20271047071252052
+WARNING, 2022-09-13 23:24:55,794, trader, refit, Trader factor weigts clipped, -0.0009835863783589224, 91.1017315081941
+INFO, 2022-09-13 23:24:57,691, company, aggr_update, 2022-05-01 16:00:00: Company Weights, -10.123746773939004, 11.693177349955679
+INFO, 2022-09-13 23:24:57,800, company, train, [Timestamp('2022-05-01 16:00:00'), 0.572915349987541, 0.0008108648958084]
+INFO, 2022-09-13 23:24:57,800, company, train, Epoch 64 finished
+INFO, 2022-09-13 23:24:57,826, company, train, Epoch 65 start
+WARNING, 2022-09-13 23:25:13,610, trader, refit, Trader factor weigts clipped, -0.21126970934578068, 122.58382063290817
+WARNING, 2022-09-13 23:25:14,622, trader, refit, Trader factor weigts clipped, -1.1092241485576593, 0.23958881622650044
+WARNING, 2022-09-13 23:25:19,097, trader, refit, Trader factor weigts clipped, -0.0003360967413448841, 1.4430581698760705
+WARNING, 2022-09-13 23:25:20,852, trader, refit, Trader factor weigts clipped, -0.2646297723348415, 201.28513050477278
+WARNING, 2022-09-13 23:25:24,408, trader, refit, Trader factor weigts clipped, -0.0004811748521342807, 2.825376338577654
+WARNING, 2022-09-13 23:25:26,474, trader, refit, Trader factor weigts clipped, -0.001002237097091638, 89.2748700601764
+WARNING, 2022-09-13 23:25:28,364, company, train_step, 2022-05-01 16:15:00 Fired 52 traders in replenish algorithm
+WARNING, 2022-09-13 23:25:29,087, trader, refit, Trader factor weigts clipped, -0.0006593372273127933, 269.6684519067495
+WARNING, 2022-09-13 23:25:31,927, trader, refit, Trader factor weigts clipped, -13.233942608672036, 0.10128292435186417
+WARNING, 2022-09-13 23:25:34,911, trader, refit, Trader factor weigts clipped, -1.8088400889064298, 0.17217700771314876
+WARNING, 2022-09-13 23:25:36,532, trader, refit, Trader factor weigts clipped, -0.1809853644472601, 14.931392914592408
+WARNING, 2022-09-13 23:25:47,284, trader, refit, Trader factor weigts clipped, -1.3746175820877977, 1.3741177019075839
+INFO, 2022-09-13 23:25:48,008, company, aggr_update, 2022-05-01 16:15:00: Company Weights, -27.369634541613205, 14.331920560840825
+INFO, 2022-09-13 23:25:48,120, company, train, [Timestamp('2022-05-01 16:15:00'), -0.013127416292768543, 0.0022908414292651]
+INFO, 2022-09-13 23:25:48,121, company, train, Epoch 65 finished
+INFO, 2022-09-13 23:25:48,146, company, train, Epoch 66 start
+WARNING, 2022-09-13 23:26:01,173, trader, refit, Trader factor weigts clipped, -0.0006741360971603848, 269.1687279076497
+WARNING, 2022-09-13 23:26:06,458, trader, refit, Trader factor weigts clipped, -1.7981840113906356, 0.17093268082604446
+WARNING, 2022-09-13 23:26:07,992, trader, refit, Trader factor weigts clipped, -0.16182982784224328, 19.568609469722794
+WARNING, 2022-09-13 23:26:18,261, trader, refit, Trader factor weigts clipped, -1.3767409026956972, 1.3762385660771337
+WARNING, 2022-09-13 23:26:19,325, company, train_step, 2022-05-01 16:30:00 Fired 58 traders in replenish algorithm
+WARNING, 2022-09-13 23:26:19,958, trader, refit, Trader factor weigts clipped, -90.90716722928627, 0.008808737996252274
+WARNING, 2022-09-13 23:26:20,764, trader, refit, Trader factor weigts clipped, -0.1248107819316383, 7.21188011440461
+WARNING, 2022-09-13 23:26:22,555, trader, refit, Trader factor weigts clipped, -1.120520505022844, 0.0012157172368166768
+WARNING, 2022-09-13 23:26:26,095, trader, refit, Trader factor weigts clipped, -0.002253439996919404, 39.91711934960038
+WARNING, 2022-09-13 23:26:29,383, trader, refit, Trader factor weigts clipped, -1.1835967240057577, 0.00015139460566965848
+WARNING, 2022-09-13 23:26:33,356, trader, refit, Trader factor weigts clipped, -1.5398117096484145, 1.538665057553885
+INFO, 2022-09-13 23:26:40,790, company, aggr_update, 2022-05-01 16:30:00: Company Weights, -20.320524563313903, 25.88502676676479
+INFO, 2022-09-13 23:26:40,897, company, train, [Timestamp('2022-05-01 16:30:00'), -0.03810939278744213, 0.0008638827299301]
+INFO, 2022-09-13 23:26:40,897, company, train, Epoch 66 finished
+INFO, 2022-09-13 23:26:40,923, company, train, Epoch 67 start
+WARNING, 2022-09-13 23:26:53,428, trader, refit, Trader factor weigts clipped, -89.11366240299861, 0.009836146299691416
+WARNING, 2022-09-13 23:26:54,167, trader, refit, Trader factor weigts clipped, -0.12705793281855676, 7.288389641079339
+WARNING, 2022-09-13 23:26:58,760, trader, refit, Trader factor weigts clipped, -0.002201349769326316, 37.13002327044743
+WARNING, 2022-09-13 23:27:02,083, trader, refit, Trader factor weigts clipped, -1.1935346063458734, 0.00010750136114868827
+WARNING, 2022-09-13 23:27:05,982, trader, refit, Trader factor weigts clipped, -1.5612321122241002, 1.5598626831444877
+WARNING, 2022-09-13 23:27:11,292, company, train_step, 2022-05-01 16:45:00 Fired 61 traders in replenish algorithm
+WARNING, 2022-09-13 23:27:12,773, trader, refit, Trader factor weigts clipped, -0.00024396010041826888, 1.7699944935430312
+WARNING, 2022-09-13 23:27:13,122, trader, refit, Trader factor weigts clipped, -0.0007613286622525364, 219.8114691396815
+WARNING, 2022-09-13 23:27:15,672, trader, refit, Trader factor weigts clipped, -2.841194771857494, 0.0002497513766722717
+WARNING, 2022-09-13 23:27:16,851, trader, refit, Trader factor weigts clipped, -96.47752596521094, 217.6686149528999
+WARNING, 2022-09-13 23:27:18,661, trader, refit, Trader factor weigts clipped, -0.19549406435199362, 1.882634465335497
+WARNING, 2022-09-13 23:27:19,440, trader, refit, Trader factor weigts clipped, -2.909692418807204, 2.9116440284393867
+WARNING, 2022-09-13 23:27:26,770, trader, refit, Trader factor weigts clipped, -0.001784993668781323, 693.5860706349725
+WARNING, 2022-09-13 23:27:31,457, trader, refit, Trader factor weigts clipped, -0.0007146397350921655, 282.2211314863609
+INFO, 2022-09-13 23:27:33,792, company, aggr_update, 2022-05-01 16:45:00: Company Weights, -6.830280840545087, 11.551287365344301
+INFO, 2022-09-13 23:27:33,900, company, train, [Timestamp('2022-05-01 16:45:00'), -0.38709641596451844, -0.0005455261406155]
+INFO, 2022-09-13 23:27:33,900, company, train, Epoch 67 finished
+INFO, 2022-09-13 23:27:33,926, company, train, Epoch 68 start
+WARNING, 2022-09-13 23:27:47,125, trader, refit, Trader factor weigts clipped, -0.00021736275385740052, 1.7869624680713856
+WARNING, 2022-09-13 23:27:50,368, trader, refit, Trader factor weigts clipped, -96.70969104205213, 218.19240985111026
+WARNING, 2022-09-13 23:27:52,567, trader, refit, Trader factor weigts clipped, -2.9783948149866015, 2.9803665341941503
+WARNING, 2022-09-13 23:27:54,057, trader, refit, Trader factor weigts clipped, -1.040775113742432, 0.0012298743798594821
+WARNING, 2022-09-13 23:27:55,588, trader, refit, Trader factor weigts clipped, -1.1310572280473967, 0.0011351960908990658
+WARNING, 2022-09-13 23:27:58,372, trader, refit, Trader factor weigts clipped, -0.0017702216674731572, 698.9456846257601
+WARNING, 2022-09-13 23:28:02,616, trader, refit, Trader factor weigts clipped, -0.0006519653107436991, 276.19134871759695
+WARNING, 2022-09-13 23:28:04,525, company, train_step, 2022-05-01 17:00:00 Fired 54 traders in replenish algorithm
+WARNING, 2022-09-13 23:28:17,735, trader, refit, Trader factor weigts clipped, -282.2960760402892, 0.0016541502356448943
+WARNING, 2022-09-13 23:28:23,102, trader, refit, Trader factor weigts clipped, -1.3983510094961364, 1.396506995507884
+INFO, 2022-09-13 23:28:24,202, company, aggr_update, 2022-05-01 17:00:00: Company Weights, -10.625445436681428, 13.360780815731898
+INFO, 2022-09-13 23:28:24,308, company, train, [Timestamp('2022-05-01 17:00:00'), -0.04348055582754847, 0.0007188067959391]
+INFO, 2022-09-13 23:28:24,309, company, train, Epoch 68 finished
+INFO, 2022-09-13 23:28:24,335, company, train, Epoch 69 start
+WARNING, 2022-09-13 23:28:41,813, trader, refit, Trader factor weigts clipped, -0.19509733425489056, 1.8797379897649746
+WARNING, 2022-09-13 23:28:48,474, trader, refit, Trader factor weigts clipped, -292.9153367710611, 0.001645603648991026
+WARNING, 2022-09-13 23:28:52,974, trader, refit, Trader factor weigts clipped, -1.3900046678383782, 1.3881080486812303
+WARNING, 2022-09-13 23:28:54,445, company, train_step, 2022-05-01 17:15:00 Fired 52 traders in replenish algorithm
+WARNING, 2022-09-13 23:28:57,893, trader, refit, Trader factor weigts clipped, -9.080901171826072, 3.690583892809935e-05
+WARNING, 2022-09-13 23:29:02,025, trader, refit, Trader factor weigts clipped, -0.0032715131488083166, 73.81844043869836
+WARNING, 2022-09-13 23:29:04,306, trader, refit, Trader factor weigts clipped, -0.05808873135734853, 1.1220928844936653
+WARNING, 2022-09-13 23:29:05,064, trader, refit, Trader factor weigts clipped, -2.0084332062050776, 1.5371395535611994
+WARNING, 2022-09-13 23:29:06,217, trader, refit, Trader factor weigts clipped, -0.44608518280813014, 212.5853484912896
+INFO, 2022-09-13 23:29:13,889, company, aggr_update, 2022-05-01 17:15:00: Company Weights, -10.401177817340109, 10.73956771830065
+INFO, 2022-09-13 23:29:13,997, company, train, [Timestamp('2022-05-01 17:15:00'), -0.3714559920379863, -0.0008876745117068]
+INFO, 2022-09-13 23:29:13,997, company, train, Epoch 69 finished
+INFO, 2022-09-13 23:29:14,023, company, train, Epoch 70 start
+WARNING, 2022-09-13 23:29:33,349, trader, refit, Trader factor weigts clipped, -0.003229245838540963, 73.71459691204917
+WARNING, 2022-09-13 23:29:35,569, trader, refit, Trader factor weigts clipped, -0.05895093028831929, 1.1262028989847297
+WARNING, 2022-09-13 23:29:36,798, trader, refit, Trader factor weigts clipped, -1.983556295562008, 1.5156726374035632
+WARNING, 2022-09-13 23:29:37,580, trader, refit, Trader factor weigts clipped, -0.4514452472755385, 198.6595815560637
+WARNING, 2022-09-13 23:29:39,473, trader, refit, Trader factor weigts clipped, -302.1564121541645, 0.0016672233829988176
+WARNING, 2022-09-13 23:29:46,278, company, train_step, 2022-05-01 17:30:00 Fired 54 traders in replenish algorithm
+WARNING, 2022-09-13 23:29:52,312, trader, refit, Trader factor weigts clipped, -1.9792040264498258, 0.00035387942998741837
+WARNING, 2022-09-13 23:29:54,576, trader, refit, Trader factor weigts clipped, -95.6579121941672, 1.3120526649182849
+WARNING, 2022-09-13 23:29:59,225, trader, refit, Trader factor weigts clipped, -1.2592570936312666, 0.055468994966135776
+WARNING, 2022-09-13 23:30:04,792, trader, refit, Trader factor weigts clipped, -1.2544955656785945, 0.0001502673180262961
+INFO, 2022-09-13 23:30:06,225, company, aggr_update, 2022-05-01 17:30:00: Company Weights, -52.188373043624516, 15.30674666408624
+INFO, 2022-09-13 23:30:06,334, company, train, [Timestamp('2022-05-01 17:30:00'), 0.06328340174084997, -0.0018152388162396]
+INFO, 2022-09-13 23:30:06,334, company, train, Epoch 70 finished
+INFO, 2022-09-13 23:30:06,360, company, train, Epoch 71 start
+WARNING, 2022-09-13 23:30:25,263, trader, refit, Trader factor weigts clipped, -1.9921831658021494, 0.0003465079277168169
+WARNING, 2022-09-13 23:30:27,419, trader, refit, Trader factor weigts clipped, -97.26840528005886, 1.3158898783129664
+WARNING, 2022-09-13 23:30:31,461, trader, refit, Trader factor weigts clipped, -1.2167513057309978, 0.031536750816320715
+WARNING, 2022-09-13 23:30:36,781, trader, refit, Trader factor weigts clipped, -1.1699386929673092, 0.00014188567597976366
+WARNING, 2022-09-13 23:30:38,553, company, train_step, 2022-05-01 17:45:00 Fired 52 traders in replenish algorithm
+WARNING, 2022-09-13 23:30:41,083, trader, refit, Trader factor weigts clipped, -1.1906788628520495, 1.2794341999638563
+WARNING, 2022-09-13 23:30:46,913, trader, refit, Trader factor weigts clipped, -343.38795366886455, 0.0009514804136920494
+WARNING, 2022-09-13 23:30:47,999, trader, refit, Trader factor weigts clipped, -1.6217547373282226, -0.0002385928306796163
+WARNING, 2022-09-13 23:30:53,046, trader, refit, Trader factor weigts clipped, -145.08653661209686, 0.0004839080974548026
+INFO, 2022-09-13 23:30:59,336, company, aggr_update, 2022-05-01 17:45:00: Company Weights, -12.144225830514833, 8.271081847844139
+INFO, 2022-09-13 23:30:59,475, company, train, [Timestamp('2022-05-01 17:45:00'), 0.3619591926400468, -0.0016527409778636]
+INFO, 2022-09-13 23:30:59,475, company, train, Epoch 71 finished
+INFO, 2022-09-13 23:30:59,512, company, train, Epoch 72 start
+WARNING, 2022-09-13 23:31:14,570, trader, refit, Trader factor weigts clipped, -1.3509177620240542, 1.453943557040867
+WARNING, 2022-09-13 23:31:20,773, trader, refit, Trader factor weigts clipped, -1.642091500368449, -0.0002379391823501913
+WARNING, 2022-09-13 23:31:25,277, trader, refit, Trader factor weigts clipped, -145.14125419383996, 0.00047526313094994476
+WARNING, 2022-09-13 23:31:33,066, company, train_step, 2022-05-01 18:00:00 Fired 55 traders in replenish algorithm
+WARNING, 2022-09-13 23:31:33,915, trader, refit, Trader factor weigts clipped, -0.0004758705095755933, 3.2595289030605885
+WARNING, 2022-09-13 23:31:34,611, trader, refit, Trader factor weigts clipped, -0.000880551055770502, 1.5716591670646236
+WARNING, 2022-09-13 23:31:35,876, trader, refit, Trader factor weigts clipped, -0.09954837169880067, 1.0591457615227118
+WARNING, 2022-09-13 23:31:37,841, trader, refit, Trader factor weigts clipped, 4.943136953216484e-05, 223.19721873719192
+WARNING, 2022-09-13 23:31:39,722, trader, refit, Trader factor weigts clipped, -0.0010474614083427554, 298.62409711318
+WARNING, 2022-09-13 23:31:40,494, trader, refit, Trader factor weigts clipped, -6.121676069038407, 0.0008185091588936199
+WARNING, 2022-09-13 23:31:45,752, trader, refit, Trader factor weigts clipped, -0.08215389693463619, 2.1422001949164526
+WARNING, 2022-09-13 23:31:52,088, trader, refit, Trader factor weigts clipped, -0.0020116404375823014, 66.42828489680974
+WARNING, 2022-09-13 23:31:54,051, trader, refit, Trader factor weigts clipped, -0.0005669168786550105, 2.1080465975700218
+INFO, 2022-09-13 23:31:54,898, company, aggr_update, 2022-05-01 18:00:00: Company Weights, -5.913842972936242, 31.329553548702883
+INFO, 2022-09-13 23:31:55,007, company, train, [Timestamp('2022-05-01 18:00:00'), 0.002089916519163147, 0.0003678928354138]
+INFO, 2022-09-13 23:31:55,007, company, train, Epoch 72 finished
+INFO, 2022-09-13 23:31:55,036, company, train, Epoch 73 start
+WARNING, 2022-09-13 23:32:09,028, trader, refit, Trader factor weigts clipped, -0.00045281820167225595, 3.306503298004953
+WARNING, 2022-09-13 23:32:09,715, trader, refit, Trader factor weigts clipped, -0.0009075700904144868, 1.5535468058446873
+WARNING, 2022-09-13 23:32:11,193, trader, refit, Trader factor weigts clipped, -0.09893275845892961, 1.079062056079637
+WARNING, 2022-09-13 23:32:12,861, trader, refit, Trader factor weigts clipped, 5.011634765315121e-05, 219.93825235755907
+WARNING, 2022-09-13 23:32:14,646, trader, refit, Trader factor weigts clipped, -0.00108183714511744, 296.0067739825091
+WARNING, 2022-09-13 23:32:15,446, trader, refit, Trader factor weigts clipped, -6.074476162093036, 0.0008203263666676522
+WARNING, 2022-09-13 23:32:19,775, trader, refit, Trader factor weigts clipped, -0.08435906494272212, 2.094589550027732
+WARNING, 2022-09-13 23:32:26,532, trader, refit, Trader factor weigts clipped, -0.0005716005915873679, 2.0595943834830184
+WARNING, 2022-09-13 23:32:27,732, company, train_step, 2022-05-01 18:15:00 Fired 53 traders in replenish algorithm
+WARNING, 2022-09-13 23:32:28,764, trader, refit, Trader factor weigts clipped, -3.4434536492293075, 0.0005177024650623308
+WARNING, 2022-09-13 23:32:31,260, trader, refit, Trader factor weigts clipped, -36.81724224420827, 0.0001394780136871344
+WARNING, 2022-09-13 23:32:32,466, trader, refit, Trader factor weigts clipped, -1.13141834553349, 1.1310370438201824
+WARNING, 2022-09-13 23:32:34,467, trader, refit, Trader factor weigts clipped, -0.0005022074423538525, 1.000443560909378
+WARNING, 2022-09-13 23:32:35,190, trader, refit, Trader factor weigts clipped, -0.000201711530556873, 5.043117121848495
+WARNING, 2022-09-13 23:32:40,895, trader, refit, Trader factor weigts clipped, -282.4498158496638, 0.0007772659757723245
+INFO, 2022-09-13 23:32:49,365, company, aggr_update, 2022-05-01 18:15:00: Company Weights, -9.460192616703983, 32.96819575776675
+INFO, 2022-09-13 23:32:49,476, company, train, [Timestamp('2022-05-01 18:15:00'), -0.018757812597895124, 0.0017182779779324]
+INFO, 2022-09-13 23:32:49,476, company, train, Epoch 73 finished
+INFO, 2022-09-13 23:32:49,506, company, train, Epoch 74 start
+WARNING, 2022-09-13 23:33:03,911, trader, refit, Trader factor weigts clipped, -3.452867492364604, 0.0005189142527001617
+WARNING, 2022-09-13 23:33:05,436, trader, refit, Trader factor weigts clipped, -37.96097517334933, 0.0001351093083947026
+WARNING, 2022-09-13 23:33:06,642, trader, refit, Trader factor weigts clipped, -1.1213284225807962, 1.1209492791120557
+WARNING, 2022-09-13 23:33:08,978, trader, refit, Trader factor weigts clipped, -0.00020072307320308285, 5.035372372727611
+WARNING, 2022-09-13 23:33:14,549, trader, refit, Trader factor weigts clipped, -280.96191244080916, 0.0007626386992267458
+WARNING, 2022-09-13 23:33:23,324, company, train_step, 2022-05-01 18:30:00 Fired 56 traders in replenish algorithm
+WARNING, 2022-09-13 23:33:26,916, trader, refit, Trader factor weigts clipped, -1.296526806093862, 0.001123940960120945
+WARNING, 2022-09-13 23:33:32,167, trader, refit, Trader factor weigts clipped, -1.9190378634188625, 0.000960047056329873
+WARNING, 2022-09-13 23:33:38,786, trader, refit, Trader factor weigts clipped, -1.4240152390115395, 0.0025546276742379375
+WARNING, 2022-09-13 23:33:39,969, trader, refit, Trader factor weigts clipped, -0.03583433689837581, 2.802813773175651
+INFO, 2022-09-13 23:33:45,146, company, aggr_update, 2022-05-01 18:30:00: Company Weights, -25.177898729225387, 10.538960539193916
+INFO, 2022-09-13 23:33:45,257, company, train, [Timestamp('2022-05-01 18:30:00'), 0.03697616482094339, 0.0020613284516751]
+INFO, 2022-09-13 23:33:45,257, company, train, Epoch 74 finished
+INFO, 2022-09-13 23:33:45,283, company, train, Epoch 75 start
+WARNING, 2022-09-13 23:33:59,627, trader, refit, Trader factor weigts clipped, -0.0005063143443745921, 3.2765368694097767
+WARNING, 2022-09-13 23:34:02,208, trader, refit, Trader factor weigts clipped, -1.2899732080498227, 0.0010890031917642137
+WARNING, 2022-09-13 23:34:06,692, trader, refit, Trader factor weigts clipped, -1.9133985335255705, 0.0009407197339626572
+WARNING, 2022-09-13 23:34:12,923, trader, refit, Trader factor weigts clipped, -0.019983104590315614, 2.6655965818463425
+WARNING, 2022-09-13 23:34:18,092, company, train_step, 2022-05-01 18:45:00 Fired 52 traders in replenish algorithm
+WARNING, 2022-09-13 23:34:30,141, trader, refit, Trader factor weigts clipped, -5.045914333054279, 5.045557061150167
+WARNING, 2022-09-13 23:34:32,073, trader, refit, Trader factor weigts clipped, -0.029311291832925367, 158.30675847597257
+WARNING, 2022-09-13 23:34:34,826, trader, refit, Trader factor weigts clipped, -0.0495389224498315, 174.14473922893072
+WARNING, 2022-09-13 23:34:37,950, trader, refit, Trader factor weigts clipped, -0.0014335292629334838, 1.0096275401370751
+INFO, 2022-09-13 23:34:38,358, company, aggr_update, 2022-05-01 18:45:00: Company Weights, -20.897458951279603, 16.10937839382191
+INFO, 2022-09-13 23:34:38,464, company, train, [Timestamp('2022-05-01 18:45:00'), -0.007909812105340275, 0.0006485583617398]
+INFO, 2022-09-13 23:34:38,464, company, train, Epoch 75 finished
+INFO, 2022-09-13 23:34:38,489, company, train, Epoch 76 start
+WARNING, 2022-09-13 23:35:03,653, trader, refit, Trader factor weigts clipped, -5.046225977147277, 5.045888424770348
+WARNING, 2022-09-13 23:35:05,529, trader, refit, Trader factor weigts clipped, -0.030767263394872207, 154.90890326659186
+WARNING, 2022-09-13 23:35:11,297, company, train_step, 2022-05-01 19:00:00 Fired 55 traders in replenish algorithm
+WARNING, 2022-09-13 23:35:12,148, trader, refit, Trader factor weigts clipped, -5.3741782608693216e-05, 43.975900524312635
+WARNING, 2022-09-13 23:35:12,952, trader, refit, Trader factor weigts clipped, -0.00026648561409280027, 1.4451930615242512
+WARNING, 2022-09-13 23:35:17,566, trader, refit, Trader factor weigts clipped, -0.001228763120274964, 7.73696468488648
+WARNING, 2022-09-13 23:35:18,430, trader, refit, Trader factor weigts clipped, -0.0014268046905418612, 1.2380365643741849
+WARNING, 2022-09-13 23:35:18,861, trader, refit, Trader factor weigts clipped, -53.720780239100854, 0.0011024794019922637
+WARNING, 2022-09-13 23:35:32,601, trader, refit, Trader factor weigts clipped, -0.014332832084235936, 305.0443562110661
+INFO, 2022-09-13 23:35:33,334, company, aggr_update, 2022-05-01 19:00:00: Company Weights, -7.877570290151603, 10.740171636289372
+INFO, 2022-09-13 23:35:33,445, company, train, [Timestamp('2022-05-01 19:00:00'), 0.009895113045715722, -0.000705218368952]
+INFO, 2022-09-13 23:35:33,445, company, train, Epoch 76 finished
+INFO, 2022-09-13 23:35:33,472, company, train, Epoch 77 start
+WARNING, 2022-09-13 23:35:47,620, trader, refit, Trader factor weigts clipped, -4.609285654443987e-05, 44.18348687191412
+WARNING, 2022-09-13 23:35:48,340, trader, refit, Trader factor weigts clipped, -0.00030364587216218797, 1.4007360927663015
+WARNING, 2022-09-13 23:35:52,552, trader, refit, Trader factor weigts clipped, -0.0012263548335917688, 7.693769434854147
+WARNING, 2022-09-13 23:35:53,302, trader, refit, Trader factor weigts clipped, -0.0016185704856720466, 1.420925204654219
+WARNING, 2022-09-13 23:35:53,762, trader, refit, Trader factor weigts clipped, -52.9488030608164, 0.0011044313525705252
+WARNING, 2022-09-13 23:36:05,771, trader, refit, Trader factor weigts clipped, -0.009725040230610304, 304.4070320295039
+WARNING, 2022-09-13 23:36:06,900, company, train_step, 2022-05-01 19:15:00 Fired 58 traders in replenish algorithm
+WARNING, 2022-09-13 23:36:08,242, trader, refit, Trader factor weigts clipped, -0.03264765985201011, 102.62108628241297
+WARNING, 2022-09-13 23:36:15,337, trader, refit, Trader factor weigts clipped, -0.00035878653255530025, 1.1949288975214452
+WARNING, 2022-09-13 23:36:16,548, trader, refit, Trader factor weigts clipped, -0.0009840183483681949, 1.5977391333846442
+WARNING, 2022-09-13 23:36:17,682, trader, refit, Trader factor weigts clipped, -0.001109625429812171, 1.0182131752920405
+WARNING, 2022-09-13 23:36:26,550, trader, refit, Trader factor weigts clipped, -0.9056179850875998, 1.1176369430242634
+WARNING, 2022-09-13 23:36:26,906, trader, refit, Trader factor weigts clipped, -4.248756530970125, 0.0002951659959588964
+INFO, 2022-09-13 23:36:29,666, company, aggr_update, 2022-05-01 19:15:00: Company Weights, -10.208417458876651, 12.101478852483934
+INFO, 2022-09-13 23:36:29,776, company, train, [Timestamp('2022-05-01 19:15:00'), -0.6107685898416895, -0.0010468474351022]
+INFO, 2022-09-13 23:36:29,777, company, train, Epoch 77 finished
+INFO, 2022-09-13 23:36:29,803, company, train, Epoch 78 start
+WARNING, 2022-09-13 23:36:44,748, trader, refit, Trader factor weigts clipped, -0.03275041375606569, 101.23966012017921
+WARNING, 2022-09-13 23:36:50,912, trader, refit, Trader factor weigts clipped, -0.0003674023449356167, 1.1813947701157153
+WARNING, 2022-09-13 23:36:51,746, trader, refit, Trader factor weigts clipped, -0.0010071039103823674, 1.5952827818737476
+WARNING, 2022-09-13 23:37:00,722, trader, refit, Trader factor weigts clipped, -0.9100371747188649, 1.1075434232102557
+WARNING, 2022-09-13 23:37:01,101, trader, refit, Trader factor weigts clipped, -4.245408706049224, 0.00026326469682480845
+WARNING, 2022-09-13 23:37:03,699, company, train_step, 2022-05-01 19:30:00 Fired 55 traders in replenish algorithm
+WARNING, 2022-09-13 23:37:19,196, trader, refit, Trader factor weigts clipped, -2.052665515461491, 1.038015918084738
+WARNING, 2022-09-13 23:37:20,434, trader, refit, Trader factor weigts clipped, -0.13443191142161653, 1.2171487093120137
+WARNING, 2022-09-13 23:37:21,627, trader, refit, Trader factor weigts clipped, -1.5160739422254546, 1.0797014579368038
+INFO, 2022-09-13 23:37:25,601, company, aggr_update, 2022-05-01 19:30:00: Company Weights, -8.229875538589111, 8.978353198417775
+INFO, 2022-09-13 23:37:25,710, company, train, [Timestamp('2022-05-01 19:30:00'), -2.1000397198539864, -0.0022098182530579]
+INFO, 2022-09-13 23:37:25,710, company, train, Epoch 78 finished
+INFO, 2022-09-13 23:37:25,738, company, train, Epoch 79 start
+WARNING, 2022-09-13 23:37:51,823, trader, refit, Trader factor weigts clipped, -2.0724091683105845, 1.0402360372600103
+WARNING, 2022-09-13 23:37:53,453, trader, refit, Trader factor weigts clipped, -0.13429076994931458, 1.3062457380337855
+WARNING, 2022-09-13 23:37:54,987, trader, refit, Trader factor weigts clipped, -1.522366663967368, 1.089418842548995
+WARNING, 2022-09-13 23:37:58,727, company, train_step, 2022-05-01 19:45:00 Fired 57 traders in replenish algorithm
+WARNING, 2022-09-13 23:38:03,489, trader, refit, Trader factor weigts clipped, -0.0790351114243726, 525.259388090676
+WARNING, 2022-09-13 23:38:05,815, trader, refit, Trader factor weigts clipped, -0.00026169246613488725, 1.268325235349115
+WARNING, 2022-09-13 23:38:15,984, trader, refit, Trader factor weigts clipped, -1.257524351814028, 1.2571670892904048
+WARNING, 2022-09-13 23:38:19,352, trader, refit, Trader factor weigts clipped, -0.18825005716232596, 44.27035826840409
+WARNING, 2022-09-13 23:38:19,712, trader, refit, Trader factor weigts clipped, -259.6197363501946, 0.0001445099718712473
+INFO, 2022-09-13 23:38:20,553, company, aggr_update, 2022-05-01 19:45:00: Company Weights, -4.640035669503195, 4.900954293514809
+INFO, 2022-09-13 23:38:20,663, company, train, [Timestamp('2022-05-01 19:45:00'), -0.005917836825042473, -0.0012361533708562]
+INFO, 2022-09-13 23:38:20,663, company, train, Epoch 79 finished
+INFO, 2022-09-13 23:38:20,690, company, train, Epoch 80 start
+WARNING, 2022-09-13 23:38:37,499, trader, refit, Trader factor weigts clipped, -0.07918869435553297, 529.1513373621831
+WARNING, 2022-09-13 23:38:39,360, trader, refit, Trader factor weigts clipped, -0.0002958472692884454, 1.2676060918444267
+WARNING, 2022-09-13 23:38:48,533, trader, refit, Trader factor weigts clipped, -1.2610174300277197, 1.2606608022697892
+WARNING, 2022-09-13 23:38:51,827, trader, refit, Trader factor weigts clipped, -253.76576818566605, 0.0001324829948400448
+WARNING, 2022-09-13 23:38:52,962, company, train_step, 2022-05-01 20:00:00 Fired 56 traders in replenish algorithm
+WARNING, 2022-09-13 23:38:53,916, trader, refit, Trader factor weigts clipped, -1.42347546292488, 0.00029435965380961485
+WARNING, 2022-09-13 23:39:01,108, trader, refit, Trader factor weigts clipped, -0.7286750021884375, 7.216367194965355
+WARNING, 2022-09-13 23:39:03,915, trader, refit, Trader factor weigts clipped, -0.08665614668976704, 3.071678585741216
+WARNING, 2022-09-13 23:39:06,797, trader, refit, Trader factor weigts clipped, -383.05962229408686, 0.00033416688052679503
+INFO, 2022-09-13 23:39:15,150, company, aggr_update, 2022-05-01 20:00:00: Company Weights, -4.513552967492388, 9.984289367393716
+INFO, 2022-09-13 23:39:15,259, company, train, [Timestamp('2022-05-01 20:00:00'), -0.026203721718729214, -8.35397560782223e-05]
+INFO, 2022-09-13 23:39:15,259, company, train, Epoch 80 finished
+INFO, 2022-09-13 23:39:15,286, company, train, Epoch 81 start
+WARNING, 2022-09-13 23:39:29,644, trader, refit, Trader factor weigts clipped, -1.4250776506281668, 0.00029740626805476855
+WARNING, 2022-09-13 23:39:35,427, trader, refit, Trader factor weigts clipped, -0.7155245541952235, 7.187707209349593
+WARNING, 2022-09-13 23:39:37,804, trader, refit, Trader factor weigts clipped, -0.08726515346988173, 3.070985599788342
+WARNING, 2022-09-13 23:39:39,794, trader, refit, Trader factor weigts clipped, -382.52874240273036, 0.0003345023041393782
+WARNING, 2022-09-13 23:39:48,646, company, train_step, 2022-05-01 20:15:00 Fired 56 traders in replenish algorithm
+WARNING, 2022-09-13 23:39:51,233, trader, refit, Trader factor weigts clipped, -1.4542010041894504, 0.001974650768187229
+WARNING, 2022-09-13 23:40:00,424, trader, refit, Trader factor weigts clipped, -0.0007967378972498892, 3.416426301706971
+WARNING, 2022-09-13 23:40:05,604, trader, refit, Trader factor weigts clipped, -373.37964142761257, 0.12149239364243648
+WARNING, 2022-09-13 23:40:10,908, trader, refit, Trader factor weigts clipped, -0.0006264216288151719, 1.8678877935011502
+INFO, 2022-09-13 23:40:10,912, company, aggr_update, 2022-05-01 20:15:00: Company Weights, -38.660447756767326, 22.60532623723503
+INFO, 2022-09-13 23:40:11,018, company, train, [Timestamp('2022-05-01 20:15:00'), 0.0012035399353002227, -0.000182707223257]
+INFO, 2022-09-13 23:40:11,018, company, train, Epoch 81 finished
+INFO, 2022-09-13 23:40:11,048, company, train, Epoch 82 start
+WARNING, 2022-09-13 23:40:26,205, trader, refit, Trader factor weigts clipped, -1.4373458763629336, 0.0021331964326072508
+WARNING, 2022-09-13 23:40:34,632, trader, refit, Trader factor weigts clipped, -0.0007803908569024769, 3.407215952272588
+WARNING, 2022-09-13 23:40:39,778, trader, refit, Trader factor weigts clipped, -373.141235283834, 0.11848527617309883
+WARNING, 2022-09-13 23:40:44,387, trader, refit, Trader factor weigts clipped, -0.0006170521973653258, 1.851327046259419
+WARNING, 2022-09-13 23:40:44,820, company, train_step, 2022-05-01 20:30:00 Fired 55 traders in replenish algorithm
+WARNING, 2022-09-13 23:40:45,335, trader, refit, Trader factor weigts clipped, -0.17944814003684476, 1.2138536033673624
+WARNING, 2022-09-13 23:40:58,211, trader, refit, Trader factor weigts clipped, -0.00120306924823803, 173.5392365697838
+WARNING, 2022-09-13 23:40:58,976, trader, refit, Trader factor weigts clipped, -0.0005666582290866327, 187.4137249212249
+WARNING, 2022-09-13 23:41:01,038, trader, refit, Trader factor weigts clipped, -24.916252711446788, 0.0005882936525158429
+WARNING, 2022-09-13 23:41:02,513, trader, refit, Trader factor weigts clipped, -0.12489397667222363, 6.72131229329686
+INFO, 2022-09-13 23:41:07,013, company, aggr_update, 2022-05-01 20:30:00: Company Weights, -8.55416486669629, 9.01255408951937
+INFO, 2022-09-13 23:41:07,124, company, train, [Timestamp('2022-05-01 20:30:00'), 0.014164048715062461, 0.0010209726994374]
+INFO, 2022-09-13 23:41:07,124, company, train, Epoch 82 finished
+INFO, 2022-09-13 23:41:07,152, company, train, Epoch 83 start
+WARNING, 2022-09-13 23:41:20,736, trader, refit, Trader factor weigts clipped, -0.17946900114912218, 1.213514539303426
+WARNING, 2022-09-13 23:41:32,978, trader, refit, Trader factor weigts clipped, -0.0012105266022120656, 173.48509368460552
+WARNING, 2022-09-13 23:41:33,373, trader, refit, Trader factor weigts clipped, -0.0005661068739451908, 187.91870698649834
+WARNING, 2022-09-13 23:41:35,429, trader, refit, Trader factor weigts clipped, -26.292832217434153, 0.0005891267328122125
+WARNING, 2022-09-13 23:41:40,504, company, train_step, 2022-05-01 20:45:00 Fired 57 traders in replenish algorithm
+WARNING, 2022-09-13 23:41:41,068, trader, refit, Trader factor weigts clipped, -1.2095274840408579, 0.00030049634287103476
+WARNING, 2022-09-13 23:41:43,271, trader, refit, Trader factor weigts clipped, -1.035947293280969, 0.0010243947245150015
+WARNING, 2022-09-13 23:41:44,481, trader, refit, Trader factor weigts clipped, -58.20604802777024, 0.00036399566926052773
+WARNING, 2022-09-13 23:41:47,326, trader, refit, Trader factor weigts clipped, -0.001106806494149487, 2.229047557766314
+WARNING, 2022-09-13 23:41:48,510, trader, refit, Trader factor weigts clipped, -2.524170596630204, 0.0007656526999444675
+WARNING, 2022-09-13 23:42:01,004, trader, refit, Trader factor weigts clipped, -0.0013558621954286552, 5.473262076774866
+WARNING, 2022-09-13 23:42:02,995, trader, refit, Trader factor weigts clipped, -121.57717525694747, 0.319400282767776
+INFO, 2022-09-13 23:42:03,412, company, aggr_update, 2022-05-01 20:45:00: Company Weights, -9.602425134643724, 10.845251902144021
+INFO, 2022-09-13 23:42:03,519, company, train, [Timestamp('2022-05-01 20:45:00'), 0.019251892122836498, 0.0009037189477418]
+INFO, 2022-09-13 23:42:03,519, company, train, Epoch 83 finished
+INFO, 2022-09-13 23:42:03,547, company, train, Epoch 84 start
+WARNING, 2022-09-13 23:42:19,475, trader, refit, Trader factor weigts clipped, -1.0559149778676828, 0.0010306448812649402
+WARNING, 2022-09-13 23:42:21,003, trader, refit, Trader factor weigts clipped, -58.82332386249416, 0.00036096816780645057
+WARNING, 2022-09-13 23:42:23,434, trader, refit, Trader factor weigts clipped, -0.0010948446642191603, 2.220526181990384
+WARNING, 2022-09-13 23:42:24,218, trader, refit, Trader factor weigts clipped, -1.9534379257420962, 0.0007552392761243593
+WARNING, 2022-09-13 23:42:33,873, trader, refit, Trader factor weigts clipped, -0.0013506712094556728, 5.4830974678752415
+WARNING, 2022-09-13 23:42:36,227, trader, refit, Trader factor weigts clipped, -101.99222053545282, 0.31165912035594584
+WARNING, 2022-09-13 23:42:37,036, company, train_step, 2022-05-01 21:00:00 Fired 59 traders in replenish algorithm
+WARNING, 2022-09-13 23:42:41,952, trader, refit, Trader factor weigts clipped, -0.0003834673475004458, 3.3284506316227174
+WARNING, 2022-09-13 23:42:56,756, trader, refit, Trader factor weigts clipped, -0.0012352896439242781, 133.11230909621833
+WARNING, 2022-09-13 23:42:57,821, trader, refit, Trader factor weigts clipped, -0.00031978252767839166, 2.0430899993470573
+WARNING, 2022-09-13 23:42:58,932, trader, refit, Trader factor weigts clipped, -1.4460849578443788, 0.16385174226255184
+INFO, 2022-09-13 23:43:00,355, company, aggr_update, 2022-05-01 21:00:00: Company Weights, -7.38401915538868, 7.031253642377612
+INFO, 2022-09-13 23:43:00,463, company, train, [Timestamp('2022-05-01 21:00:00'), 0.006652827115678558, -0.0002825333703736]
+INFO, 2022-09-13 23:43:00,463, company, train, Epoch 84 finished
+INFO, 2022-09-13 23:43:00,489, company, train, Epoch 85 start
+WARNING, 2022-09-13 23:43:16,880, trader, refit, Trader factor weigts clipped, -0.0003859972187398889, 3.309485074615822
+WARNING, 2022-09-13 23:43:25,011, trader, refit, Trader factor weigts clipped, -1.3274474473424152, 1.70281046478638
+WARNING, 2022-09-13 23:43:29,654, trader, refit, Trader factor weigts clipped, -0.001237166406833699, 133.2583189876179
+WARNING, 2022-09-13 23:43:30,917, trader, refit, Trader factor weigts clipped, -0.00031123983817238354, 2.0441889584212203
+WARNING, 2022-09-13 23:43:32,061, trader, refit, Trader factor weigts clipped, -1.4468748825215418, 0.16629866777469302
+WARNING, 2022-09-13 23:43:33,656, company, train_step, 2022-05-01 21:15:00 Fired 54 traders in replenish algorithm
+WARNING, 2022-09-13 23:43:45,452, trader, refit, Trader factor weigts clipped, -1.5880095834019288, 0.0007144682843418901
+WARNING, 2022-09-13 23:43:51,437, trader, refit, Trader factor weigts clipped, -0.07752970707276907, 222.21707652346703
+WARNING, 2022-09-13 23:43:54,117, trader, refit, Trader factor weigts clipped, -1.0610718328044837, 0.04455358855601554
+INFO, 2022-09-13 23:43:54,863, company, aggr_update, 2022-05-01 21:15:00: Company Weights, -15.109445158077737, 8.815040733927752
+INFO, 2022-09-13 23:43:54,988, company, train, [Timestamp('2022-05-01 21:15:00'), -0.00860900740090069, 0.0013065625486864]
+INFO, 2022-09-13 23:43:54,988, company, train, Epoch 85 finished
+INFO, 2022-09-13 23:43:55,026, company, train, Epoch 86 start
+WARNING, 2022-09-13 23:44:22,674, trader, refit, Trader factor weigts clipped, -0.08122002901483712, 224.54294997873654
+WARNING, 2022-09-13 23:44:25,345, trader, refit, Trader factor weigts clipped, -1.0609053288065877, 0.04437395301171916
+WARNING, 2022-09-13 23:44:26,842, company, train_step, 2022-05-01 21:30:00 Fired 55 traders in replenish algorithm
+WARNING, 2022-09-13 23:44:33,820, trader, refit, Trader factor weigts clipped, -3.1702858810175347, 0.05704127556233316
+WARNING, 2022-09-13 23:44:36,788, trader, refit, Trader factor weigts clipped, -6.316468934850521, 5.9942806144157315
+WARNING, 2022-09-13 23:44:37,427, trader, refit, Trader factor weigts clipped, -0.0003614223788881406, 103.52321748111258
+WARNING, 2022-09-13 23:44:40,151, trader, refit, Trader factor weigts clipped, -1.1548813373615785, 0.04028911054138849
+WARNING, 2022-09-13 23:44:43,318, trader, refit, Trader factor weigts clipped, -0.0004844112469428514, 1.1237761101054005
+INFO, 2022-09-13 23:44:46,650, company, aggr_update, 2022-05-01 21:30:00: Company Weights, -11.460205484294235, 10.079037171690054
+INFO, 2022-09-13 23:44:46,749, company, train, [Timestamp('2022-05-01 21:30:00'), 0.5420056321134058, 0.0006747353473085]
+INFO, 2022-09-13 23:44:46,749, company, train, Epoch 86 finished
+INFO, 2022-09-13 23:44:46,785, company, train, Epoch 87 start
+WARNING, 2022-09-13 23:45:04,524, trader, refit, Trader factor weigts clipped, -3.5090086115489307, 0.05711837341395857
+WARNING, 2022-09-13 23:45:07,068, trader, refit, Trader factor weigts clipped, -6.323974352338252, 6.001894111291953
+WARNING, 2022-09-13 23:45:07,849, trader, refit, Trader factor weigts clipped, -0.00032892800012952734, 101.24083778003993
+WARNING, 2022-09-13 23:45:10,727, trader, refit, Trader factor weigts clipped, -1.1526447433049039, 0.041341753841881705
+WARNING, 2022-09-13 23:45:13,976, trader, refit, Trader factor weigts clipped, -0.000508381916578689, 1.1133216514536908
+WARNING, 2022-09-13 23:45:17,423, company, train_step, 2022-05-01 21:45:00 Fired 52 traders in replenish algorithm
+WARNING, 2022-09-13 23:45:21,541, trader, refit, Trader factor weigts clipped, -11.66084300102421, 11.661404242800618
+WARNING, 2022-09-13 23:45:32,486, trader, refit, Trader factor weigts clipped, -1.011655403763518, 1.6563880433087128
+WARNING, 2022-09-13 23:45:32,906, trader, refit, Trader factor weigts clipped, -510.4559935616163, 510.4562815859829
+INFO, 2022-09-13 23:45:37,584, company, aggr_update, 2022-05-01 21:45:00: Company Weights, -11.644091475431061, 16.40846300044138
+INFO, 2022-09-13 23:45:37,690, company, train, [Timestamp('2022-05-01 21:45:00'), 2.1993483410434043, -0.0008482946773061]
+INFO, 2022-09-13 23:45:37,690, company, train, Epoch 87 finished
+INFO, 2022-09-13 23:45:37,726, company, train, Epoch 88 start
+WARNING, 2022-09-13 23:45:54,616, trader, refit, Trader factor weigts clipped, -12.174118546829295, 12.174671799267108
+WARNING, 2022-09-13 23:46:05,096, trader, refit, Trader factor weigts clipped, -0.9728541262880688, 1.6023819839143094
+WARNING, 2022-09-13 23:46:05,548, trader, refit, Trader factor weigts clipped, -513.0397057606873, 513.0400560784609
+WARNING, 2022-09-13 23:46:09,408, company, train_step, 2022-05-01 22:00:00 Fired 53 traders in replenish algorithm
+WARNING, 2022-09-13 23:46:11,117, trader, refit, Trader factor weigts clipped, -1.926894925826946, 1.9271292584190884
+WARNING, 2022-09-13 23:46:14,584, trader, refit, Trader factor weigts clipped, -0.0005989640686972782, 2.2301747239065604
+WARNING, 2022-09-13 23:46:16,862, trader, refit, Trader factor weigts clipped, -1.1547873533863384, 1.2340332872979365
+WARNING, 2022-09-13 23:46:19,078, trader, refit, Trader factor weigts clipped, -0.6326630103599113, 1.1911158593934124
+WARNING, 2022-09-13 23:46:23,252, trader, refit, Trader factor weigts clipped, -0.03232980824032245, 184.52911689901805
+WARNING, 2022-09-13 23:46:29,745, trader, refit, Trader factor weigts clipped, -2.3013921845490457, 2.8701578983059437
+INFO, 2022-09-13 23:46:29,749, company, aggr_update, 2022-05-01 22:00:00: Company Weights, -5.504395944925812, 5.850896929744049
+INFO, 2022-09-13 23:46:29,854, company, train, [Timestamp('2022-05-01 22:00:00'), -0.0007792530187794499, -0.0018056677570977]
+INFO, 2022-09-13 23:46:29,854, company, train, Epoch 88 finished
+INFO, 2022-09-13 23:46:29,894, company, train, Epoch 89 start
+WARNING, 2022-09-13 23:46:44,757, trader, refit, Trader factor weigts clipped, -1.9324347965844324, 1.932654947155309
+WARNING, 2022-09-13 23:46:48,372, trader, refit, Trader factor weigts clipped, -0.0005991434975208332, 2.229991531429105
+WARNING, 2022-09-13 23:46:50,639, trader, refit, Trader factor weigts clipped, -1.2011409601728618, 1.245034773304971
+WARNING, 2022-09-13 23:46:52,836, trader, refit, Trader factor weigts clipped, -0.6106314384025809, 1.2012281255489465
+WARNING, 2022-09-13 23:47:01,544, trader, refit, Trader factor weigts clipped, -2.332421420140437, 2.9044316463127102
+WARNING, 2022-09-13 23:47:01,944, company, train_step, 2022-05-01 22:15:00 Fired 54 traders in replenish algorithm
+WARNING, 2022-09-13 23:47:17,660, trader, refit, Trader factor weigts clipped, -3.285902456987592, 0.0004158746684629944
+INFO, 2022-09-13 23:47:21,820, company, aggr_update, 2022-05-01 22:15:00: Company Weights, -9.91773311348344, 8.633902618275807
+INFO, 2022-09-13 23:47:21,922, company, train, [Timestamp('2022-05-01 22:15:00'), -0.007662123828086061, -0.0012910618694221]
+INFO, 2022-09-13 23:47:21,922, company, train, Epoch 89 finished
+INFO, 2022-09-13 23:47:21,960, company, train, Epoch 90 start
+WARNING, 2022-09-13 23:47:49,135, trader, refit, Trader factor weigts clipped, -1.8362991827714268, 0.00043324859954093335
+WARNING, 2022-09-13 23:47:53,155, company, train_step, 2022-05-01 22:30:00 Fired 52 traders in replenish algorithm
+WARNING, 2022-09-13 23:47:57,646, trader, refit, Trader factor weigts clipped, -2.5839362826524597, 0.20293291295102753
+WARNING, 2022-09-13 23:47:59,401, trader, refit, Trader factor weigts clipped, -0.0009962973405126556, 135.54861572958345
+WARNING, 2022-09-13 23:48:04,806, trader, refit, Trader factor weigts clipped, -0.21992912251627983, 642.5684967686444
+WARNING, 2022-09-13 23:48:06,061, trader, refit, Trader factor weigts clipped, -0.0024616254403132557, 252.3570150400558
+INFO, 2022-09-13 23:48:13,173, company, aggr_update, 2022-05-01 22:30:00: Company Weights, -11.14776137512599, 6.639920460623776
+INFO, 2022-09-13 23:48:13,278, company, train, [Timestamp('2022-05-01 22:30:00'), 0.016482583850240623, 0.0001101982990504]
+INFO, 2022-09-13 23:48:13,278, company, train, Epoch 90 finished
+INFO, 2022-09-13 23:48:13,313, company, train, Epoch 91 start
+WARNING, 2022-09-13 23:48:31,501, trader, refit, Trader factor weigts clipped, -0.0010054393329499423, 146.2772375608854
+WARNING, 2022-09-13 23:48:36,822, trader, refit, Trader factor weigts clipped, -0.2254190671173559, 645.868188392267
+WARNING, 2022-09-13 23:48:37,951, trader, refit, Trader factor weigts clipped, -0.0025087084806248855, 252.67876616684273
+WARNING, 2022-09-13 23:48:45,651, company, train_step, 2022-05-01 22:45:00 Fired 52 traders in replenish algorithm
+WARNING, 2022-09-13 23:48:46,119, trader, refit, Trader factor weigts clipped, -0.035315709814177074, 560.4817416755612
+WARNING, 2022-09-13 23:48:48,349, trader, refit, Trader factor weigts clipped, -1.0420168354560608, 0.42121968899295337
+WARNING, 2022-09-13 23:48:49,425, trader, refit, Trader factor weigts clipped, -5.738743796503616, 0.019557704177216733
+WARNING, 2022-09-13 23:48:53,915, trader, refit, Trader factor weigts clipped, -1.698214223382999, 1.69735972621532
+WARNING, 2022-09-13 23:49:04,459, trader, refit, Trader factor weigts clipped, -1.598636405547345, 0.20805952860199575
+INFO, 2022-09-13 23:49:04,805, company, aggr_update, 2022-05-01 22:45:00: Company Weights, -45.02537642245866, 28.094422112261466
+INFO, 2022-09-13 23:49:04,904, company, train, [Timestamp('2022-05-01 22:45:00'), 0.014947770691063733, 0.0015940880661307]
+INFO, 2022-09-13 23:49:04,904, company, train, Epoch 91 finished
+INFO, 2022-09-13 23:49:04,941, company, train, Epoch 92 start
+WARNING, 2022-09-13 23:49:17,888, trader, refit, Trader factor weigts clipped, -0.03441282696417575, 569.6084329787801
+WARNING, 2022-09-13 23:49:20,011, trader, refit, Trader factor weigts clipped, -1.0257800277652294, 0.4265428588178587
+WARNING, 2022-09-13 23:49:25,002, trader, refit, Trader factor weigts clipped, -1.691707520710232, 1.6908234289828383
+WARNING, 2022-09-13 23:49:34,978, trader, refit, Trader factor weigts clipped, -1.648889984560556, 0.2135738315401456
+WARNING, 2022-09-13 23:49:35,684, company, train_step, 2022-05-01 23:00:00 Fired 52 traders in replenish algorithm
+WARNING, 2022-09-13 23:49:40,161, trader, refit, Trader factor weigts clipped, -454.0329106536225, 0.12246786775218728
+WARNING, 2022-09-13 23:49:42,672, trader, refit, Trader factor weigts clipped, -45.44216164100336, 45.441540491719124
+WARNING, 2022-09-13 23:49:46,225, trader, refit, Trader factor weigts clipped, -1.003831046646435, 0.00043765012223945243
+INFO, 2022-09-13 23:49:54,961, company, aggr_update, 2022-05-01 23:00:00: Company Weights, -14.708143331617396, 15.845811542590022
+INFO, 2022-09-13 23:49:55,061, company, train, [Timestamp('2022-05-01 23:00:00'), -0.08814799334997062, 0.0015214981681349]
+INFO, 2022-09-13 23:49:55,061, company, train, Epoch 92 finished
+INFO, 2022-09-13 23:49:55,102, company, train, Epoch 93 start
+WARNING, 2022-09-13 23:50:12,058, trader, refit, Trader factor weigts clipped, -449.88743392351125, 0.1181119505606713
+WARNING, 2022-09-13 23:50:14,527, trader, refit, Trader factor weigts clipped, -45.09209826396501, 45.09160256284969
+WARNING, 2022-09-13 23:50:17,946, trader, refit, Trader factor weigts clipped, -1.028906082261803, 0.0004478668591007262
+WARNING, 2022-09-13 23:50:20,815, trader, refit, Trader factor weigts clipped, -1.317283948547448, 0.0003997735551527161
+WARNING, 2022-09-13 23:50:25,592, company, train_step, 2022-05-01 23:15:00 Fired 54 traders in replenish algorithm
+WARNING, 2022-09-13 23:50:28,970, trader, refit, Trader factor weigts clipped, -1.1461428516592045, 0.0005801061728704162
+WARNING, 2022-09-13 23:50:31,840, trader, refit, Trader factor weigts clipped, -45.74929819475789, 0.00042520733114949263
+WARNING, 2022-09-13 23:50:34,855, trader, refit, Trader factor weigts clipped, -28.553585036926894, 0.0008751711783323657
+INFO, 2022-09-13 23:50:45,448, company, aggr_update, 2022-05-01 23:15:00: Company Weights, -39.41414658397433, 6.366040135843896
+INFO, 2022-09-13 23:50:45,557, company, train, [Timestamp('2022-05-01 23:15:00'), -0.00500827061053354, 0.0006749628138603]
+INFO, 2022-09-13 23:50:45,557, company, train, Epoch 93 finished
+INFO, 2022-09-13 23:50:45,599, company, train, Epoch 94 start
+WARNING, 2022-09-13 23:51:01,906, trader, refit, Trader factor weigts clipped, -1.1442962302973059, 0.00058225367778647
+WARNING, 2022-09-13 23:51:04,417, trader, refit, Trader factor weigts clipped, -50.01992902525564, 0.0004733811236671832
+WARNING, 2022-09-13 23:51:06,863, trader, refit, Trader factor weigts clipped, -27.203045957752817, 0.0008112290027123897
+WARNING, 2022-09-13 23:51:12,340, trader, refit, Trader factor weigts clipped, -1.004441940866235, 0.00104308241680328
+WARNING, 2022-09-13 23:51:17,182, company, train_step, 2022-05-01 23:30:00 Fired 55 traders in replenish algorithm
+WARNING, 2022-09-13 23:51:32,112, trader, refit, Trader factor weigts clipped, -0.0008931511228858759, 1.476341175185773
+INFO, 2022-09-13 23:51:38,026, company, aggr_update, 2022-05-01 23:30:00: Company Weights, -23.595264197440944, 26.208687231760862
+INFO, 2022-09-13 23:51:38,129, company, train, [Timestamp('2022-05-01 23:30:00'), 0.013339153169102941, 0.0076536761832994]
+INFO, 2022-09-13 23:51:38,129, company, train, Epoch 94 finished
+INFO, 2022-09-13 23:51:38,171, company, train, Epoch 95 start
+WARNING, 2022-09-13 23:52:03,750, trader, refit, Trader factor weigts clipped, -0.000898796366637892, 1.4710767336236867
+WARNING, 2022-09-13 23:52:09,084, company, train_step, 2022-05-01 23:45:00 Fired 53 traders in replenish algorithm
+WARNING, 2022-09-13 23:52:16,467, trader, refit, Trader factor weigts clipped, -0.05081356185853246, 1.6243278669088737
+WARNING, 2022-09-13 23:52:24,158, trader, refit, Trader factor weigts clipped, -1.5930682494687112, 0.5688777649601053
+WARNING, 2022-09-13 23:52:27,741, trader, refit, Trader factor weigts clipped, -0.0005629372842928915, 453.317036483631
+INFO, 2022-09-13 23:52:29,135, company, aggr_update, 2022-05-01 23:45:00: Company Weights, -7.820062437068003, 8.124274490513637
+INFO, 2022-09-13 23:52:29,236, company, train, [Timestamp('2022-05-01 23:45:00'), -0.03618619416099165, 0.00616484602682]
+INFO, 2022-09-13 23:52:29,236, company, train, Epoch 95 finished
+INFO, 2022-09-13 23:52:29,263, company, train, Epoch 96 start
+WARNING, 2022-09-13 23:52:46,892, trader, refit, Trader factor weigts clipped, -0.057340848341326064, 1.5715174059681933
+WARNING, 2022-09-13 23:52:53,877, trader, refit, Trader factor weigts clipped, -1.6070830681973312, 0.5905343786618154
+WARNING, 2022-09-13 23:52:57,341, trader, refit, Trader factor weigts clipped, -0.001071074293701487, 473.4286163991749
+WARNING, 2022-09-13 23:52:58,989, company, train_step, 2022-05-02 00:00:00 Fired 56 traders in replenish algorithm
+WARNING, 2022-09-13 23:53:03,365, trader, refit, Trader factor weigts clipped, -3.2622478583982644, 0.4282968754175661
+WARNING, 2022-09-13 23:53:03,752, trader, refit, Trader factor weigts clipped, -0.0016759355918623342, 4.259696134872622
+WARNING, 2022-09-13 23:53:04,146, trader, refit, Trader factor weigts clipped, -5.618565518124141, 5.6181218006444125
+WARNING, 2022-09-13 23:53:05,275, trader, refit, Trader factor weigts clipped, -0.0019636797030940963, 1.4707454997362448
+WARNING, 2022-09-13 23:53:08,136, trader, refit, Trader factor weigts clipped, -0.39524601560372796, 4.621223060802436
+WARNING, 2022-09-13 23:53:09,171, trader, refit, Trader factor weigts clipped, -1.908130140011613, 0.23750465008361304
+INFO, 2022-09-13 23:53:18,632, company, aggr_update, 2022-05-02 00:00:00: Company Weights, -10.175462382312489, 20.493987772190852
+INFO, 2022-09-13 23:53:18,728, company, train, [Timestamp('2022-05-02 00:00:00'), -0.03394552455702151, 0.0054434038478865]
+INFO, 2022-09-13 23:53:18,728, company, train, Epoch 96 finished
+INFO, 2022-09-13 23:53:18,758, company, train, Epoch 97 start
+WARNING, 2022-09-13 23:53:33,738, trader, refit, Trader factor weigts clipped, -3.1249027035807373, 0.39904698950960354
+WARNING, 2022-09-13 23:53:34,048, trader, refit, Trader factor weigts clipped, -5.389019930917319, 5.3886675005376405
+WARNING, 2022-09-13 23:53:35,155, trader, refit, Trader factor weigts clipped, -0.0019664112657763466, 1.3002099594185907
+WARNING, 2022-09-13 23:53:37,990, trader, refit, Trader factor weigts clipped, -0.3838704872300539, 4.7349577412513995
+WARNING, 2022-09-13 23:53:38,641, trader, refit, Trader factor weigts clipped, -1.8798753751355493, 0.22973119363663452
+WARNING, 2022-09-13 23:53:47,869, company, train_step, 2022-05-02 00:15:00 Fired 54 traders in replenish algorithm
+WARNING, 2022-09-13 23:53:48,987, trader, refit, Trader factor weigts clipped, -1.3233486835755754, 0.0006052039269704751
+WARNING, 2022-09-13 23:54:00,059, trader, refit, Trader factor weigts clipped, -49.004438439515454, 0.031134017184705955
+INFO, 2022-09-13 23:54:07,380, company, aggr_update, 2022-05-02 00:15:00: Company Weights, -11.592794811636036, 9.016117098918972
+INFO, 2022-09-13 23:54:07,480, company, train, [Timestamp('2022-05-02 00:15:00'), 0.04784620281266693, 0.007970763275858]
+INFO, 2022-09-13 23:54:07,480, company, train, Epoch 97 finished
+INFO, 2022-09-13 23:54:07,507, company, train, Epoch 98 start
+WARNING, 2022-09-13 23:54:20,382, trader, refit, Trader factor weigts clipped, -1.342586128285214, 0.0005353628487107579
+WARNING, 2022-09-13 23:54:23,396, trader, refit, Trader factor weigts clipped, -0.002016003557552185, 4.363175832772552
+WARNING, 2022-09-13 23:54:31,175, trader, refit, Trader factor weigts clipped, -47.58546819900219, 0.028841199321859985
+WARNING, 2022-09-13 23:54:37,126, company, train_step, 2022-05-02 00:30:00 Fired 52 traders in replenish algorithm
+WARNING, 2022-09-13 23:54:40,174, trader, refit, Trader factor weigts clipped, -0.0005939924588420012, 6.395867900188978
+WARNING, 2022-09-13 23:54:45,539, trader, refit, Trader factor weigts clipped, -1.9112502455698056e-05, 1.0488525004097313
+INFO, 2022-09-13 23:54:55,833, company, aggr_update, 2022-05-02 00:30:00: Company Weights, -27.298782904605726, 19.28120208378188
+INFO, 2022-09-13 23:54:55,953, company, train, [Timestamp('2022-05-02 00:30:00'), -0.044743053541383956, 0.0020243279139248]
+INFO, 2022-09-13 23:54:55,953, company, train, Epoch 98 finished
+INFO, 2022-09-13 23:54:55,979, company, train, Epoch 99 start
+WARNING, 2022-09-13 23:55:10,764, trader, refit, Trader factor weigts clipped, -0.0006741124891997788, 7.266641940941128
+WARNING, 2022-09-13 23:55:16,473, trader, refit, Trader factor weigts clipped, -5.3418304166434296e-06, 1.044528397290606
+WARNING, 2022-09-13 23:55:26,335, company, train_step, 2022-05-02 00:45:00 Fired 54 traders in replenish algorithm
+WARNING, 2022-09-13 23:55:33,113, trader, refit, Trader factor weigts clipped, -1.922085535158732, 1.9294089448820515
+WARNING, 2022-09-13 23:55:33,832, trader, refit, Trader factor weigts clipped, -0.6169698447562451, 1.0518095769308031
+WARNING, 2022-09-13 23:55:39,767, trader, refit, Trader factor weigts clipped, -0.0609521175033989, 5.082849797389917
+WARNING, 2022-09-13 23:55:45,541, trader, refit, Trader factor weigts clipped, -0.15114240029835743, 1.121317433997772
+INFO, 2022-09-13 23:55:46,192, company, aggr_update, 2022-05-02 00:45:00: Company Weights, -6.341109772224942, 7.414916805786074
+INFO, 2022-09-13 23:55:46,294, company, train, [Timestamp('2022-05-02 00:45:00'), 0.03170275047918552, 0.0007544597091397]
+INFO, 2022-09-13 23:55:46,294, company, train, Epoch 99 finished
+INFO, 2022-09-13 23:55:46,322, company, train, Epoch 100 start
+WARNING, 2022-09-13 23:56:05,241, trader, refit, Trader factor weigts clipped, -1.874591795984964, 1.8819447733001453
+WARNING, 2022-09-13 23:56:11,594, trader, refit, Trader factor weigts clipped, -0.05258331387289037, 6.093088464575491
+WARNING, 2022-09-13 23:56:17,234, company, train_step, 2022-05-02 01:00:00 Fired 54 traders in replenish algorithm
+WARNING, 2022-09-13 23:56:17,738, trader, refit, Trader factor weigts clipped, -0.0015847615894131195, 487.7357911951974
+WARNING, 2022-09-13 23:56:18,757, trader, refit, Trader factor weigts clipped, -0.0010896549011922135, 2.37419936678807
+WARNING, 2022-09-13 23:56:20,551, trader, refit, Trader factor weigts clipped, -47.98958610438953, 47.99019739439171
+WARNING, 2022-09-13 23:56:22,040, trader, refit, Trader factor weigts clipped, -163.5903978486337, 163.62154921160538
+WARNING, 2022-09-13 23:56:23,849, trader, refit, Trader factor weigts clipped, -47.7872613236739, 0.03973085647989984
+WARNING, 2022-09-13 23:56:26,436, trader, refit, Trader factor weigts clipped, -2.8988917993040144, 2.6193276655571394
+WARNING, 2022-09-13 23:56:28,887, trader, refit, Trader factor weigts clipped, -0.5680145986868212, 1.4489533115755175
+WARNING, 2022-09-13 23:56:29,630, trader, refit, Trader factor weigts clipped, -0.11001049968611883, 3.3033292873557265
+WARNING, 2022-09-13 23:56:31,127, trader, refit, Trader factor weigts clipped, -0.05779864158829297, 44.00024908538986
+WARNING, 2022-09-13 23:56:33,630, trader, refit, Trader factor weigts clipped, -7.145471246976346, 0.0008817527671287628
+INFO, 2022-09-13 23:56:36,801, company, aggr_update, 2022-05-02 01:00:00: Company Weights, -18.697572931590262, 45.588248486989535
+INFO, 2022-09-13 23:56:36,903, company, train, [Timestamp('2022-05-02 01:00:00'), 0.05829401780630461, -0.0016952255046497]
+INFO, 2022-09-13 23:56:36,903, company, train, Epoch 100 finished
+INFO, 2022-09-13 23:56:36,935, company, train, Epoch 101 start
+WARNING, 2022-09-13 23:56:50,162, trader, refit, Trader factor weigts clipped, -0.0016318198710223442, 489.610295235852
+WARNING, 2022-09-13 23:56:51,293, trader, refit, Trader factor weigts clipped, -0.0009907272109604681, 2.301223073177672
+WARNING, 2022-09-13 23:56:52,682, trader, refit, Trader factor weigts clipped, -47.29184605896683, 47.29244631496606
+WARNING, 2022-09-13 23:56:54,152, trader, refit, Trader factor weigts clipped, -147.27947029820538, 147.31288691326637
+WARNING, 2022-09-13 23:56:54,961, trader, refit, Trader factor weigts clipped, -0.002198456057634526, 4.360274566504815
+WARNING, 2022-09-13 23:56:56,395, trader, refit, Trader factor weigts clipped, -48.17322518790518, 0.03380537887572569
+WARNING, 2022-09-13 23:56:58,326, trader, refit, Trader factor weigts clipped, -2.8591775470647645, 2.5851589731383435
+WARNING, 2022-09-13 23:57:00,509, trader, refit, Trader factor weigts clipped, -0.5750142384163727, 1.4575268872392948
+WARNING, 2022-09-13 23:57:02,012, trader, refit, Trader factor weigts clipped, -0.05644785712557327, 43.985509292465906
+WARNING, 2022-09-13 23:57:08,189, company, train_step, 2022-05-02 01:15:00 Fired 55 traders in replenish algorithm
+WARNING, 2022-09-13 23:57:12,225, trader, refit, Trader factor weigts clipped, -353.27577907151556, 353.2752201713099
+WARNING, 2022-09-13 23:57:12,610, trader, refit, Trader factor weigts clipped, -0.7212606499674395, 4.859203313433705
+WARNING, 2022-09-13 23:57:16,017, trader, refit, Trader factor weigts clipped, -67.66774351339275, 0.03016202754970419
+WARNING, 2022-09-13 23:57:16,674, trader, refit, Trader factor weigts clipped, -1.6003417626254002, 1.6001499426168757
+WARNING, 2022-09-13 23:57:18,834, trader, refit, Trader factor weigts clipped, -4.819615273594619, 4.819803380936247
+WARNING, 2022-09-13 23:57:19,918, trader, refit, Trader factor weigts clipped, -1.0057406571939709, 0.11314322906308472
+WARNING, 2022-09-13 23:57:26,488, trader, refit, Trader factor weigts clipped, -5.181301977497305, 0.0002160535364530399
+INFO, 2022-09-13 23:57:28,352, company, aggr_update, 2022-05-02 01:15:00: Company Weights, -11.231462441921149, 13.566246912631993
+INFO, 2022-09-13 23:57:28,452, company, train, [Timestamp('2022-05-02 01:15:00'), -0.08150608061391107, -0.000397640808059]
+INFO, 2022-09-13 23:57:28,452, company, train, Epoch 101 finished
+INFO, 2022-09-13 23:57:28,479, company, train, Epoch 102 start
+WARNING, 2022-09-13 23:57:44,277, trader, refit, Trader factor weigts clipped, -0.7224247803845514, 4.899841066989828
+WARNING, 2022-09-13 23:57:46,002, trader, refit, Trader factor weigts clipped, -0.002003389052225158, 3.804013211869651
+WARNING, 2022-09-13 23:57:47,443, trader, refit, Trader factor weigts clipped, -67.4618280885984, 0.028036241946050377
+WARNING, 2022-09-13 23:57:48,159, trader, refit, Trader factor weigts clipped, -1.5336089852449637, 1.5334530101772001
+WARNING, 2022-09-13 23:57:49,808, trader, refit, Trader factor weigts clipped, -7.444012535726406, 7.444153302672535
+WARNING, 2022-09-13 23:57:50,921, trader, refit, Trader factor weigts clipped, -1.0009517211016719, 0.11920413084652497
+WARNING, 2022-09-13 23:57:56,455, trader, refit, Trader factor weigts clipped, -5.330380437366001, 0.0002453167659545851
+WARNING, 2022-09-13 23:57:58,625, company, train_step, 2022-05-02 01:30:00 Fired 55 traders in replenish algorithm
+WARNING, 2022-09-13 23:58:06,298, trader, refit, Trader factor weigts clipped, -1.8037820339835735, 0.17230663931951068
+WARNING, 2022-09-13 23:58:09,083, trader, refit, Trader factor weigts clipped, -1.098940368390179, -2.009818085516805e-05
+INFO, 2022-09-13 23:58:18,469, company, aggr_update, 2022-05-02 01:30:00: Company Weights, -25.468291124881283, 28.97604817073576
+INFO, 2022-09-13 23:58:18,569, company, train, [Timestamp('2022-05-02 01:30:00'), 1.6266885377733353, -0.0004722580934043]
+INFO, 2022-09-13 23:58:18,569, company, train, Epoch 102 finished
+INFO, 2022-09-13 23:58:18,618, company, train, Epoch 103 start
+WARNING, 2022-09-13 23:58:36,145, trader, refit, Trader factor weigts clipped, -1.8343741802313993, 0.1760308677552507
+WARNING, 2022-09-13 23:58:38,925, trader, refit, Trader factor weigts clipped, -1.0895567206773822, -3.132540717904421e-05
+WARNING, 2022-09-13 23:58:48,371, company, train_step, 2022-05-02 01:45:00 Fired 53 traders in replenish algorithm
+WARNING, 2022-09-13 23:59:01,912, trader, refit, Trader factor weigts clipped, -1.9299156059480496, 0.001510668414161088
+WARNING, 2022-09-13 23:59:02,617, trader, refit, Trader factor weigts clipped, -0.00028202461070632733, 721.2855492454562
+WARNING, 2022-09-13 23:59:04,029, trader, refit, Trader factor weigts clipped, -0.33628124936819004, 3.398443958439624
+WARNING, 2022-09-13 23:59:05,469, trader, refit, Trader factor weigts clipped, -0.0011224391030337983, 905.9692341964117
+INFO, 2022-09-13 23:59:06,881, company, aggr_update, 2022-05-02 01:45:00: Company Weights, -6.952979298563928, 6.5181097033902144
+INFO, 2022-09-13 23:59:06,981, company, train, [Timestamp('2022-05-02 01:45:00'), -0.18970060214862705, -0.0028162614962783]
+INFO, 2022-09-13 23:59:06,981, company, train, Epoch 103 finished
+INFO, 2022-09-13 23:59:07,008, company, train, Epoch 104 start
+WARNING, 2022-09-13 23:59:30,698, trader, refit, Trader factor weigts clipped, -1.9182982969065914, 0.0015185373048475525
+WARNING, 2022-09-13 23:59:31,426, trader, refit, Trader factor weigts clipped, -0.00038770299861074913, 717.1297210571387
+WARNING, 2022-09-13 23:59:32,855, trader, refit, Trader factor weigts clipped, -0.3474903021811114, 3.451978388412901
+WARNING, 2022-09-13 23:59:34,565, trader, refit, Trader factor weigts clipped, -0.0009716626766316895, 812.4340515766967
+WARNING, 2022-09-13 23:59:36,374, company, train_step, 2022-05-02 02:00:00 Fired 51 traders in replenish algorithm
+WARNING, 2022-09-13 23:59:47,741, trader, refit, Trader factor weigts clipped, -0.002921364210898644, 60.318265336628905
+WARNING, 2022-09-13 23:59:48,107, trader, refit, Trader factor weigts clipped, -166.55337978309183, 166.49654351001675
+INFO, 2022-09-13 23:59:55,708, company, aggr_update, 2022-05-02 02:00:00: Company Weights, -9.04068045528628, 6.9277782167092585
+INFO, 2022-09-13 23:59:55,804, company, train, [Timestamp('2022-05-02 02:00:00'), 0.1166479956190814, -0.0026329354133198]
+INFO, 2022-09-13 23:59:55,804, company, train, Epoch 104 finished
+INFO, 2022-09-13 23:59:55,831, company, train, Epoch 105 start
+WARNING, 2022-09-14 00:00:18,698, trader, refit, Trader factor weigts clipped, -0.0011426920953482318, 6.208084895757822
+WARNING, 2022-09-14 00:00:19,010, trader, refit, Trader factor weigts clipped, -39.72083484477602, 39.945209509385215
+WARNING, 2022-09-14 00:00:25,719, company, train_step, 2022-05-02 02:15:00 Fired 51 traders in replenish algorithm
+WARNING, 2022-09-14 00:00:27,564, trader, refit, Trader factor weigts clipped, -0.15020412068935335, 157.3659894653809
+WARNING, 2022-09-14 00:00:29,059, trader, refit, Trader factor weigts clipped, -40.41548330127997, 0.005397599386764046
+WARNING, 2022-09-14 00:00:32,372, trader, refit, Trader factor weigts clipped, -0.04526537675870261, 8.551895130157211
+WARNING, 2022-09-14 00:00:34,674, trader, refit, Trader factor weigts clipped, -324.43850812927207, 324.4409669765786
+WARNING, 2022-09-14 00:00:38,659, trader, refit, Trader factor weigts clipped, -0.0005919268651563707, 170.94861869420015
+INFO, 2022-09-14 00:00:44,273, company, aggr_update, 2022-05-02 02:15:00: Company Weights, -5.872645834052326, 9.709050355794767
+INFO, 2022-09-14 00:00:44,375, company, train, [Timestamp('2022-05-02 02:15:00'), -0.009383106482535628, -0.0025137264555105]
+INFO, 2022-09-14 00:00:44,375, company, train, Epoch 105 finished
+INFO, 2022-09-14 00:00:44,403, company, train, Epoch 106 start
+WARNING, 2022-09-14 00:00:59,030, trader, refit, Trader factor weigts clipped, -0.153521508195848, 163.5846848362516
+WARNING, 2022-09-14 00:01:00,047, trader, refit, Trader factor weigts clipped, -95.3611930492459, 0.00542778779503582
+WARNING, 2022-09-14 00:01:03,224, trader, refit, Trader factor weigts clipped, -0.061549551617310655, 7.783297518402637
+WARNING, 2022-09-14 00:01:05,074, trader, refit, Trader factor weigts clipped, -238.59541316931075, 238.59758544685556
+WARNING, 2022-09-14 00:01:10,160, trader, refit, Trader factor weigts clipped, -0.0007328332874409069, 178.38108514175426
+WARNING, 2022-09-14 00:01:15,646, company, train_step, 2022-05-02 02:30:00 Fired 51 traders in replenish algorithm
+WARNING, 2022-09-14 00:01:16,645, trader, refit, Trader factor weigts clipped, -0.0007011824694079594, 87.3207316096186
+WARNING, 2022-09-14 00:01:22,139, trader, refit, Trader factor weigts clipped, -1.2810258598009878, 0.00029418333574010916
+WARNING, 2022-09-14 00:01:25,865, trader, refit, Trader factor weigts clipped, -0.00039041505611372925, 5.830155548547355
+INFO, 2022-09-14 00:01:33,592, company, aggr_update, 2022-05-02 02:30:00: Company Weights, -6.40177136686601, 10.754669079897536
+INFO, 2022-09-14 00:01:33,689, company, train, [Timestamp('2022-05-02 02:30:00'), 0.06241003185898203, -0.0044194769326863]
+INFO, 2022-09-14 00:01:33,689, company, train, Epoch 106 finished
+INFO, 2022-09-14 00:01:33,714, company, train, Epoch 107 start
+WARNING, 2022-09-14 00:01:46,363, trader, refit, Trader factor weigts clipped, -0.0005979655812241337, 86.08232819561057
+WARNING, 2022-09-14 00:01:49,600, trader, refit, Trader factor weigts clipped, -195.74469257240546, 0.003395656146103196
+WARNING, 2022-09-14 00:01:52,707, trader, refit, Trader factor weigts clipped, -1.2941112109117336, 0.0002747720366848659
+WARNING, 2022-09-14 00:01:56,502, trader, refit, Trader factor weigts clipped, -0.00030474577649581007, 13.156739571483309
+WARNING, 2022-09-14 00:02:03,447, company, train_step, 2022-05-02 02:45:00 Fired 51 traders in replenish algorithm
+INFO, 2022-09-14 00:02:20,905, company, aggr_update, 2022-05-02 02:45:00: Company Weights, -21.765549523049646, 23.42027761271361
+INFO, 2022-09-14 00:02:21,000, company, train, [Timestamp('2022-05-02 02:45:00'), -0.21814715669323534, -0.0035951583519496]
+INFO, 2022-09-14 00:02:21,000, company, train, Epoch 107 finished
+INFO, 2022-09-14 00:02:21,026, company, train, Epoch 108 start

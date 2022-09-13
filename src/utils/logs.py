@@ -1,5 +1,6 @@
-import logging
 import datetime
+import logging
+import os
 
 
 def get_mainlogger() -> logging.Logger:
@@ -8,6 +9,7 @@ def get_mainlogger() -> logging.Logger:
 
     dt = datetime.datetime.now().strftime("%Y-%m-%d-%H-%M-%S")
 
+    os.makedirs("./logs/", exist_ok=True)
     handler1 = logging.FileHandler(f"./logs/{dt}.log")
     handler1.setLevel(logging.DEBUG)
 

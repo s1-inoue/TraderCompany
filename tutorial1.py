@@ -7,29 +7,19 @@ from tqdm import tqdm
 
 from src.company import Company
 from src.trader import Trader
-
+from src.utils import interval, target
 from src.utils.logs import main_logger
 
 logger = main_logger
 
-# df1 = pd.read_csv("./input/stocks/AAPL.csv")
-# df2 = pd.read_csv("./input/stocks/GOOGL.csv")
-# df3 = pd.read_csv("./input/stocks/INDEX.csv")
-# df = pd.concat([df1, df2, df3])
-# data = df.pivot(index="Date", columns="Symbol", values="LogReturn").dropna()
-# data.index = pd.to_datetime(data.index)
-# data = data.asfreq("1D")
-# data = data[data.index.dayofweek.isin([0,1,2,3,4])]
-# data = data.ffill()
 data = pd.read_csv("./input/pseudodata.csv")
 data = data.rename(columns={"Unnamed: 0": "Date"})
 data = data.set_index("Date")
 data.index = pd.to_datetime(data.index)
 
 pfs = []
-delta = pd.Timedelta(days=1)
-start = pd.Timestamp(year=2018, month=5, day=1)
-window = delta * 10
+start = pd.Timestamp(year=2022, month=5, day=1)
+window = interval * 10
 
 trader = Trader(logger=main_logger)
 trader._uniform_init()
@@ -49,7 +39,6 @@ company = Company(
     logger=logger
 )
 
-interval = timedelta(days=1)
 
 company.train(
     data,
@@ -66,7 +55,7 @@ for i in tqdm(range(100)):
 
     key = curtime.strftime("%Y-%m-%d")
     d[key] = [pred, data.loc[data.index == (
-        curtime+interval*(company.pmax)), "INDEX"].values[0]]
+        curtime+interval*(company.pmax)), target].values[0]]
 
 print(d)
 with open("./out2.json", "wt") as F:
