@@ -10,7 +10,7 @@ from tqdm import tqdm
 
 from .factor import construct
 from .trader import Trader
-from .utils import (Ntraders, eval_window, lag, pmax, q, ub_delay, ub_stock,
+from .utils import (Ntraders, eval_window, lag, pmax, q, ub_delay,
                     ub_terms, window, target)
 from .utils.selector import discretize
 
@@ -189,7 +189,7 @@ class Company:
         calib = np.clip(P, -1, 1)
         if P != calib:
             self.logger.warning(f"company output clipped, {P}")
-        return P
+        return calib
 
     def __repr__(self) -> str:
         trader_info = [(id(trader), sum(trader.performance), idx, trader.pred_history[-5:])  # noqa: E501

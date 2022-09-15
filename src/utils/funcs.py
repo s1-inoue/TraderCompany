@@ -11,7 +11,9 @@ def tanh(x: float) -> float:
 
 
 def exp(x: float) -> float:
-    return np.exp(x)
+    # return np.exp(x)
+    # Maclaurin expansion of exp around x ~ 0
+    return 1 + x
 
 
 def sign(x: float) -> np.ndarray:
